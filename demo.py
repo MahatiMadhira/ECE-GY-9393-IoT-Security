@@ -1,9 +1,10 @@
 import openai
+import os
 import pandas as pd
 
 # generate your api key on https://platform.openai.com/account/api-keys
-# and copy paste here
-openai.api_key = ""
+# and set up your key in OS (https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety)
+openai.api_key = os.environ['OPENAI_API_KEY']
 
 domains = pd.read_csv('domains.csv')
 

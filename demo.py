@@ -3,7 +3,7 @@ import pandas as pd
 
 # generate your api key on https://platform.openai.com/account/api-keys
 # and copy paste here
-openai.api_key = "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"
+openai.api_key = ""
 
 domains = pd.read_csv('domains.csv')
 

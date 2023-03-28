@@ -1,0 +1,82 @@
+completion = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[
+              {"role": "system", "content": "You are a network expert. Find out if the URL I provided is for tracking, marketing, advertising, analytics. Provide the response in JSON containing following fields: company, original URL, company website, description, result(yes/no)."},
+              {"role": "user", "content": "For the description filed, I want you to describe the use of that URL, not the company."},
+              {"role": "user", "content": "You don't need to provide explanations other than JSON"},
+              {"role": "user", "content": URL}
+            ],
+            n=1,
+            temperature=0.75
+          )
+          
+{
+    "company": "Google",
+    "original URL": "googleusercontent.com",
+    "company website": "https://www.google.com",
+    "description": "Domain used by Google to serve static content, such as images and files, to its users.",
+    "result": "no"
+}
+{
+  "company": "Google",
+  "original URL": "https://www.google.com/",
+  "company website": "https://www.google.com/",
+  "description": "Google is a search engine that provides a variety of services including search, maps, email, and more.",
+  "result": "no"
+}
+{
+  "company": "Google",
+  "original URL": "gstatic.com",
+  "company website": "https://www.google.com/",
+  "description": "gstatic.com is a domain used by Google to serve static content such as images, CSS, JavaScript and fonts. It is not used for tracking, marketing, advertising or analytics purposes.",
+  "result": "no"
+}
+{
+  "company": "Unknown",
+  "original URL": "nflxso.net",
+  "company website": "",
+  "description": "Unknown",
+  "result": "yes"
+}
+{
+   "company": "Netflix",
+   "original URL": "netflix.com",
+   "company website": "https://www.netflix.com/",
+   "description": "A subscription-based streaming service for movies and TV shows.",
+   "result": "no"
+}
+{
+  "company": "",
+  "original URL": "scdn.co",
+  "company website": "",
+  "description": "Possible content delivery network used for delivering images or other static assets on websites",
+  "result": "no"
+}
+{
+  "company": "Spotify",
+  "original URL": "spotify.com",
+  "company website": "https://www.spotify.com/",
+  "description": "Spotify is a digital music service that gives you access to millions of songs.",
+  "result": "no"
+}
+{
+  "company": "Netflix",
+  "original URL": "nflxext.com",
+  "company website": "https://www.netflix.com/",
+  "description": "This URL is used by Netflix to track user activities and to personalize their experience on the platform.",
+  "result": "yes"
+}
+{
+  "company": "Sentry",
+  "original URL": "sentry-cdn.com",
+  "company website": "https://sentry.io",
+  "description": "Sentry is an open-source error tracking and monitoring tool. The URL provided is most likely used for delivering static assets like images or scripts to the users of Sentry's website or web application.",
+  "result": "no"
+}
+{
+  "company": "Amazon Web Services",
+  "original URL": "amazonaws.com",
+  "company website": "https://aws.amazon.com/",
+  "description": "Amazon Web Services (AWS) is a cloud computing platform that provides a wide range of services including computing power, storage, and databases. The amazonaws.com domain is primarily used to host content for AWS customers and services.",
+  "result": "no"
+}

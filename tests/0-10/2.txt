@@ -1,0 +1,81 @@
+completion = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[
+              {"role": "system", "content": "You are a network expert. Find out if the URL I provided is for tracking, marketing, advertising, analytics. Provide the response in JSON containing following fields: company, original URL, company website, description, result(yes/no)."},
+              {"role": "user", "content": "For the description filed, I want you to describe the use of that URL in detail, not the company."},
+              {"role": "user", "content": "You don't need to provide explanations other than JSON"},
+              {"role": "user", "content": URL}
+            ],
+            n=1,
+            temperature=0.75
+          )
+{
+  "company": "Google",
+  "original URL": "googleusercontent.com",
+  "company website": "https://www.google.com/",
+  "description": "Googleusercontent.com is a domain owned by Google that is used for hosting user-generated content, such as images and documents, for use in various Google products, including Drive and Photos. It is not typically used for tracking, marketing, advertising, or analytics purposes.",
+  "result": "no"
+}
+{
+   "company": "Google",
+   "original URL": "https://www.google.com",
+   "company website": "https://www.google.com/",
+   "description": "Google's main website used for search engine, email, maps, cloud storage and other online services.",
+   "result": "no"
+}
+{
+  "company": "Google",
+  "original URL": "gstatic.com",
+  "company website": "https://www.google.com/",
+  "description": "gstatic.com is a domain owned by Google that is used to host static resources like images, JavaScript, CSS, etc. It is commonly used by websites that use Google services such as Google Maps and Google Fonts. The resources hosted on this domain are served from a global network of servers, which helps to speed up website loading times for users around the world.",
+  "result": "no"
+}
+{
+    "company": "Not found",
+    "original URL": "nflxso.net",
+    "company website": "",
+    "description": "This URL does not appear to be associated with any known tracking, marketing, advertising or analytics company. However, further investigation may be needed to determine its actual use.",
+    "result": "no"
+}
+{
+  "company": "Netflix",
+  "original URL": "netflix.com",
+  "company website": "https://www.netflix.com/",
+  "description": "Netflix's URL is primarily used for streaming video content to users who have subscribed to their service. While Netflix does use user data to inform its content recommendations, it does not use this URL for tracking, marketing, advertising or analytics purposes.",
+  "result": "no"
+}
+{
+  "company": "Scdn.co",
+  "original URL": "https://scdn.co/js/ads.js",
+  "company website": "https://scdn.co/",
+  "description": "Scdn.co is a content delivery network that provides fast and reliable delivery of content such as images, videos, and scripts to websites. The provided URL is for a JavaScript file that may be used for various purposes such as tracking, marketing, advertising, or analytics depending on how it is implemented by the website owner.",
+  "result": "yes"
+}
+{
+    "company": "Spotify",
+    "original URL": "spotify.com",
+    "company website": "https://www.spotify.com/",
+    "description": "Spotify is a digital music service that provides access to millions of songs, podcasts, and videos from artists all over the world. The original URL, spotify.com, is used by Spotify to provide access to their website and their music streaming service.",
+    "result": "no"
+}
+{
+  "company": "Netflix",
+  "original URL": "nflxext.com",
+  "company website": "https://www.netflix.com/",
+  "description": "The URL appears to be used for tracking and analytics purposes by Netflix. It is likely used to track user behavior and preferences on the Netflix platform, and to collect data for analytics and advertising purposes. ",
+  "result": "yes"
+}
+{
+  "company": "Sentry",
+  "original URL": "sentry-cdn.com",
+  "company website": "https://sentry.io/",
+  "description": "sentry-cdn.com is a Content Delivery Network (CDN) used by Sentry to deliver static content, such as JavaScript and CSS files, to users. The CDN helps to speed up the delivery of content by caching it on servers located closer to the user's location, reducing the latency and improving the user experience.",
+  "result": "no"
+}
+{
+    "company": "Amazon Web Services",
+    "original URL": "amazonaws.com",
+    "company website": "https://aws.amazon.com/",
+    "description": "Amazon Web Services (AWS) provides a collections of remote computing services including computing, storage, databases, analytics, networking, mobile, developer tools, management tools, IoT, security and enterprise applications. The URL 'amazonaws.com' is used by AWS to host and deliver these services to its customers.",
+    "result": "no"
+}

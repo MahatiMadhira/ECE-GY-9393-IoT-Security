@@ -1,0 +1,81 @@
+completion = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[
+              {"role": "system", "content": "You are a network expert. Find out if the URL I provided is for tracking, marketing, advertising, analytics. Provide the response in JSON containing following fields: company, original URL, company website, description(30 to 100 words), result(yes/no)."},
+              {"role": "user", "content": "For the description filed, I want you to describe the use of that URL, not the company."},
+              {"role": "user", "content": "You don't need to provide explanations other than JSON"},
+              {"role": "user", "content": URL}
+            ],
+            n=1,
+            temperature=0.85
+          )
+{
+   "company": "Google",
+   "originalURL": "googleusercontent.com",
+   "companyWebsite": "https://www.google.com/",
+   "description": "googleusercontent.com is a domain used by Google to host user-generated content. The content hosted on this domain includes images, documents, and other files that are shared by Google Drive users. This domain is not used for tracking, marketing, advertising or analytics purposes.",
+   "result": "no"
+}
+{
+  "company": "Google",
+  "original URL": "https://www.google.com/",
+  "company website": "https://www.google.com/",
+  "description": "Google is a search engine that offers a simple and easy-to-use interface to find information on the web. It provides fast and relevant search results and also offers various services like email, calendar, and cloud storage.",
+  "result": "no"
+}
+{
+  "company": "Google",
+  "original URL": "gstatic.com",
+  "company website": "https://www.google.com/",
+  "description": "gstatic.com is a domain owned by Google that hosts static resources like images, CSS and JavaScript files. These resources may be used for various purposes, including website analytics, advertising, and enhancing user experience. However, the domain itself is not used for direct tracking, marketing or advertising.",
+  "result": "no"
+}
+{
+  "company": "Unknown",
+  "original URL": "nflxso.net",
+  "company website": "",
+  "description": "The purpose of the provided URL is not clear, and no information is available about its intended use. However, based on the domain name and TLD, it is likely that it is not associated with any reputable company or organization.",
+  "result": "No"
+}
+{
+   "company": "Netflix",
+   "original URL": "netflix.com",
+   "company website": "https://www.netflix.com",
+   "description": "Netflix is a streaming service that allows users to watch a wide variety of award-winning TV shows, movies, documentaries, and more on thousands of internet-connected devices. The website netflix.com is used as the main platform where users can sign up, browse the library, manage their accounts, and watch the content.",
+   "result": "no"
+}
+{
+  "company": "Unknown",
+  "original URL": "scdn.co",
+  "company website": "",
+  "description": "The provided URL is a domain name used to host content such as images, videos, and other media files on websites. It is impossible to determine whether it is used for tracking, marketing, advertising, or analytics without further information.",
+  "result": "Unknown"
+}
+{
+  "company": "Spotify",
+  "original URL": "spotify.com",
+  "company website": "https://www.spotify.com/",
+  "description": "Spotify is a music streaming platform that allows users to play and share music. The URL provided is the main domain for Spotify.",
+  "result": "no"
+}
+{
+   "company": "Netflix",
+   "original URL": "nflxext.com",
+   "company website": "https://www.netflix.com/",
+   "description": "nflxext.com is a domain owned by Netflix and is used to track user engagement and browsing behavior on the Netflix platform. It is used for the purpose of enhancing user experience, recommending titles to users based on their viewing history and personal preferences, and for improving the overall performance and functionality of the Netflix service.",
+   "result": "yes"
+}
+{
+   "company": "Sentry",
+   "original URL": "sentry-cdn.com",
+   "company website": "https://sentry.io",
+   "description": "Sentry-cdn.com is a content delivery network (CDN) used by Sentry, a cloud-based error monitoring platform, to serve its static assets such as JavaScript and CSS files for faster page loads and improved user experience.",
+   "result": "no"
+}
+{
+  "company": "",
+  "original URL": "amazonaws.com",
+  "company website": "",
+  "description": "Amazon Web Services (AWS) is a cloud-based computing platform provided by Amazon, which includes a wide range of services for building and hosting applications and websites. The URL amazonaws.com is associated with various cloud-based services provided by Amazon, including storage, compute, and database services, as well as analytics and machine learning services.",
+  "result": "no"
+}

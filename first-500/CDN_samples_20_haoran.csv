@@ -1,0 +1,62 @@
+,remote_hostname,company,company_website,result,WHOIS,Browser,New Bing/Internet,My deduce
+311,hotspotproxy.live,hotspotproxy.live,https://hotspotproxy.live/,CDN,unavailable,unavailable,unavailable,a proxy for hotspot
+374,plexapp.com,Plex,https://www.plex.tv/,CDN,"owned by Domains by Proxy, this is a company managing other companies' domains to avoid third party contacts",redirect to plex.tv,"Plexapp.com is a domain name that is used for Plex?. Plex is a media server that allows you to organize your media files and stream them to any device?. It was originally designed to utilize videos stored in a remote location so that you could stream them on a device?. It has since evolved into a media server that can stream music, photos, and other types of media?. You can also download music from Plexamp for offline listening or even share the service with friends and family¹.
+
+I hope this helps!
+
+Source: Conversation with Bing, 3/30/2023(1) What is Plex? Everything you need to know | Tom's Guide. https://www.tomsguide.com/reference/what-is-plex Accessed 3/30/2023.
+(2) What Is Plex Pass, and Do You Need It? – Review Geek. https://www.reviewgeek.com/131973/what-is-plex-pass-and-do-you-need-it/ Accessed 3/30/2023.
+(3) Plexamp - Love your music!. https://plexamp.com/ Accessed 3/30/2023.
+(4) Plexamp | Plex. https://www.plex.tv/en-gb/plexamp/ Accessed 3/30/2023.
+(5) Plex Review | PCMag. https://www.pcmag.com/reviews/plex Accessed 3/30/2023.
+(6) 12 Plex Tricks and Tips You Really Need to Know - MUO. https://www.makeuseof.com/tag/plex-tricks-tips-need-know/ Accessed 3/30/2023.",plexapp.com may be the domain used to provide service for devices
+180,itunes.com,Apple,https://www.apple.com,CDN,Apple Inc.,redirected to iTunes download page,,should be a first-party or support domain.
+21,akamaihd.net,Akamai Technologies,https://www.akamai.com/,CDN,"Akamai Technologies, Inc.",unavailable,"Akamaihd.net is a content delivery platform used by some of the biggest tech companies in the world to stream audio and video and host downloads¹. It's not a virus or any other form of malware¹. However, there are browser hijackers whose distributors use Akamai hosting, which means that their URLs have “Akamaihd.net” in them¹. If you are attacked by a browser hijacker, you may notice redirects to an Akamaihd.net address².
+
+I hope this helps!
+
+Source: Conversation with Bing, 3/30/2023(1) What is Akamaihd.net and how to remove it? - macpaw.com. https://bing.com/search?q=what+is+akamaihd.net+used+for Accessed 3/30/2023.
+(2) Akamaihd.net Redirect (Mac) - Removal steps, and macOS cleanup (updated). https://www.pcrisk.com/removal-guides/16657-akamaihd-net-redirect-mac Accessed 3/30/2023.
+(3) How to remove A.akamaihd.net redirects (Windows and Mac). https://www.bugsfighter.com/remove-a-akamaihd-net-redirects-windows-and-mac/ Accessed 3/30/2023.
+(4) Security for DocuSign eSignature | Docusign. https://www.docusign.com/trust/security/esignature Accessed 3/30/2023.",
+90,samsungotn.net,Samsung,https://www.samsung.com/,CDN,"Samsung Electronics CO., Ltd",authorization required,didn't find anython useful,"otn maybe stand for optical transport network, this domain maybe used for optimizing network spped/quality"
+397,acquia.com,Acquia,https://www.acquia.com/,CDN,On behalf of acquia.com owner,homepage of Acuqia,"Acquia is a software-as-a-service company co-founded by Dries Buytaert and Jay Batson to provide enterprise products, services, and technical support for the open-source web content management platform Drupal¹. Acquia's digital experience platform empowers the world’s most ambitious brands to embrace innovation and create customer moments that matter². Acquia is helping some of the world’s leading brands succeed, including Warner Music Group, and Stanford University². More than 4,000 organizations are using Acquia’s solutions for content, community and commerce².
+
+I hope this helps!
+
+Source: Conversation with Bing, 3/30/2023(1) Acquia - Wikipedia. https://en.wikipedia.org/wiki/Acquia Accessed 3/30/2023.
+(2) About Us | Acquia. https://www.acquia.com/about-us Accessed 3/30/2023.
+(3) Digital Experience Platform for Content, Community, Commerce | Acquia. https://www.acquia.com/ Accessed 3/30/2023.","SaaS, they do provide CDN services for their platform(https://docs.acquia.com/guide/cloud-ace/#platform-cdn-service), but this is a company with many other services: Yes, Acquia provides a comprehensive set of tools that enable marketers to engage more effectively with their customers³. Acquia Marketing Cloud provides real-time customer data, personalized content, and seamless cross-channel experiences³. It offers a cloud marketing platform that gives businesses and marketers the power to automate, personalize, and measure the entire customer lifecycle¹.
+
+Acquia Campaign Studio has everything you need to improve efficiency without complicating campaign management². As your business scales, Acquia Campaign Factory allows the fast and seamless deployment, management, and tracking of multiple Campaign Studio instances².
+
+I hope this helps!
+
+Source: Conversation with Bing, 3/30/2023(1) Everything you need to personalize, connect with customers | Acquia. https://www.acquia.com/marketingcloud Accessed 3/30/2023.
+(2) Cloud Marketing Platform | Acquia. https://www.acquia.com/resources/cloud-marketing-platform Accessed 3/30/2023.
+(3) Campaign Studio | Acquia. https://www.acquia.com/products/marketing-cloud/campaign-studio Accessed 3/30/2023.
+(4) About Us | Acquia. https://www.acquia.com/about-us Accessed 3/30/2023.
+(5) Digital Experience Platform for Content, Community, Commerce | Acquia. https://www.acquia.com/ Accessed 3/30/2023.
+(6) Examples of web event tracking — Acquia Docs. https://docs.acquia.com/customer-data-platform/data-integration/webtags/web-event-tracking/ Accessed 3/30/2023."
+483,cdn-apple.com,Apple Inc.,https://www.apple.com/,CDN,Apple Inc.,unavailable,"cdn-apple.com is a domain name owned by Apple Inc. It is used for various purposes such as content distribution network (CDN) for Apple's software updates, iCloud services, and other Apple services¹?. It is also used for Apple Push Notifications³. 
+
+I hope this helps!
+
+Source: Conversation with Bing, 3/30/2023(1) What Apple's new content delivery network means for net ... - Macworld. https://www.macworld.com/article/223950/what-apples-new-content-delivery-network-means-for-net-neutrality-and-for-you.html Accessed 3/30/2023.
+(2) iCloud. https://icloud.cdn-apple.com/ Accessed 3/30/2023.
+(3) Use Apple products on enterprise networks - Apple Support. https://support.apple.com/en-us/HT210060 Accessed 3/30/2023.
+(4) Whois cdn-apple.com. https://www.whois.com/whois/cdn-apple.com Accessed 3/30/2023.
+(5) cdn-apple.com not reachable - Apple Community. https://discussions.apple.com/thread/251246367 Accessed 3/30/2023.","yes, it looks like a cdn"
+4,netflix.com,Streaming media provider,https://www.netflix.com/,CDN,"Netflix, Inc.",homepage,,it should be a first/support party
+390,media-allrecipes.com,Allrecipes,https://www.allrecipes.com/,CDN,"This domain is registered by Meredith Operations Corporation, the parent company of allrecipes",unavailable,,I think it is a CDN
+350,sc-static.net,"Akamai Technologies, Inc.",https://www.akamai.com/,CDN,,,,
+197,ssl-images-amazon.com,Amazon,https://www.amazon.com/,CDN,,,,
+61,azureedge.net,Microsoft,https://www.microsoft.com/,CDN,,,,
+14,amazonvideo.com,Amazon,https://www.amazon.com,CDN,,,,
+24,nflxvideo.net,Netflix,https://www.netflix.com/,CDN,,,,
+234,avcdn.net,Akamai Technologies,https://www.akamai.com/,CDN,,,,
+423,aiv-cdn.net,AIV,https://www.aiv-inc.com/,CDN,,,,
+124,samsungcloud.com,Samsung,https://www.samsung.com/,CDN,,,,
+153,uplynk.com,Uplynk,https://www.uplynk.com/,CDN,,,,
+494,windowsupdate.com,Microsoft Corporation,https://www.microsoft.com,CDN,,,,
+349,ampproject.net,Google,https://www.google.com/,CDN,,,,

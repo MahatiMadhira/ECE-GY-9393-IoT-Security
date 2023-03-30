@@ -1,105 +1,105 @@
 remote_hostname,company,company_website,result
-googleusercontent.com,,,
-google.com,,,
-gstatic.com,,,
-nflxso.net,,,
-netflix.com,,,
-scdn.co,,,
-spotify.com,,,
-nflxext.com,,,
-sentry-cdn.com,,,
-amazonaws.com,,,
-youtube.com,,,
-ytimg.com,,,
-gvt2.com,,,
-amazon.com,,,
-amazonvideo.com,,,
-roku.com,,,
-googlevideo.com,,,
-conviva.com,,,
-ggpht.com,,,
-googlesyndication.com,,,
-media-amazon.com,,,
-akamaihd.net,,,
-doubleclick.net,,,
-googleadservices.com,,,
-nflxvideo.net,,,
-aiv-delivery.net,,,
-hbogo.com,,,
-hbo.com,,,
-dns.google,,,
-mgo-images.com,,,
-mgo.com,,,
-rokutime.com,,,
-plex.direct,,,
-ampproject.org,,,
-omtrdc.net,,,
-plex.tv,,,
-gvt1.com,,,
-cloudfront.net,,,
-akamaiedge.net,,,
-akamaitechnologies.com,,,
-wp.com,,,
-domotz.com,,,
-app-measurement.com,,,
-supersonicads.com,,,
-1e100.net,,,
-tlnk.io,,,
-footprint.net,,,
-apigee.net,,,
-mtvnservices.com,,,
-slack-imgs.com,,,
-futurecdn.net,,,
-smarterhq.io,,,
-googleapis.com,,,
-microsoft.com,,,
-msedge.net,,,
-gmail.com,,,
-facebook.com,,,
-whatsapp.net,,,
-bugsnag.com,,,
-android.com,,,
-izatcloud.net,,,
-azureedge.net,,,
-crashlytics.com,,,
-apptimize.com,,,
-eum-appdynamics.com,,,
-onesignal.com,,,
+googleusercontent.com,Google,https://www.google.com/,CDN
+google.com,Google,https://www.google.com/,DNS
+gstatic.com,Google,https://www.google.com/,CDN
+nflxso.net,Netflix,https://www.netflix.com/,CDN
+netflix.com,Netflix,https://www.netflix.com/,content delivery network (CDN)
+scdn.co,StackPath,https://www.stackpath.com/,CDN
+spotify.com,Spotify,https://www.spotify.com/,Marketing
+nflxext.com,Netflix,https://www.netflix.com/,CDN
+sentry-cdn.com,Sentry,https://sentry.io/,CDN
+amazonaws.com,Amazon,https://aws.amazon.com/,CDN
+youtube.com,Youtube,https://www.youtube.com/,CDN
+ytimg.com,Google,https://www.google.com/,CDN
+gvt2.com,CDN,https://www.gvt.net.br/,The provided URL points to a content delivery network (CDN) known as GVT. It is a service designed to improve website performance by distributing content across multiple servers located in different regions to reduce latency and enable faster content delivery to end-users.
+amazon.com,CDN,https://aws.amazon.com/cloudfront/,"The provided URL is for the Amazon CloudFront CDN (Content Delivery Network), which is used to distribute static and dynamic web content (such as images, videos, and scripts) to users from multiple global locations, with high availability and low latency."
+amazonvideo.com,Amazon,https://www.amazon.com/,CDN
+roku.com,Roku,roku.com,marketing
+googlevideo.com,CDN,https://www.google.com/drive/,The purpose of the provided URL is to serve as a content delivery network (CDN) for Google Drive videos.
+conviva.com,Conviva,https://www.conviva.com/,analytics
+ggpht.com,Google,https://www.google.com/,CDN
+googlesyndication.com,Google,https://www.google.com/,advertising
+media-amazon.com,Amazon,https://www.amazon.com/,CDN
+akamaihd.net,"Akamai Technologies, Inc.",https://www.akamai.com/,CDN
+doubleclick.net,DoubleClick,https://www.doubleclick.net/,advertising
+googleadservices.com,Google,https://www.google.com/,advertising
+nflxvideo.net,Netflix,https://www.netflix.com/,CDN
+aiv-delivery.net,AIV,https://www.aiv-inc.com/,CDN
+hbogo.com,HBO,https://www.hbo.com/,first-party host
+hbo.com,HBO,https://www.hbo.com,first-party host
+dns.google,Google,https://www.google.com/,DNS
+mgo-images.com,CDN,https://en.wikipedia.org/wiki/Content_delivery_network,"The provided URL seems to be a content delivery network (CDN) used to distribute images and other static content to users globally, reducing latency and increasing website performance."
+mgo.com,MGO,https://www.mgo.com/,It is not possible to determine the purpose of the URL without additional information.
+rokutime.com,Unknown,,"Cannot determine the purpose of the URL. It could be used for various purposes such as tracking, marketing, advertising, analytics, CDN, static server, DNS or first-party host."
+plex.direct,Plex,https://www.plex.tv/,CDN
+ampproject.org,Google,https://www.google.com/,CDN
+omtrdc.net,Adobe,https://www.adobe.com/,analytics
+plex.tv,Plex,https://www.plex.tv/,static server
+gvt1.com,Advertising,https://gvt1.com/,The provided URL seems to be associated with an advertising company.
+cloudfront.net,Amazon,https://aws.amazon.com/,CDN
+akamaiedge.net,Akamai Technologies,https://www.akamai.com/,Content Delivery Network (CDN)
+akamaitechnologies.com,Akamai Technologies,https://www.akamai.com/,CDN
+wp.com,Automattic,https://automattic.com/,{'purpose': 'static server'}
+domotz.com,Domotz,https://www.domotz.com/,network monitoring and management solution
+app-measurement.com,Google,https://www.google.com/,analytics
+supersonicads.com,Supersonic,https://www.ironsrc.com/,advertising
+1e100.net,Google,https://www.google.com/,CDN
+tlnk.io,TLNK,https://tlnk.io/,marketing
+footprint.net,CDN,https://www.footprint.net/,The purpose of the provided URL is to deliver content through a Content Delivery Network (CDN).
+apigee.net,Apigee,https://apigee.com/,CDN
+mtvnservices.com,MTV Networks,http://www.mtv.com/,CDN
+slack-imgs.com,CDN,https://slack.com,The provided URL is a Content Delivery Network (CDN) used by Slack to serve images for their service.
+futurecdn.net,Future Hosting,https://www.futurehosting.com/,CDN
+smarterhq.io,SmarterHQ,https://smarterhq.io/,marketing
+googleapis.com,Google,https://www.google.com/,CDN
+microsoft.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+msedge.net,Microsoft Corporation,https://www.microsoft.com/,CDN
+gmail.com,Google LLC,https://www.google.com/,{'purpose': 'first-party host'}
+facebook.com,Facebook,https://www.facebook.com/,marketing
+whatsapp.net,WhatsApp,https://www.whatsapp.com/,CDN
+bugsnag.com,Bugsnag,https://www.bugsnag.com/,analytics
+android.com,Google,https://www.google.com/,marketing
+izatcloud.net,Izatcloud,https://izatcloud.net/,DNS
+azureedge.net,Microsoft,https://www.microsoft.com/,CDN
+crashlytics.com,Crashlytics,https://try.crashlytics.com/,analytics
+apptimize.com,Apptimize,https://www.apptimize.com/,A/B Testing and Mobile Feature Management
+eum-appdynamics.com,AppDynamics,https://www.appdynamics.com/,marketing
+onesignal.com,OneSignal,onesignal.com,marketing
 acompli.net,,,
-truecaller.com,,,
-vivintsky.com,,,
-wzrkt.com,,,
-discover.com,,,
+truecaller.com,Truecaller,https://www.truecaller.com/,marketing
+vivintsky.com,Vivint,https://www.vivint.com/,marketing
+wzrkt.com,wzrkt,https://www.wzrkt.com/,marketing
+discover.com,Discover Financial Services,https://www.discover.com/,marketing
 samsungiotcloud.com,,,
-hulu.com,,,
-googletagservices.com,,,
-samsungcloudsolution.net,,,
-samsungacr.com,,,
-elasticbeanstalk.com,,,
-google-analytics.com,,,
-amazoncrl.com,,,
-2mdn.net,,,
-app.link,,,
-feedburner.com,,,
-pluto.tv,,,
-pavv.co.kr,,,
-internetat.tv,,,
-samsungcloudsolution.com,,,
-samsungelectronics.com,,,
-majorleaguegaming.com,,,
-samsungqbe.com,,,
-samsungads.com,,,
-samsungotn.net,,,
+hulu.com,"Hulu, LLC",https://www.hulu.com/,marketing
+googletagservices.com,Google,https://www.google.com/,advertising
+samsungcloudsolution.net,Samsung Cloud Solution,https://www.samsungcloudsolution.com/,marketing
+samsungacr.com,Samsung,https://www.samsung.com/,Advertising
+elasticbeanstalk.com,Amazon,https://aws.amazon.com/,static server
+google-analytics.com,Google,https://www.google.com/,analytics
+amazoncrl.com,Amazon,https://www.amazon.com/,DNS
+2mdn.net,Google,https://www.google.com/,advertising
+app.link,Branch,https://branch.io/,marketing
+feedburner.com,FeedBurner,https://www.feedburner.com/,marketing
+pluto.tv,Pluto TV,https://pluto.tv/,Streaming and live TV platform
+pavv.co.kr,Pavv,https://www.pavv.co.kr,static server
+internetat.tv,Internet@TV,https://internetat.tv/,DNS
+samsungcloudsolution.com,Samsung,https://www.samsung.com/,marketing
+samsungelectronics.com,Samsung Electronics,https://www.samsung.com/,first-party host
+majorleaguegaming.com,Major League Gaming,https://www.majorleaguegaming.com/,marketing
+samsungqbe.com,Samsung,https://www.samsung.com/,marketing
+samsungads.com,Samsung Ads,https://samsungads.com/,advertising
+samsungotn.net,Samsung,https://www.samsung.com,CDN
 samsungrm.net,,,
-fbcdn.net,,,
-rwth-aachen.de,,,
-mparticle.com,,,
-pki.goog,,,
-yahoo.com,,,
-vidible.tv,,,
-kochava.com,,,
-thehill.com,,,
-adcolony.com,AdColony,https://www.adcolony.com,advertising
+fbcdn.net,Facebook,https://www.facebook.com/,CDN
+rwth-aachen.de,RWTH Aachen University,https://www.rwth-aachen.de/,first-party host
+mparticle.com,mparticle,https://www.mparticle.com/,marketing
+pki.goog,Google,www.google.com,"{'purpose': 'PKI (Public Key Infrastructure) server', 'description': ""pki.goog is a Public Key Infrastructure (PKI) server run by Google. Its purpose is to manage digital certificates and public keys for Google's various online services, such as Gmail, Google Drive, and Google Search. PKI servers are essential for secure communication online, as they allow for the authentication of digital identities and the encryption of sensitive data.""}"
+yahoo.com,Yahoo,https://www.yahoo.com/,marketing
+vidible.tv,Vidible,https://www.vidible.tv/,video CDN
+kochava.com,Kochava,https://www.kochava.com/,tracking
+thehill.com,The Hill,https://thehill.com/,news publisher
+adcolony.com,,,
 flurry.com,,,
 ueiwsp.com,,,
 aptoide.com,,,

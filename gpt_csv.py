@@ -18,34 +18,61 @@ total_count = domains.count()
 
 start_time = time.time()
 
-for i in range(0, 100):
+for i in range(100, 300):
     print('start no.' + str(i))
-    URL = domains.iloc[i]["remote_hostname"]
-    completion = openai.ChatCompletion.create(
-        model="gpt-3.5-turbo",
-        messages=[
-            {
-                "role": "system",
-                "content": "You are a network expert. Find out the purpose of the provided URL (choose one out of the options: tracking, marketing, advertising, analytics, CDN, static server, DNS, first-party host).  Response in JSON containing following fields: company, company_website, result. Respond in JSON only.",
-            },
-            {"role": "user", "content": URL},
-        ],
-        n=1,
-        temperature=0.85,
-    )
-    
-    # convert str to json
-    print(completion.choices[0].message.content)
+    completion = None
     try:
-        resp = json.loads(completion.choices[0].message.content)
-        domains.loc[i, ['company','company_website','result']] = [resp['company'], resp['company_website'], resp['result']]
-    except Exception:
-        print(str(i) + ' is wrong=======================')
-        continue
+        URL = domains.iloc[i]["remote_hostname"]
+        completion = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {
+                    "role": "system",
+                    "content": "You are a network expert. Find out the purpose of the provided URL (choose one out of the options: tracking, marketing, advertising, analytics, CDN, static server, DNS, first-party host).  Response in JSON containing following fields: company, company_website, result. Respond in JSON only.",
+                },
+                {"role": "user", "content": URL},
+            ],
+            n=1,
+            temperature=0.85,
+        )
+        
+        # convert str to json
+        print(completion.choices[0].message.content)
+        try:
+            resp = json.loads(completion.choices[0].message.content)
+            domains.loc[i, ['company','company_website','result']] = [resp['company'], resp['company_website'], resp['result']]
+        except Exception:
+            print(str(i) + ' is wrong=======================')
+            continue
+
+    except Exception as e:
+        print(str(e))
+        time.sleep(10)
+        completion = openai.ChatCompletion.create(
+            model="gpt-3.5-turbo",
+            messages=[
+                {
+                    "role": "system",
+                    "content": "You are a network expert. Find out the purpose of the provided URL (choose one out of the options: tracking, marketing, advertising, analytics, CDN, static server, DNS, first-party host).  Response in JSON containing following fields: company, company_website, result. Respond in JSON only.",
+                },
+                {"role": "user", "content": URL},
+            ],
+            n=1,
+            temperature=0.85,
+        )
+        print('===============================Exception handled=============================')
+        try:
+            resp = json.loads(completion.choices[0].message.content)
+            domains.loc[i, ['company','company_website','result']] = [resp['company'], resp['company_website'], resp['result']]
+        except Exception:
+            print(str(i) + ' is wrong=======================')
+            continue
+
+    
     
 
 
-domains.to_csv('output0to100.csv', index=False)
+domains.to_csv('output100to300.csv', index=False)
 
 end_time = time.time()
 time_used = end_time - start_time

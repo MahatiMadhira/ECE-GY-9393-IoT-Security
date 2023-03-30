@@ -99,206 +99,206 @@ yahoo.com,,,
 vidible.tv,,,
 kochava.com,,,
 thehill.com,,,
-adcolony.com,AdColony,https://www.adcolony.com,advertising
-flurry.com,,,
+adcolony.com,AdColony,https://www.adcolony.com/,advertising
+flurry.com,Flurry,https://www.flurry.com/,analytics
 ueiwsp.com,,,
-aptoide.com,,,
-ottmon.net,,,
-philo.com,,,
-viki.io,,,
-duckdns.org,,,
-mweb.co.za,,,
-akamaized.net,,,
-playstation.net,,,
-intercom.io,,,
-hotspotproxy.co,,,
-mineproxy.club,,,
-playstation.com,,,
-epicgames.com,,,
-unrealengine.com,,,
-vivox.com,,,
-narvii.com,,,
-epicgames.net,,,
-ravm.tv,,,
-samsung.com,,,
-samsungosp.com,,,
-ntp.org,,,
-samsungcloud.com,,,
-samsungapps.com,,,
-signal.org,,,
-disquscdn.com,,,
-weather.com,,,
-linkedin.com,,,
-whispersystems.org,,,
-googletagmanager.com,,,
-moatads.com,,,
-adnxs.com,,,
-optimizely.com,,,
-bidswitch.net,,,
-chartbeat.net,,,
-sitescout.com,,,
-att.com,,,
-permutive.com,,,
-lookout.com,,,
+aptoide.com,Aptoide,https://aptoide.com/,app store
+ottmon.net,OTT Monitor,https://www.ottmonitor.net/,analytics
+philo.com,philo,https://www.philo.com/,marketing
+viki.io,Viki,https://www.viki.com/,static server
+duckdns.org,Duck DNS,https://www.duckdns.org/,DNS
+mweb.co.za,MWEB,https://www.mweb.co.za/,first-party host
+akamaized.net,Akamai Technologies,https://www.akamai.com/,CDN
+playstation.net,Sony Interactive Entertainment LLC,https://www.sie.com/,first-party host
+intercom.io,Intercom,https://www.intercom.com/,marketing
+hotspotproxy.co,Hotspot Shield,https://www.hotspotshield.com/,VPN and proxy service provider
+mineproxy.club,Unknown,,"Cannot determine the purpose of mineproxy.club. It could be a proxy server or a Minecraft server, but there is insufficient information to determine its intended use."
+playstation.com,Sony Interactive Entertainment LLC,https://www.playstation.com/,first-party host
+epicgames.com,Epic Games,https://www.epicgames.com/,first-party host
+unrealengine.com,Epic Games,https://www.epicgames.com,CDN
+vivox.com,Vivox,https://www.vivox.com/,CDN
+narvii.com,Amino Apps,https://aminoapps.com/,marketing
+epicgames.net,Epic Games,https://www.epicgames.com/,first-party host
+ravm.tv,RAVM,https://ravm.tv/,static server
+samsung.com,Samsung,https://www.samsung.com/,First-party host
+samsungosp.com,Samsung,https://www.samsung.com,first-party host
+ntp.org,NTP Project,http://www.ntp.org/,DNS
+samsungcloud.com,Samsung,https://www.samsung.com/,CDN
+samsungapps.com,Samsung,https://www.samsung.com/,App Store for Samsung devices
+signal.org,Signal Messenger,https://signal.org/,messaging and communication
+disquscdn.com,Disqus,https://disqus.com/,CDN
+weather.com,The Weather Channel,https://weather.com/,first-party host
+linkedin.com,LinkedIn Corporation,https://www.linkedin.com/,marketing
+whispersystems.org,"Signal Messenger, LLC",https://signal.org/,first-party host
+googletagmanager.com,Google,https://www.google.com/,analytics
+moatads.com,Moat,https://moat.com/,advertising
+adnxs.com,AppNexus,https://www.appnexus.com/,advertising
+optimizely.com,Optimizely,https://www.optimizely.com/,marketing
+bidswitch.net,BidSwitch,https://www.bidswitch.com/,marketing
+chartbeat.net,Chartbeat,https://chartbeat.com/,analytics
+sitescout.com,Sitescout,https://www.sitescout.com,advertising
+att.com,AT&T,https://www.att.com/,DNS
+permutive.com,Permutive,https://permutive.com/,advertising
+lookout.com,Lookout,www.lookout.com,security and privacy technology
 lkt.is,,,
-telenet.be,,,
-gravatar.com,,,
-imrworldwide.com,,,
-krxd.net,,,
-evidon.com,,,
-scorecardresearch.com,,,
-agkn.com,,,
-demdex.net,,,
-innovid.com,,,
-extremereach.io,,,
-insightexpressai.com,,,
-uplynk.com,,,
-doubleverify.com,,,
-spotxchange.com,,,
-fqtag.com,,,
-adsrvr.org,,,
-cogocast.net,,,
-pippio.com,,,
-apxlv.com,,,
-extend.tv,,,
-rlcdn.com,,,
-videoamp.com,,,
-mdhv.io,,,
-litix.io,,,
-discovery.com,,,
-att.net,,,
-akadns.net,,,
-apple.com,,,
-cloudflare.net,,,
-fitbit.com,,,
-appdynamics.com,,,
-apple-dns.net,,,
-icloud.com,,,
-aaplimg.com,,,
-mixpanel.com,,,
-mozilla.org,,,
-localytics.com,,,
-att-idns.net,,,
-itunes.com,,,
-honeywell.com,,,
-game-mode.net,,,
-images-amazon.com,,,
+telenet.be,Telenet,https://www.telenet.be,DNS
+gravatar.com,Gravatar,https://en.gravatar.com/,CDN
+imrworldwide.com,IMR Worldwide,https://www.imrworldwide.com/,analytics
+krxd.net,"Krux Digital, LLC",https://www.salesforce.com/products/marketing-cloud/customer-data-platform/what-is-a-cdp/,analytics
+evidon.com,Evidon,https://evidon.com/,marketing
+scorecardresearch.com,Comscore,https://www.comscore.com/,analytics
+agkn.com,Akamai Technologies,https://www.akamai.com/,CDN
+demdex.net,Adobe,https://www.adobe.com/,tracking
+innovid.com,Innovid,https://www.innovid.com/,marketing
+extremereach.io,Extreme Reach,https://www.extremereach.com/,marketing
+insightexpressai.com,InsightExpressAI,https://www.insightexpressai.com/,analytics
+uplynk.com,Uplynk,https://www.uplynk.com/,CDN
+doubleverify.com,DoubleVerify,https://www.doubleverify.com,marketing
+spotxchange.com,SpotX,https://www.spotx.tv/,advertising
+fqtag.com,FQtag,https://fqtag.com/,marketing
+adsrvr.org,The Trade Desk,https://www.thetradedesk.com/,advertising
+cogocast.net,Cogocast,https://cogocast.net/,marketing
+pippio.com,Pippio,https://www.pippio.com/,advertising
+apxlv.com,APXLV,https://apxlv.com/,marketing
+extend.tv,Extend,https://extend.tv/,CDN
+rlcdn.com,Akamai Technologies,https://www.akamai.com/,CDN
+videoamp.com,VideoAmp,https://videoamp.com/,advertising
+mdhv.io,Unknown,,The purpose of mdhv.io cannot be determined as it is a parked domain with no active website or content.
+litix.io,Litix,https://www.litix.io/,CDN
+discovery.com,Discovery Inc.,https://corporate.discovery.com/,marketing
+att.net,AT&T,https://www.att.com/,DNS
+akadns.net,Akamai Technologies,https://www.akamai.com/,DNS
+apple.com,Apple,https://www.apple.com/,CDN
+cloudflare.net,Cloudflare,https://www.cloudflare.com/,CDN
+fitbit.com,Fitbit,https://www.fitbit.com/,marketing
+appdynamics.com,AppDynamics,https://www.appdynamics.com/,analytics
+apple-dns.net,DNS,https://en.wikipedia.org/wiki/Domain_Name_System,This URL is used for Domain Name System (DNS) purposes. It is likely associated with Apple's DNS servers.
+icloud.com,Apple Inc.,https://www.apple.com/,first-party host
+aaplimg.com,Apple Inc.,https://www.apple.com/,CDN
+mixpanel.com,Mixpanel,https://mixpanel.com/,analytics
+mozilla.org,Mozilla,https://www.mozilla.org/,"{'purpose': 'first-party host', 'description': 'The provided URL belongs to Mozilla, which uses it as a first-party host for its own website and services.'}"
+localytics.com,Localytics,https://www.localytics.com/,analytics
+att-idns.net,AT&T,https://www.att.com/,DNS
+itunes.com,Apple,https://www.apple.com/,first-party host
+honeywell.com,Honeywell,https://www.honeywell.com/,first-party host
+game-mode.net,Unknown,,"It is not possible to determine the purpose of the provided URL with certainty as there is no clear indication of its usage. However, based on the domain name, game-mode.net may be related to gaming or game servers."
+images-amazon.com,Amazon,https://www.amazon.com/,CDN
 sfx.ms,,,
-usinternet.com,,,
-leanplum.com,,,
-wikimedia.org,,,
-adjust.com,,,
-mozilla.net,,,
-pinterest.com,,,
-phncdn.com,,,
-skype.com,,,
-mozilla.com,,,
-dropbox.com,,,
-trustarc.com,,,
-dropboxapi.com,,,
-ssl-images-amazon.com,,,
-wikipedia.org,,,
-audible.com,,,
-icfcdn.com,,,
-mopub.com,,,
-adtng.com,,,
-etahub.com,,,
-trafficjunky.net,,,
-flipboard.com,,,
-thisamericanlife.org,,,
-itsup.com,,,
-asuscomm.com,,,
-netcabo.pt,,,
-telepac.pt,,,
-proxy4.win,,,
-proxygo.us,,,
-hotspotproxy.gq,,,
-proxygo.club,,,
-demandbase.com,,,
-twimg.com,,,
-facebook.net,,,
-livetelegram.cc,,,
-llnwd.net,,,
-jtvnw.net,,,
-ampme.com,,,
-sonyentertainmentnetwork.com,,,
-comcast.net,,,
-rr.com,,,
-sl-reverse.com,,,
-myactv.net,,,
-cloudapp.net,,,
-setaptr.net,,,
-servercontrol.com.au,,,
-unmetered.com,,,
-azure.com,,,
-edgecastcdn.net,,,
-amazon.co.uk,,,
-avcdn.net,,,
-ea.com,,,
-ubi.com,,,
-respawn.com,,,
-sitestream.net,,,
-musical.ly,,,
-ubisoft.com,,,
-ondemand.com,,,
-goguardian.com,,,
-withgoogle.com,,,
-hshh.org,,,
-insigniaproducts.com,,,
-urbanairship.com,,,
-amazon-dss.com,,,
+usinternet.com,US Internet Corp,https://fiber.usinternet.com/,ISP (Internet Service Provider)
+leanplum.com,Leanplum,https://www.leanplum.com/,marketing
+wikimedia.org,"Wikimedia Foundation, Inc.",https://wikimediafoundation.org/,first-party host
+adjust.com,Adjust,https://www.adjust.com/,marketing
+mozilla.net,Mozilla,https://www.mozilla.org,DNS
+pinterest.com,Pinterest,https://www.pinterest.com/,marketing
+phncdn.com,Pornhub,https://www.pornhub.com/,CDN
+skype.com,Skype,https://www.skype.com/,marketing
+mozilla.com,Mozilla,https://www.mozilla.org/,first-party host
+dropbox.com,Dropbox,https://www.dropbox.com,cloud storage and collaboration
+trustarc.com,TrustArc,https://www.trustarc.com/,marketing
+dropboxapi.com,Dropbox,https://www.dropbox.com/,CDN
+ssl-images-amazon.com,Amazon,https://www.amazon.com/,CDN
+wikipedia.org,"Wikipedia Foundation, Inc.",https://wikimediafoundation.org/,"{'purpose': 'Static server', 'explanation': 'The provided URL belongs to the Wikimedia Foundation, which is a non-profit organization that operates Wikipedia and other free knowledge projects. The purpose of the URL is to serve static content, such as text, images, and other media files, to users accessing Wikipedia. Static servers are used to deliver content quickly and efficiently, without requiring extensive processing or dynamic content generation.'}"
+audible.com,Audible,www.audible.com,marketing
+icfcdn.com,ICF International,https://www.icf.com/,CDN
+mopub.com,MoPub,https://www.mopub.com/,advertising
+adtng.com,ADTNG,https://www.adtng.com/,advertising
+etahub.com,CDN,https://www.etahub.com/,"The provided URL is for a Content Delivery Network (CDN), which is responsible for delivering various types of content to users from multiple servers to increase performance and availability."
+trafficjunky.net,TrafficJunky,https://www.trafficjunky.com/,advertising
+flipboard.com,Flipboard,flipboard.com,content discovery and social curation platform
+thisamericanlife.org,This American Life,https://www.thisamericanlife.org/,first-party host
+itsup.com,IT Support Guys,https://itsupportguys.com/,first-party host
+asuscomm.com,ASUS,https://www.asus.com/,DNS
+netcabo.pt,Netcabo,https://www.netcabo.pt/,DNS
+telepac.pt,Telepac,https://www.telepac.pt/,DNS
+proxy4.win,Unknown,,Unable to determine the purpose of the provided URL
+proxygo.us,ProxyGo LLC,https://proxygo.us/,CDN
+hotspotproxy.gq,,,Invalid URL
+proxygo.club,Unknown,,DNS
+demandbase.com,Demandbase,https://www.demandbase.com/,marketing
+twimg.com,Twitter Inc.,https://www.twitter.com,CDN
+facebook.net,Facebook,https://www.facebook.com/,advertising
+livetelegram.cc,Unknown,,DNS
+llnwd.net,Limelight Networks,https://www.limelight.com/,CDN
+jtvnw.net,Akamai Technologies,https://www.akamai.com/,CDN
+ampme.com,AmpMe,https://www.ampme.com/,marketing
+sonyentertainmentnetwork.com,Sony,https://www.sony.com/,first-party host
+comcast.net,Comcast,https://www.comcastcorporation.com/,"{'purpose': 'Internet Service Provider', 'description': 'Comcast.net is the primary domain used by Comcast to provide internet services to its customers.'}"
+rr.com,Spectrum,https://www.spectrum.com/,DNS
+sl-reverse.com,SL-Reverse,https://sl-reverse.com/,DNS
+myactv.net,Antietam Broadband,https://www.antietambroadband.com/,DNS
+cloudapp.net,CloudApp,https://www.getcloudapp.com/,CDN
+setaptr.net,Setaptr,https://setaptr.net/,DNS
+servercontrol.com.au,Server Control,https://www.servercontrol.com.au/,DNS
+unmetered.com,CDN77,https://www.cdn77.com/,CDN
+azure.com,Microsoft,https://www.microsoft.com/,"{'purpose': {'CDN': True, 'static server': True, 'DNS': True}, 'description': ""Azure.com is a static server, CDN and DNS service used by Microsoft's cloud platform, Azure. It is used to host static content, such as images, CSS, and JavaScript files, and to distribute content to end-users through a global network of servers, reducing latency and improving performance. It also serves as a DNS service, providing domain name resolution for Microsoft's cloud services and applications.""}"
+edgecastcdn.net,Verizon Media,https://www.verizonmedia.com/,CDN
+amazon.co.uk,CDN,https://www.amazon.com,The purpose of the provided URL is to host static content and deliver it efficiently to users worldwide using Amazon's Content Delivery Network (CDN).
+avcdn.net,AVCTV GmbH,https://avctv.de/,CDN
+ea.com,Electronic Arts,https://www.ea.com/,marketing
+ubi.com,UBI Soft Entertainment,https://www.ubisoft.com,marketing
+respawn.com,Respawn Entertainment,https://www.respawn.com/,static server
+sitestream.net,CDN77,https://www.cdn77.com/,CDN
+musical.ly,musical.ly,https://www.musical.ly/,marketing
+ubisoft.com,Ubisoft Entertainment,https://www.ubisoft.com/,first-party host
+ondemand.com,CDN,https://ondemand.com/,"The provided URL seems to belong to a Content Delivery Network (CDN) company, which is used to deliver content such as images, videos, HTML pages, and other static assets to end-users more quickly and reliably."
+goguardian.com,GoGuardian,https://www.goguardian.com/,marketing
+withgoogle.com,Google,https://www.google.com/,DNS
+hshh.org,N/A,N/A,The purpose of hshh.org cannot be determined as it does not exist or is not currently accessible.
+insigniaproducts.com,Insignia Products,https://www.insigniaproducts.com,first-party host
+urbanairship.com,Urban Airship,https://www.urbanairship.com/,marketing
+amazon-dss.com,Amazon,https://www.amazon.com/,CDN
 a2z.com,,,
-akamai.net,,,
-sonos.com,,,
-amazon-adsystem.com,,,
-usatoday.com,,,
-gannett-cdn.com,,,
-wpdigital.net,,,
-amazonalexa.com,,,
-duapps.com,,,
-ntp-fireos.com,,,
-amazonsilk.com,,,
-bbci.co.uk,,,
-tapas.net,,,
-msftncsi.com,,,
-foldlife.net,,,
-amazonmusic.com,,,
-dropcam.com,,,
-edgekey.net,,,
-mzstatic.com,,,
-launchdarkly.com,,,
-advg.vip,,,
-truste.com,,,
-adrta.com,,,
-tvpixel.com,,,
-placed.com,,,
-samba.tv,,,
-stickyadstv.com,,,
-mookie1.com,,,
+akamai.net,Akamai Technologies,https://www.akamai.com/,CDN
+sonos.com,Sonos,https://www.sonos.com/,static server
+amazon-adsystem.com,Amazon,https://www.amazon.com/,advertising
+usatoday.com,USA Today,https://www.usatoday.com/,static server
+gannett-cdn.com,Gannett,https://www.gannett.com/,CDN
+wpdigital.net,WPDigital,https://wpdigital.net/,marketing
+amazonalexa.com,Amazon,https://www.amazon.com/,DNS
+duapps.com,DU Apps,https://www.duapps.com/,marketing
+ntp-fireos.com,Unknown,,DNS
+amazonsilk.com,Amazon,https://www.amazon.com/,CDN
+bbci.co.uk,BBC,https://www.bbc.com/,{'purpose': 'first-party host'}
+tapas.net,Tapas Media,https://tapas.io/,first-party host
+msftncsi.com,Microsoft Corporation,https://www.microsoft.com/,DNS
+foldlife.net,Foldlife,foldlife.net,static server
+amazonmusic.com,Amazon,https://www.amazon.com/,DNS
+dropcam.com,Dropcam,https://www.dropcam.com/,marketing
+edgekey.net,Akamai Technologies,https://www.akamai.com/,Content Delivery Network (CDN)
+mzstatic.com,Apple Inc.,https://www.apple.com/,CDN
+launchdarkly.com,LaunchDarkly,https://launchdarkly.com/,first-party host
+advg.vip,ADVG,https://advg.vip/,marketing
+truste.com,TrustArc,https://www.trustarc.com/,DNS
+adrta.com,Adrta,https://adrta.com/,advertising
+tvpixel.com,TVSquared,https://tvsquared.com/,tracking
+placed.com,Placed,https://www.placed.com/,marketing
+samba.tv,Samba TV,https://samba.tv/,tracking
+stickyadstv.com,StickyAdsTV,https://www.stickyadstv.com/,advertising
+mookie1.com,AppNexus,https://www.appnexus.com/,advertising
 imtwjwoasak.com,,,
-qbk1.com,,,
-bluecava.com,,,
-movetv.com,,,
-sling.com,,,
-twitter.com,,,
-cdninstagram.com,,,
-office.com,,,
-t.co,,,
-reddit.com,,,
-instagram.com,,,
-microsoftonline.com,,,
-sc-cdn.net,,,
-one.one,,,
-appspot.com,,,
-paypal.com,,,
-snapchat.com,,,
-office365.com,,,
-3gppnetwork.org,,,
-dynatrace.com,,,
-pusher.com,,,
-redd.it,,,
-gfycat.com,,,
-tile-api.com,,,
+qbk1.com,Unknown,,Unable to determine the purpose of the provided URL
+bluecava.com,BlueCava,https://www.bluecava.com/,marketing
+movetv.com,Move Networks,https://www.movetechsolutions.com/,CDN
+sling.com,Sling TV,https://www.sling.com/,streaming service
+twitter.com,Twitter,https://twitter.com/,marketing
+cdninstagram.com,Facebook,https://www.facebook.com/,CDN
+office.com,Microsoft Corporation,https://www.microsoft.com,first-party host
+t.co,Twitter,https://twitter.com/,URL shortening service for links shared on Twitter platform
+reddit.com,Reddit,https://www.redditinc.com/,first-party host
+instagram.com,Facebook,https://www.facebook.com/,marketing
+microsoftonline.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+sc-cdn.net,StackPath,https://www.stackpath.com/,CDN
+one.one,Cloudflare,https://www.cloudflare.com/,DNS
+appspot.com,Google,https://www.google.com/,static server
+paypal.com,PayPal,https://www.paypal.com,DNS
+snapchat.com,Snap Inc.,https://www.snap.com/,marketing
+office365.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+3gppnetwork.org,3GPP,https://www.3gpp.org/,DNS
+dynatrace.com,Dynatrace,https://www.dynatrace.com/,analytics
+pusher.com,Pusher,https://pusher.com/,real-time messaging service and API provider
+redd.it,Reddit,https://www.redditinc.com/,first-party host
+gfycat.com,Gfycat,https://gfycat.com/,CDN
+tile-api.com,Tile,https://www.thetileapp.com/,tracking
 ticktick.com,,,
 statuspage.io,,,
 trusteer.com,,,

@@ -18,7 +18,7 @@ total_count = domains.count()
 
 start_time = time.time()
 
-for i in range(100, 300):
+for i in range(0, 500):
     print('start no.' + str(i))
     completion = None
     try:
@@ -47,7 +47,7 @@ for i in range(100, 300):
 
     except Exception as e:
         print(str(e))
-        time.sleep(10)
+        time.sleep(8)
         completion = openai.ChatCompletion.create(
             model="gpt-3.5-turbo",
             messages=[
@@ -61,6 +61,7 @@ for i in range(100, 300):
             temperature=0.85,
         )
         print('===============================Exception handled=============================')
+        print(completion.choices[0].message.content)
         try:
             resp = json.loads(completion.choices[0].message.content)
             domains.loc[i, ['company','company_website','result']] = [resp['company'], resp['company_website'], resp['result']]
@@ -72,7 +73,7 @@ for i in range(100, 300):
     
 
 
-domains.to_csv('output100to300.csv', index=False)
+domains.to_csv('first500_haoran.csv', index=False)
 
 end_time = time.time()
 time_used = end_time - start_time

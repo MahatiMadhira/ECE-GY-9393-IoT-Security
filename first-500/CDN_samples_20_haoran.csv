@@ -49,14 +49,77 @@ Source: Conversation with Bing, 3/30/2023(1) What Apple's new content delivery n
 (5) cdn-apple.com not reachable - Apple Community. https://discussions.apple.com/thread/251246367 Accessed 3/30/2023.","yes, it looks like a cdn"
 4,netflix.com,Streaming media provider,https://www.netflix.com/,CDN,"Netflix, Inc.",homepage,,it should be a first/support party
 390,media-allrecipes.com,Allrecipes,https://www.allrecipes.com/,CDN,"This domain is registered by Meredith Operations Corporation, the parent company of allrecipes",unavailable,,I think it is a CDN
-350,sc-static.net,"Akamai Technologies, Inc.",https://www.akamai.com/,CDN,,,,
-197,ssl-images-amazon.com,Amazon,https://www.amazon.com/,CDN,,,,
-61,azureedge.net,Microsoft,https://www.microsoft.com/,CDN,,,,
-14,amazonvideo.com,Amazon,https://www.amazon.com,CDN,,,,
-24,nflxvideo.net,Netflix,https://www.netflix.com/,CDN,,,,
-234,avcdn.net,Akamai Technologies,https://www.akamai.com/,CDN,,,,
-423,aiv-cdn.net,AIV,https://www.aiv-inc.com/,CDN,,,,
-124,samsungcloud.com,Samsung,https://www.samsung.com/,CDN,,,,
-153,uplynk.com,Uplynk,https://www.uplynk.com/,CDN,,,,
-494,windowsupdate.com,Microsoft Corporation,https://www.microsoft.com,CDN,,,,
-349,ampproject.net,Google,https://www.google.com/,CDN,,,,
+350,sc-static.net,"Akamai Technologies, Inc.",https://www.akamai.com/,CDN,owned by snapchat,unavailable,"from whotracksme.com, it is am advertising site",advertising
+197,ssl-images-amazon.com,Amazon,https://www.amazon.com/,CDN,"Amazon Technologies, Inc.",unavailbale,"ssl-images-amazon.com is a subdomain of Amazon.com that is used to host images for Amazon products¹. It's used to serve images for Amazon products that are displayed on Amazon's website¹. The subdomain name suggests that it uses SSL/TLS encryption to secure the connection between the user's browser and the server³.
+
+Source: Conversation with Bing, 3/30/2023(1) How to access Amazon images with https (AWSECommerceService). https://stackoverflow.com/questions/40430694/how-to-access-amazon-images-with-https-awsecommerceservice Accessed 3/30/2023.
+(2) What Is An SSL Certificate? - SSL/TLS Certificate Explained - AWS. https://aws.amazon.com/what-is/ssl-certificate/ Accessed 3/30/2023.
+(3) images-na.ssl-images-amazon.com. https://images-na.ssl-images-amazon.com/images/G/01/rainier/help/XML_Documentation_Intl Accessed 3/30/2023.
+(4) https-everywhere/SSL-Images-Amazon.com.xml at master · EFForg/https .... https://github.com/EFForg/https-everywhere/blob/master/src/chrome/content/rules/SSL-Images-Amazon.com.xml Accessed 3/30/2023.",yes it is a CDN for images
+61,azureedge.net,Microsoft,https://www.microsoft.com/,CDN,Microsoft Corporation,unavailbale,"Azureedge.net is a domain name used by Microsoft's Azure Content Delivery Network (CDN) service²?. A CDN is a distributed network of servers that can efficiently deliver web content to users². Azure CDN stores cached content on edge servers in point-of-presence (POP) locations that are close to end users, to minimize latency²?. A user requests a file by using a URL with a special domain name, such as <endpoint name>.azureedge.net². This name can be an endpoint hostname or a custom domain². The DNS routes the request to the best performing POP location, which is usually the POP that is geographically closest to the user².
+
+Source: Conversation with Bing, 3/30/2023(1) What is a content delivery network (CDN)? - Azure. https://learn.microsoft.com/en-us/azure/cdn/cdn-overview Accessed 3/30/2023.
+(2) What Is Azure Content Delivery Network Service? - DZone. https://dzone.com/articles/what-is-azure-content-delivery-network-service Accessed 3/30/2023.
+(3) What is an Azure CDN and how to implement it? - Blog. https://www.testpreptraining.com/blog/what-is-an-azure-cdn-and-how-to-implement-it/ Accessed 3/30/2023.
+(4) Has anyone else seen insecure azureedge.net certificate alert? - AskWoody. https://www.askwoody.com/forums/topic/has-anyone-else-seen-this/ Accessed 3/30/2023.
+(5) Whois azureedge.net. https://www.whois.com/whois/azureedge.net Accessed 3/30/2023.
+(6) Tutorial - Add Azure CDN to an Azure App Service web app. https://learn.microsoft.com/en-us/Azure/cdn/cdn-add-to-web-app Accessed 3/30/2023.
+(7) Network endpoints for Microsoft Intune | Microsoft Learn. https://learn.microsoft.com/en-us/mem/intune/fundamentals/intune-endpoints Accessed 3/30/2023.
+(8) White-listing Azure cloud connections to grease your Office 365 wheels .... https://www.theregister.com/2019/01/23/office_365_network_hole/ Accessed 3/30/2023.
+(9) Azure Content Delivery Network | Microsoft Azure. https://azure.microsoft.com/en-us/products/cdn/ Accessed 3/30/2023.",yes it is a CDN
+14,amazonvideo.com,Amazon,https://www.amazon.com,CDN,"Amazon Technologies, Inc.",amazon video home page,,First/support party domain
+24,nflxvideo.net,Netflix,https://www.netflix.com/,CDN,"Netflix, Inc.",redirect to netflix,,I think it might be a CDN
+234,avcdn.net,Akamai Technologies,https://www.akamai.com/,CDN,"Gen Digital, Inc",unavaiable,"I couldn't find any information about avcdn.net being used as a domain name for a Content Delivery Network (CDN). However, I found some information about bits.avcdn.net being used by Avast and AVG antivirus software¹???. It seems that bits.avcdn.net is used to download updates and installation files for Avast and AVG antivirus software¹???.
+
+Source: Conversation with Bing, 3/30/2023(1) INCREDIBLY HIGH internet traffic to bits.avcdn.net. https://forum.avast.com/index.php?topic=233738.0 Accessed 3/30/2023.
+(2) https://bits.avcdn.net | AVG. https://support.avg.com/answers?id=9065p0000000oS9AAI Accessed 3/30/2023.
+(3) Download link sends to: https://bits.avcdn.net is that sa... | AVG. https://support.avg.com/answers?id=9065p000000glaFAAQ Accessed 3/30/2023.
+(4) Download a product | AVG. https://support.avg.com/answers?id=9060N000000gSq0QAE Accessed 3/30/2023.
+(5) avcdn.net whois lookup - who.is. https://who.is/whois/avcdn.net Accessed 3/30/2023.
+(6) AVG Free Off-line Installer for XP | AVG. https://support.avg.com/answers?id=9060N0000005QFxQAM Accessed 3/30/2023.",yes it is a cdn
+423,aiv-cdn.net,AIV,https://www.aiv-inc.com/,CDN,"Amazon Technologies, Inc.",unavaiable,"According to the search results, aiv-cdn.net is associated with Amazon Video¹. It seems that s3-dub.cf.dash.row.aiv-cdn.net is a subdomain of aiv-cdn.net that has been linked to the generic top-level domain.net². The United States is where the web servers are hosted and the hostname resolves to 6 IPv4 addresses². Blocking aiv-cdn.net by default prevents Amazon Prime Video from accessing streaming video content in some cases³.
+
+Source: Conversation with Bing, 3/30/2023(1) aiv-cdn.net - Domain Info. https://www.netify.ai/resources/domains/aiv-cdn.net Accessed 3/30/2023.
+(2) s3-dub.cf.dash.row.aiv-cdn.net. https://www.ipaddress.com/site/s3-dub.cf.dash.row.aiv-cdn.net Accessed 3/30/2023.
+(3) Suggested change to a default block (aiv-cdn.net) - Ideas - NextDNS .... https://help.nextdns.io/t/83hkq1v/suggested-change-to-a-default-block-aiv-cdn-net Accessed 3/30/2023.
+(4) aiv-cdn.net whois lookup - who.is. https://who.is/whois/aiv-cdn.net/ Accessed 3/30/2023.
+(5) Anyone having issues with Amazon Prime Video on Apple TV. https://www.reddit.com/r/pihole/comments/x167o0/anyone_having_issues_with_amazon_prime_video_on/ Accessed 3/30/2023.",yes it is a cdn
+124,samsungcloud.com,Samsung,https://www.samsung.com/,CDN,"Samsung Electronics CO., Ltd",unavaiable,"Samsung Cloud is a cloud-based storage solution that enables you to backup up your data on Samsung servers. It can be used to back up your call records, contacts, apps, calendar, SMS messages, home screen, and clock, among other things?. It supports backup, synchronization, and restoration of the following items on enabled devices:
+- Home screen layout
+- System settings
+- Bookmarks
+- Call log
+- Email accounts in the Galaxy device
+- App settings and data for pre-loaded Samsung apps like Calendar, Samsung Internet, Contacts, and Samsung Notes
+- User data like documents, photos, music, and videos¹.
+
+Samsung Cloud works over Wi-Fi and cellular networks and requires a Samsung account. Samsung Cloud can only back up, sync and restore data across compatible Galaxy devices and cannot be used to transfer data from non-compatible devices?.
+
+Source: Conversation with Bing, 3/30/2023(1) What is Samsung Cloud [2023]? (Full-Guide) - Samsung TechWin. https://samsungtechwin.com/what-is-samsung-cloud/ Accessed 3/30/2023.
+(2) How to Access Samsung Cloud - Lifewire. https://www.lifewire.com/how-to-access-samsung-cloud-4173433 Accessed 3/30/2023.
+(3) Back Up All Essentials With Samsung Cloud | Samsung US. https://www.samsung.com/us/explore/samsung-cloud/ Accessed 3/30/2023.
+(4) How to use Samsung Cloud | Samsung CA. https://www.samsung.com/ca/support/apps-services/how-to-use-samsung-cloud/ Accessed 3/30/2023.
+(5) What is Samsung Cloud and how do I use it to backup or restore my ... - TV. https://www.samsung.com/uk/support/mobile-devices/what-is-samsung-cloud-and-how-do-i-use-it-to-backup-or-restore-my-data/ Accessed 3/30/2023.
+(6) Samsung Cloud. https://www.samsung.com/us/support/owners/app/samsung-cloud Accessed 3/30/2023.
+(7) Back Up All Essentials With Samsung Cloud | Samsung US. https://bing.com/search?q=what+is+samsung+cloud+used+for+in+detail Accessed 3/30/2023.
+(8) How Do You Retrieve Photos From a Samsung Cloud Backup?. https://www.makeuseof.com/how-to-retrieve-photos-samsung-cloud/ Accessed 3/30/2023.
+(9) Samsung Cloud is closing down - so migrate your photos and ... - TechRadar. https://www.techradar.com/news/samsung-cloud-is-closing-down-so-migrate-your-photos-and-files-now Accessed 3/30/2023.
+(10) What is Samsung Cloud and how to use it? | Samsung Singapore. https://www.samsung.com/sg/support/mobile-devices/what-is-samsung-cloud-and-how-to-use-it/ Accessed 3/30/2023.",I ithink it is a first party or support party
+153,uplynk.com,Uplynk,https://www.uplynk.com/,CDN,"Domains By Proxy, LLC, cannot see the real company",verizon uplynk page,"upLynk is a video delivery service that provides an end-to-end video delivery service, from ingest to consumption, and everything in between². It removes duplicate effort and complexity from your video workflow by using a single video format across all major devices and platforms?. It's never been easier to reach iPad, iPhone, iPod, Android, Windows 8, Mac, BlackBerry 10, Linux and even Roku?. upLynk's slicer software can be installed on-premise within your infrastructure, inserting flexibility and integration points into your workflow?. Cloud Optimize workflows without sacrificing quality by ingesting live or VOD content in the cloud and remotely managing all your workstreams with comprehensive tools to keep your operations teams ?.
+
+I hope this helps! Let me know if you have any other questions.
+
+Source: Conversation with Bing, 3/30/2023(1) What is Verizon to do with Uplynk - Bizety: Research & Consulting. https://www.bizety.com/2014/03/10/verizon-uplynk/ Accessed 3/30/2023.
+(2) Verizon | upLynk: Changing the way broadcasters stream video. http://www.uplynk.com/?ref=founderkit Accessed 3/30/2023.
+(3) Edgio - The Partner of Choice to Power Your Media Business. https://edg.io/media/uplynk/ Accessed 3/30/2023.
+(4) UpLynk - Crunchbase Company Profile & Funding. https://www.crunchbase.com/organization/uplynk Accessed 3/30/2023.
+(5) Verizon Digital Media Services Acquires upLynk Assets and Operations .... https://www.verizon.com/about/news/verizon-uplynk-acquisition-digital-media Accessed 3/30/2023.
+(6) Fios TV Mobile App | Verizon TV Support. https://www.verizon.com/support/residential/tv/mobile/fios-tv-mobile-app Accessed 3/30/2023.
+(7) Home Internet, Network, and Wifi Installation Services in ... - UpLynk. https://uplynk.ca/home-internet-network-wifi/ Accessed 3/30/2023.","yes it is a cdn to deliever videos, and I think it belongs to Verizon actually"
+494,windowsupdate.com,Microsoft Corporation,https://www.microsoft.com,CDN,Microsoft Corporation,unavailable,cannot find anything,I think it is a CDN for update windows
+349,ampproject.net,Google,https://www.google.com/,CDN,Google LLC,AMP framework page,"Yes, ampproject.net is a CDN. It is Google's ""AMP Cache"" domain². AMP stands for Accelerated Mobile Pages, which is an open-source project that aims to make web pages load faster on mobile devices³. AMP controls all resource downloads, prioritizes resource loading, loads only what's needed, and prefetches lazy-loaded resources³. When AMP downloads resources, it optimizes downloads so that the currently most important resources are downloaded first³.
+
+Source: Conversation with Bing, 3/30/2023(1) Why am I seeing traffic coming from ""cdn.ampproject.org""?. https://shopsheriff.com/docs/amp-faq/cdn-ampproject-org-traffic Accessed 3/30/2023.
+(2) How AMP works - amp.dev. https://amp.dev/about/how-amp-works Accessed 3/30/2023.
+(3) cdn.ampproject.org question | WordPress.org. https://wordpress.org/support/topic/cdn-ampproject-org-question/ Accessed 3/30/2023.
+(4) AMP Websites - amp.dev. https://amp.dev/about/websites-2021 Accessed 3/30/2023.",Yes it is a CDN

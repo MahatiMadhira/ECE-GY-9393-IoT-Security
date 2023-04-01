@@ -15,7 +15,7 @@ domains.insert(len(domains.columns), 'company_website', "")
 domains.insert(len(domains.columns), 'result', "")
 
 total_count = len(domains)
-step = 300
+step = 200
 
 for start in range(0, total_count, step):
 

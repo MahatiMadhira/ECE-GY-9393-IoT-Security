@@ -1,0 +1,162 @@
+,remote_hostname,company,company_website,result
+3400,vidora.com,Vidora,https://www.vidora.com/,marketing
+3401,htlbid.com,HTLBid,https://htlbid.com/,advertising
+3402,doctissimo.fr,Doctissimo,https://www.doctissimo.fr/,first-party host
+3403,bintray.com,JFrog,https://jfrog.com/,CDN
+3404,eedomus.com,eedomus,https://www.eedomus.com/,first-party host
+3405,gigaset.net,Gigaset,https://www.gigaset.com/,DNS
+3406,estpak.ee,Estpak,https://www.estpak.ee/,static server
+3407,starman.ee,Starman AS,https://www.starman.ee/,Internet and TV service provider
+3408,libtorrent.org,libtorrent,https://www.libtorrent.org/,{'purpose': 'CDN'}
+3409,unitymediagroup.de,Unity Media Group,https://www.unitymediagroup.de/,DNS
+3410,ovh.net,OVH,https://www.ovh.com/,DNS
+3411,versanet.de,,,
+3412,kali.ru,Kali,https://kali.ru/,first-party host
+3413,googledomains.com,Google,https://www.google.com/,DNS
+3414,dedibox.fr,Online.net,https://www.online.net/,static server
+3415,ntlworld.ie,NTL,https://www.virginmedia.ie/,first-party host
+3416,a3fiber.se,A3 Fiber,https://a3fiber.se/,{'purpose': 'CDN'}
+3417,webtrendslive.com,Webtrends,https://www.webtrends.com/,analytics
+3418,c212.net,Cision Ltd.,https://www.cision.com/,marketing
+3419,sellpoint.net,Sellpoints,https://www.sellpoints.com/,Marketing
+3420,telepacific.net,TelePacific Communications,https://www.telepacific.com/,DNS
+3421,tiscali.it,Tiscali,https://www.tiscali.it/,DNS
+3422,masmovil.com,MasMovil,https://www.masmovil.com/,"{'purpose': 'first-party host', 'description': 'MasMovil website is a first-party host, which means it hosts its own content and does not rely on third-party services for its website functionality.'}"
+3423,quickddns.com,Quick DDNS,https://www.quickddns.com/,DNS
+3424,mojang.com,Mojang AB,https://www.mojang.com/,first-party host
+3425,mail.com,mail.com,https://www.mail.com/,{'purpose': 'first-party host'}
+3426,soho.net.ua,SOHO Network Solutions,https://soho.net.ua/,DNS
+3427,northwestel.net,Northwestel,https://www.nwtel.ca/,DNS
+3428,thexem.de,TheXEM,https://thexem.de/,DNS
+3429,zoneminder.com,ZoneMinder,https://www.zoneminder.com/,static server
+3430,galacticmouse.press,Galactic Mouse Press,galacticmouse.press,first-party host
+3431,slickvpn.com,SlickVPN,https://www.slickvpn.com/,VPN service provider for secure and private internet access.
+3432,xboxservices.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+3433,giphy.com,Giphy,https://giphy.com/,marketing
+3434,adtech.de,Adtech,https://www.adtech.de/,marketing
+3435,microsoftonline-p.com,Microsoft,https://www.microsoft.com/,DNS
+3436,msocdn.com,Microsoft,https://www.microsoft.com/,CDN
+3437,msftauth.net,Microsoft Corporation,https://www.microsoft.com/,authentication service
+3438,zscaler.com,Zscaler,https://www.zscaler.com/,CDN
+3439,playon.tv,PlayOn,https://www.playon.tv/,media streaming and recording software
+3440,valve.net,Valve Corporation,https://www.valvesoftware.com/,static server
+3441,ovpn.com,"OpenVPN Technologies, Inc.",https://openvpn.net/,VPN service provider
+3442,clouddevice.io,CloudDevice,https://clouddevice.io/,CDN
+3443,provide.net,Provide.net,https://provide.net/,DNS
+3444,ixsystems.com,iXsystems,https://www.ixsystems.com/,static server
+3445,webcollage.net,Webcollage,https://www.webcollage.com/,marketing
+3446,buienradar.nl,Buienradar,https://www.buienradar.nl/,analytics
+3447,musixmatch.com,Musixmatch,https://www.musixmatch.com/,first-party host
+3448,swipeforwardgames.com,Swipe Forward Games,https://www.swipeforwardgames.com/,first-party host
+3449,syringanetworks.net,Syringa Networks,https://www.syringanetworks.net/,static server
+3450,unlv.edu,"University of Nevada, Las Vegas",https://www.unlv.edu/,first-party host
+3451,fr24.com,Flightradar24 AB,https://www.flightradar24.com/,analytics
+3452,armbian.com,Armbian,https://www.armbian.com/,static server
+3453,thinkstockphotos.com,Thinkstock Photos LLC,https://www.thinkstockphotos.com/,marketing
+3454,domoticz.com,Domoticz,https://www.domoticz.com/,first-party host
+3455,myopenhab.org,openHAB Foundation,https://www.openhabfoundation.org/,first-party host
+3456,thingspeak.com,ThingSpeak,https://thingspeak.com/,IoT analytics platform and cloud service provider
+3457,homeseer.com,HomeSeer,https://homeseer.com/,first-party host
+3458,flightradar24.com,Flightradar24,https://www.flightradar24.com/,tracking
+3459,webmin.com,Webmin,https://www.webmin.com,first-party host
+3460,rayjump.com,Rayjump,https://rayjump.com/,marketing
+3461,myq-cloud.com,Chamberlain,https://www.chamberlain.com/,CDN
+3462,nextcloud.com,Nextcloud,https://nextcloud.com/,static server
+3463,ip-37-187-109.eu,,,
+3464,inria.fr,INRIA,https://www.inria.fr/,static server
+3465,linksyssmartwifi.com,Linksys,https://www.linksys.com/,first-party host
+3466,fibaro.com,Fibaro,https://www.fibaro.com/,static server
+3467,infonet.ee,Infonet,https://www.infonet.ee/,DNS
+3468,ovh.ca,OVH,https://www.ovh.com/,"{'purpose': 'DNS', 'description': 'OVH is a provider of domain name registration and DNS services.'}"
+3469,mystrom.ch,mystrom,https://www.mystrom.ch/,"{'purpose': 'first-party host', 'explanation': 'mystrom.ch seems to be the official website of the company, therefore it is considered a first-party host. It is not used for tracking, marketing, advertising, analytics, CDN or static server purposes.'}"
+3470,petcube.com,Petcube,https://petcube.com/,marketing
+3471,pacloudflare.com,Cloudflare Inc.,https://www.cloudflare.com,CDN
+3472,brightcloud.com,BrightCloud,https://www.brightcloud.com,DNS
+3473,dns-cloud.net,DNS Cloud,https://dns-cloud.net/,DNS
+3474,colorado.edu,University of Colorado Boulder,https://www.colorado.edu/,first-party host
+3475,shatel.ir,Shatel,https://www.shatel.ir/,DNS
+3476,simobil.net,Simobil,https://www.simobil.net/,DNS
+3477,f3322.net,Unknown,,DNS
+3478,mynuheat.com,Nuheat,https://www.nuheat.com/,marketing
+3479,sytes.net,Sytes,https://www.sytes.net/,static server
+3480,ipify.org,ipify,https://www.ipify.org/,DNS
+3481,ddnss.de,DDNSS,https://www.ddnss.de/,DNS
+3482,sensemecloud.com,SenseMe,https://sensemecloud.com/,CDN
+3483,servehttp.com,CDN77,https://www.cdn77.com/,CDN
+3484,simharif.com,Simharif,https://www.simharif.com/,It is not possible to determine the purpose of the provided URL without further information.
+3485,atom-data.io,Atom Data,https://atom-data.io/,"It is not possible to determine the purpose of the provided URL as it appears to be a company website and not a specific tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party host service."
+3486,akasripcn.net,,,
+3487,marriott.com,Marriott International,https://www.marriott.com/,first-party host
+3488,fbwat.ch,Facebook,https://www.facebook.com/,tracking
+3489,amazon.com.au,Amazon,https://www.amazon.com,CDN
+3490,verizonwireless.com,Verizon Wireless,https://www.verizonwireless.com/,first-party host
+3491,vzwshop.com,Verizon Wireless,https://www.verizonwireless.com/,marketing
+3492,savagebeast.com,Savage Beast,https://www.savagebeast.com/,DNS
+3493,telia.net,Telia Company AB,https://www.teliacompany.com/,DNS
+3494,thebrighttag.com,BrightTag,https://www.brighttag.com/,tag management and data integration for marketing and advertising purposes
+3495,disa.mil,DOD Information Network,https://www.disa.mil/,static server
+3496,igodigital.com,IgoDigital,https://igodigital.com/,marketing
+3497,192.in-addr.arpa,DNS,https://www.iana.org/domains/root/db,The URL is a reverse DNS lookup domain used to map an IP address to a hostname.
+3498,hiper.dk,Hiper,https://hiper.dk/,internet service provider
+3499,adobeprojectm.com,Adobe,https://www.adobe.com/,marketing
+3500,nayatel.pk,Nayatel,https://www.nayatel.com/,static server
+3501,axntechnologies.in,AXN Technologies,https://axntechnologies.in/,first-party host
+3502,awsdns-03.co.uk,Amazon Web Services,https://aws.amazon.com/,DNS
+3503,voncp.com,Vonage,https://www.vonage.com,marketing
+3504,neohub.co.uk,Neohub,neohub.co.uk,marketing
+3505,telecom.kz,Telecom Kazakhstan,https://telecom.kz/,DNS
+3506,weathercloud.net,WeatherCloud,https://www.weathercloud.net/,analytics
+3507,dynamic-m.com,Dynamic-M,https://dynamic-m.com/,It's not possible to determine the purpose of the URL without additional information.
+3508,80.in-addr.arpa,DNS,https://www.iana.org/domains/root/db,"Used for reverse DNS lookups, maps an IP address to a domain name."
+3509,btncdn.com,CDN77,https://www.cdn77.com/,CDN
+3510,uh.edu,University of Houston,https://www.uh.edu/,first-party host
+3511,alaska.edu,University of Alaska,https://www.alaska.edu/,First-party host
+3512,bain.com,Bain & Company,https://www.bain.com/,"{'purpose': 'first-party host', 'description': 'Bain & Company is an international management consulting firm that serves clients in various industries. The purpose of their website (bain.com) is to host and provide information about their company, services, and thought leadership.'}"
+3513,okstate.edu,Oklahoma State University,https://www.okstate.edu/,first-party host
+3514,vmwservices.com,VMware,https://www.vmware.com/,It is not possible to determine the purpose of the provided URL without additional information.
+3515,telenor.com,Telenor,https://www.telenor.com/,first-party host
+3516,adobejanus.com,Adobe,https://www.adobe.com/,marketing
+3517,gartner.com,Gartner,https://www.gartner.com/,analytics
+3518,signal.is,Signal,https://signal.org/,CDN
+3519,cnt-grms.ec,Centro de Estudios Políticos y de Gobierno de la Universidad Católica del Ecuador,https://politica.ucatolica.edu.ec/,It is not possible to determine the purpose of the URL with the provided information.
+3520,telecom.sk,Telecom Slovakia,https://www.telecom.sk/,DNS
+3521,falcon1.net,Falcon1,http://www.falcon1.net/,DNS
+3522,orbitbhyve.com,Orbit,https://www.orbitonline.com/,first-party host
+3523,project25499.com,Unknown,,This URL does not provide enough information to determine its purpose.
+3524,posttv.com,The Washington Post,washingtonpost.com,CDN
+3525,inaf.it,National Institute for Astrophysics (INAF),https://www.inaf.it/,first-party host
+3526,comfortel.pro,Comfortel,https://comfortel.pro/,static server
+3527,fvds.ru,FVD Media,https://www.fvdmedia.com/,marketing
+3528,se-ssl-cloud.com,SE-SSL-Cloud,https://www.se-ssl-cloud.com/,CDN
+3529,ccma.cat,Corporació Catalana de Mitjans Audiovisuals,https://www.ccma.cat/,first-party host
+3530,diyadvice.com,DIYAdvice,diyadvice.com,first-party host
+3531,athena.io,Athena,https://www.athena.io/,DNS
+3532,fu-berlin.de,Freie Universität Berlin,https://www.fu-berlin.de/en/index.html,"{'purpose': 'first-party host', 'description': 'The URL belongs to the website of Freie Universität Berlin, serving as the first-party host for its own web content and resources.'}"
+3533,access.ly,CDN77,https://www.cdn77.com/,CDN
+3534,orange-business.com,Orange Business Services,https://www.orange-business.com/,CDN
+3535,chefsteps.com,ChefSteps,https://www.chefsteps.com/,marketing
+3536,abissnet.al,Abissnet,https://abissnet.al/,DNS
+3537,zedfilter.xyz,Unknown,,Cannot determine the purpose of the provided URL
+3538,rundsp.com,RUN DSP,https://www.rundsp.com/,advertising
+3539,vylmedia.com,VYL Media,https://vylmedia.com/,advertising
+3540,vieraconnect.tv,Panasonic,https://www.panasonic.com/,Smart TV platform for streaming and accessing online content
+3541,g4c5j.com,Unknown,,It is not possible to determine the purpose of the URL provided as it appears to be a randomly generated sequence of characters and does not correspond to any known company or service.
+3542,cloud-ips.com,CloudIps,https://www.cloud-ips.com/,DNS
+3543,rediris.es,RedIRIS,https://www.rediris.es/,DNS
+3544,gen4.ninja,Unknown,,It is not possible to determine the purpose of the URL based solely on the domain name provided.
+3545,appsmb.com,AppsMB,https://www.appsmb.com/,DNS
+3546,ibmcloud.com,IBM,https://www.ibm.com/,CDN
+3547,snaptube.in,Snaptube,https://www.snaptube.com/,marketing
+3548,withings.com,Withings,https://www.withings.com,marketing
+3549,bloomsky.com,BloomSky,https://www.bloomsky.com/,marketing
+3550,anovaculinary.com,Anova Culinary,https://anovaculinary.com/,marketing
+3551,iot-dns.com,IoT DNS,https://iot-dns.com/,DNS
+3552,mineproxy.ga,Unknown,,DNS
+3553,tendplatform.com,Tend,https://tend.ai/,marketing
+3554,geappliances.com,GE Appliances,https://www.geappliances.com/,marketing
+3555,seluxit.com,Seluxit,https://seluxit.com/,It is not possible to determine the purpose of the provided URL without additional information.
+3556,your-loop.com,Your-Loop,https://your-loop.com/,It is not possible to determine the purpose of the URL without additional information.
+3557,zodiac.com,Zodiac,https://www.zodiac.com/,It is not possible to determine the purpose of the provided URL without additional information.
+3558,foobot.io,Foobot,https://foobot.io/,analytics
+3559,vzwfemto.com,Verizon Wireless,https://www.verizonwireless.com/,CDN
+3560,bosch.de,Bosch,https://www.bosch.de/,{'purpose': 'First-party host'}

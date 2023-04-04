@@ -1,0 +1,201 @@
+,remote_hostname,company,company_website,result
+200,icfcdn.com,ICF International,https://www.icf.com/,CDN
+201,mopub.com,MoPub,https://www.mopub.com/,advertising
+202,adtng.com,Advertising,https://www.adtng.com/,The provided URL is primarily used for advertising purposes.
+203,etahub.com,EtaHub,https://etahub.com,static server
+204,trafficjunky.net,TrafficJunky,https://www.trafficjunky.com/,advertising
+205,flipboard.com,Flipboard,https://flipboard.com/,content discovery and curation platform
+206,thisamericanlife.org,This American Life,https://www.thisamericanlife.org/,first-party host
+207,itsup.com,IT Support,https://www.itsup.com/,first-party host
+208,asuscomm.com,ASUSTeK Computer Inc.,https://www.asus.com/,DNS
+209,netcabo.pt,Netcabo,https://www.netcabo.pt/,first-party host
+210,telepac.pt,Telepac,https://www.telepac.pt/,DNS
+211,proxy4.win,Unknown,,DNS
+212,proxygo.us,ProxyGo,https://proxygo.us/,proxy server
+213,hotspotproxy.gq,,,
+214,proxygo.club,Unknown,,DNS
+215,demandbase.com,Demandbase,https://www.demandbase.com/,marketing
+216,twimg.com,Twitter,https://twitter.com/,CDN
+217,facebook.net,Facebook,https://www.facebook.com/,advertising
+218,livetelegram.cc,,,
+219,llnwd.net,Limelight Networks,https://www.limelight.com/,CDN
+220,jtvnw.net,Akamai Technologies,https://www.akamai.com/,CDN
+221,ampme.com,AmpMe,https://www.ampme.com/,marketing
+222,sonyentertainmentnetwork.com,Sony Interactive Entertainment,https://www.sie.com/,first-party host
+223,comcast.net,Comcast Corporation,https://corporate.comcast.com/,first-party host
+224,rr.com,Charter Communications,https://www.charter.com/,DNS
+225,sl-reverse.com,SL-Reverse,https://sl-reverse.com/,DNS
+226,myactv.net,Antietam Broadband,https://www.myactv.net/,DNS
+227,cloudapp.net,Microsoft Corporation,https://www.microsoft.com/,CDN
+228,setaptr.net,Setaptr,https://setaptr.net/,DNS
+229,servercontrol.com.au,ServerControl,https://www.servercontrol.com.au/,DNS
+230,unmetered.com,CDN77,https://www.cdn77.com/,CDN
+231,azure.com,Microsoft Azure,https://azure.microsoft.com/,CDN
+232,edgecastcdn.net,EdgeCast Networks,https://www.verizondigitalmedia.com/platform/edgecast-cdn/,CDN
+233,amazon.co.uk,Amazon,www.amazon.com,e-commerce
+234,avcdn.net,"Akamai Technologies, Inc.",https://www.akamai.com/,CDN
+235,ea.com,EA,https://www.ea.com/,marketing
+236,ubi.com,,,
+237,respawn.com,Respawn Entertainment,https://www.respawn.com/,marketing
+238,sitestream.net,CDN77,https://www.cdn77.com/,CDN
+239,musical.ly,musical.ly,https://www.musical.ly/,marketing
+240,ubisoft.com,Ubisoft,https://www.ubisoft.com,static server
+241,ondemand.com,CDN,https://www.ondeamand.com/,"Content Delivery Network (CDN) provider allowing faster and more efficient delivery of web content (including images, videos, stylesheets, scripts etc.) to end-users based on their geographic location"
+242,goguardian.com,GoGuardian,https://www.goguardian.com/,marketing
+243,withgoogle.com,Google,https://www.google.com/,DNS
+244,hshh.org,N/A,N/A,The provided URL does not exist or is currently not active.
+245,insigniaproducts.com,Insignia Products,https://www.insigniaproducts.com/,static server
+246,urbanairship.com,Urban Airship,https://www.urbanairship.com/,marketing
+247,amazon-dss.com,Amazon,https://www.amazon.com/,CDN
+248,a2z.com,a2z.com,https://www.a2z.com,"It is not possible to determine the purpose of the provided URL as it could serve multiple purposes, including but not limited to tracking, marketing, advertising, analytics, CDN, static server or DNS. Further analysis would be required to identify the specific purpose or use of the URL."
+249,akamai.net,Akamai Technologies,https://www.akamai.com/,CDN
+250,sonos.com,Sonos,https://www.sonos.com/,marketing
+251,amazon-adsystem.com,Amazon,https://www.amazon.com/,advertising
+252,usatoday.com,USA Today,https://www.usatoday.com/,static server
+253,gannett-cdn.com,Gannett,https://www.gannett.com/,CDN
+254,wpdigital.net,WPDigital,https://wpdigital.net/,marketing
+255,amazonalexa.com,Amazon,https://www.amazon.com/,DNS
+256,duapps.com,DU Apps,https://www.duapps.com/,marketing
+257,ntp-fireos.com,,,
+258,amazonsilk.com,Amazon,www.amazon.com,static server
+259,bbci.co.uk,BBC,https://www.bbc.com/,"{'purpose': 'first-party host', 'description': 'The provided URL belongs to the British Broadcasting Corporation (BBC) which is a first-party host. It is the primary domain used to serve BBC content to the public. It is not used for tracking, marketing, advertising, analytics, CDN, static server or DNS purposes.'}"
+260,tapas.net,Tapas Media,https://tapas.io/,marketing
+261,msftncsi.com,Microsoft,https://www.microsoft.com/,DNS
+262,foldlife.net,FoldLife,https://foldlife.net/,static server
+263,amazonmusic.com,Amazon,https://www.amazon.com/,CDN
+264,dropcam.com,Dropcam,https://www.dropcam.com/,marketing
+265,edgekey.net,Akamai Technologies,https://www.akamai.com/,CDN
+266,mzstatic.com,Apple Inc.,https://www.apple.com/,CDN
+267,launchdarkly.com,LaunchDarkly,https://launchdarkly.com/,first-party host
+268,advg.vip,Advg,https://advg.vip/,advertising
+269,truste.com,TrustArc,https://www.trustarc.com/,first-party host
+270,adrta.com,Adrta,https://www.adrta.com/,advertising
+271,tvpixel.com,TVSquared,https://tvsquared.com/,tracking
+272,placed.com,Placed,https://www.placed.com/,analytics
+273,samba.tv,Samba TV,https://samba.tv/,tracking
+274,stickyadstv.com,StickyAdsTV,https://stickyadstv.com/,advertising
+275,mookie1.com,Marketing,https://www.mookie1.com/,The purpose of the provided URL is Marketing.
+276,imtwjwoasak.com,,,Unable to determine the purpose of the provided URL.
+277,qbk1.com,Unknown,,Cannot determine the purpose of the URL
+278,bluecava.com,BlueCava,https://www.bluecava.com/,marketing
+279,movetv.com,Move Networks,https://www.accedo.tv/move-networks,CDN
+280,sling.com,Sling TV,www.sling.com,streaming television service
+281,twitter.com,Twitter Inc.,https://twitter.com/,first-party host
+282,cdninstagram.com,Instagram,https://www.instagram.com/,CDN
+283,office.com,Microsoft,https://www.microsoft.com/,first-party host
+284,t.co,Twitter,https://twitter.com/,URL shortening service
+285,reddit.com,Reddit,https://www.redditinc.com/,first-party host
+286,instagram.com,"Facebook, Inc.",https://www.facebook.com/,marketing
+287,microsoftonline.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+288,sc-cdn.net,StackPath,https://www.stackpath.com/,CDN
+289,one.one,Cloudflare,https://www.cloudflare.com/,DNS
+290,appspot.com,Google,https://www.google.com/,CDN
+291,paypal.com,PayPal,https://www.paypal.com/,payment and financial services
+292,snapchat.com,Snap Inc.,https://www.snap.com/,marketing
+293,office365.com,Microsoft,https://www.microsoft.com/,Marketing
+294,3gppnetwork.org,3GPP,https://www.3gpp.org/,DNS
+295,dynatrace.com,Dynatrace,https://www.dynatrace.com/,analytics
+296,pusher.com,,,
+297,redd.it,Reddit,https://www.redditinc.com/,first-party host
+298,gfycat.com,CDN,https://gfycat.com/,"The provided URL belongs to a Content Delivery Network (CDN) known as Gfycat. Gfycat is a popular platform for hosting and sharing short looping videos, and its CDN serves these videos to users across multiple devices and platforms for seamless playback."
+299,tile-api.com,Tile,https://www.thetileapp.com/,CDN
+300,ticktick.com,TickTick,https://ticktick.com/,task management and productivity platform
+301,statuspage.io,Atlassian,https://www.atlassian.com/,The purpose of statuspage.io is to provide a status communication platform for companies to keep their customers informed about any service interruptions or downtime.
+302,trusteer.com,Trusteer,https://www.trusteer.com/,security software and fraud prevention solutions for financial institutions and enterprises
+303,ecosia.org,Ecosia GmbH,https://www.ecosia.org/,search engine
+304,mapbox.com,Mapbox,https://www.mapbox.com/,CDN
+305,braze.eu,Braze,https://www.braze.com/,marketing
+306,adswizz.com,Adswizz,https://www.adswizz.com/,advertising
+307,startappservice.com,StartApp,https://www.startapp.com/,advertising
+308,sharp-stream.com,SharpStream,https://sharp-stream.com,CDN
+309,channel4.com,Channel 4,https://www.channel4.com,first-party host
+310,bombproxy.pro,Unknown,,It is not possible to determine the purpose of the provided URL
+311,hotspotproxy.live,Hotspot Shield,https://www.hotspotshield.com,VPN service provider
+312,tt2.live,Unknown,,Unable to determine the purpose of the URL
+313,starproxy.pro,Starproxy,https://starproxy.pro/,static server
+314,nflximg.net,Netflix,https://www.netflix.com/,CDN
+315,lgtvsdp.com,Unknown,,Cannot determine the purpose of the provided URL
+316,lgappstv.com,LG,https://www.lg.com/,DNS
+317,lgsmartad.com,LG,https://www.lg.com/,advertising
+318,kustomerapp.com,Kustomer,https://www.kustomer.com/,marketing
+319,affirm.com,Affirm,https://www.affirm.com/,marketing
+320,company-target.com,Marketing,https://company-target.com,The provided URL is likely used for marketing purposes.
+321,fandango.com,Fandango,https://www.fandango.com/,marketing
+322,google.ca,Google,https://www.google.com/,first-party host
+323,google.fr,Google,https://www.google.com/,DNS
+324,goo.gl,Google,https://www.google.com,URL shortener
+325,google.it,Google,https://www.google.com,{'purpose': 'DNS'}
+326,google.co.uk,Google,https://www.google.com/,DNS
+327,g.co,Google,https://www.google.com/,First-party host
+328,google.be,Google,https://www.google.com/,search engine
+329,google.es,Google,https://www.google.com/,DNS
+330,google.co.id,Google,https://www.google.com/,DNS
+331,google.co.in,Google,https://www.google.com/,DNS
+332,google.com.ua,DNS,https://www.google.com/,The provided URL appears to be a Domain Name System (DNS) server for google.com.ua domain.
+333,google.dk,Google,https://www.google.com/,DNS
+334,google.no,Google LLC,https://www.google.com/,first-party host
+335,google.at,Google,https://www.google.com/,first-party host
+336,google.nl,,,
+337,google.ch,DNS,https://www.google.com/intl/en/about/,"Domain Name System (DNS) is a system that translates domain names into IP addresses, allowing users to access websites by their domain name instead of a numerical IP address. As such, the purpose of the provided URL (google.ch) is to serve as a DNS entry point for accessing Google's services in Switzerland."
+338,google.gr,Google,https://www.google.com/,search engine
+339,google.com.tw,DNS,https://www.google.com,"The provided URL points to the domain name system (DNS) for Google Taiwan. The DNS resolves domain names to IP addresses, allowing users to access Google's various online services, including search, email, and cloud storage."
+340,google.co.kr,Google,https://www.google.com/,DNS
+341,google.ro,Google,https://www.google.com/,DNS
+342,google.se,Google,https://www.google.com,DNS
+343,sophos.com,Sophos,https://www.sophos.com/,DNS
+344,princeton.edu,Princeton University,https://www.princeton.edu/,first-party host
+345,hotjar.com,Hotjar,https://www.hotjar.com/,analytics
+346,duckduckgo.com,DuckDuckGo,https://duckduckgo.com/,"{'purpose': 'search engine', 'description': ""DuckDuckGo is a search engine that emphasizes protecting searchers' privacy and avoiding filter bubble of personalized search results.""}"
+347,fing.io,Fing,https://www.fing.com/,DNS
+348,maxmind.com,MaxMind,https://www.maxmind.com/,analytics
+349,ampproject.net,Google,https://www.google.com/,CDN
+350,sc-static.net,Selligent,https://www.selligent.com/,CDN
+351,firebaseapp.com,Google,https://www.google.com/,first-party host
+352,sony.tv,Sony,https://www.sony.com/,first-party host
+353,ndmdhs.com,Unknown,,Unable to determine the purpose of the URL
+354,amazon.co.jp,Amazon,https://www.amazon.com,"{'purpose': 'CDN', 'description': ""The provided URL is used as a Content Delivery Network (CDN) for Amazon's online retail platform in Japan.""}"
+355,mlb.com,Major League Baseball Advanced Media,https://www.mlb.com/,marketing
+356,primevideo.com,Amazon,https://www.amazon.com,"{'purpose': 'Streaming media platform', 'type': 'First-party host'}"
+357,muscdn.com,Musopen,https://musopen.org/,CDN
+358,flingo.tv,Flingo,https://flingo.tv/,CDN
+359,playmemoriesonline.com,Sony Corporation,https://www.sony.com/,cloud-based photo sharing and storage service
+360,ink1001.com,Ink 1001,https://www.ink1001.com/,marketing
+361,capitalonegslbex.com,Capital One,https://www.capitalone.com/,DNS
+362,giraffic.net,Giraffic,https://www.giraffic.com/,CDN
+363,shoptv.com,ShopTV,https://www.shoptv.com/,marketing
+364,jwplatform.com,JW Player,https://www.jwplayer.com/,Video hosting and streaming platform provider.
+365,amcs-tachyon.com,AMCS Tachyon,https://www.amcsgroup.com/,CDN
+366,youtube-nocookie.com,Google,https://www.google.com/,CDN
+367,nhl.com,National Hockey League,https://www.nhl.com/,static server
+368,internet-census.org,,,
+369,vido.info,VIDO,https://vido.info/,"It is not possible to determine the purpose of the provided URL as it redirects to the VIDO homepage, which does not provide information about their services or products related to tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party hosting."
+370,rapid7.com,Rapid7,https://www.rapid7.com/,Analytics
+371,fcloud.biz,Fcloud,https://fcloud.biz/,static server
+372,linode.com,Linode,https://www.linode.com/,static server
+373,plex.bz,Plex,https://plex.tv/,CDN
+374,plexapp.com,Plex,https://www.plex.tv/,first-party host
+375,nvidia.com,NVIDIA,https://www.nvidia.com/,first-party host
+376,npr.org,NPR,https://www.npr.org/,first-party host
+377,streamtheworld.com,StreamTheWorld,https://www.streamtheworld.com/,CDN
+378,aibixby.com,Aibixby,https://aibixby.com/,It is not possible to determine the purpose of the URL from the given domain name alone.
+379,ring.com,Ring,https://ring.com,marketing
+380,allrecipes.com,Allrecipes,https://www.allrecipes.com/,recipe sharing and search platform
+381,sndcdn.com,SoundCloud,https://soundcloud.com/,CDN
+382,people.com,Time Inc.,http://www.timeinc.com/,marketing
+383,overwatchleague.com,Blizzard Entertainment,https://www.blizzard.com/en-us/,marketing
+384,nbc.co,NBC,https://www.nbc.com/,first-party host
+385,pandora.com,Pandora,www.pandora.com,"{'purpose': 'music streaming', 'description': ""Pandora is an online music streaming service that offers personalized radio stations based on users' music preferences.""}"
+386,groceryserver.com,Unknown,,It is not possible to determine the purpose of the URL based only on the domain name.
+387,meraki.com,Meraki,https://meraki.com/,CDN
+388,sbixby.com,S Bixby LLC,https://sbixby.com/,It is not possible to determine the purpose of the provided URL without additional information.
+389,whisk.com,Whisk,https://www.whisk.com/,marketing
+390,media-allrecipes.com,Allrecipes,https://www.allrecipes.com/,CDN
+391,ywxi.net,Cloudflare,https://www.cloudflare.com/,CDN
+392,tizenstore.com,Samsung,https://www.samsung.com/,success
+393,samsunghrm.com,Samsung,https://www.samsung.com/,This is a first-party host for Samsung's HRM (Human Resource Management) portal.
+394,cspserver.net,CSP Server,https://cspserver.net/,CDN
+395,twit.tv,TWiT,https://twit.tv/,media network offering technology podcasts and live streaming shows
+396,onyxmtp.online,Unknown,,Cannot determine the purpose of the URL
+397,acquia.com,Acquia,https://www.acquia.com/,It is a company website
+398,hotspotproxy.xyz,Unknown,Unknown,It is not possible to determine the purpose of the URL without additional information.
+399,newslive2.xyz,Unknown,,The purpose of the provided URL is unclear and cannot be identified.

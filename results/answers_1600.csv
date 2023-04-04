@@ -1,0 +1,201 @@
+,remote_hostname,company,company_website,result
+1600,marketwatch.com,Dow Jones & Company,https://www.dowjones.com/,financial news and analysis
+1601,flexibits.com,Flexibits,https://flexibits.com/,first-party host
+1602,1password.ca,1Password,https://1password.com/,first-party host
+1603,hover.com,Hover,https://www.hover.com/,DNS
+1604,backblazeb2.com,Backblaze B2,https://www.backblaze.com/,CDN
+1605,networking.apple,Apple,https://www.apple.com/,DNS
+1606,page.link,Firebase,https://firebase.google.com/,URL shortening and deep linking platform for mobile apps
+1607,waipu.tv,waipu.tv,https://www.waipu.tv/,streaming service (content delivery)
+1608,bitmovin.com,Bitmovin,https://bitmovin.com/,CDN
+1609,wpstr.tv,WP Engine,https://wpengine.com/,static server
+1610,split.io,Split,https://www.split.io/,feature flagging and experimentation platform
+1611,sfr.net,SFR,https://www.sfr.fr/,DNS
+1612,dal.ca,Dalhousie University,https://www.dal.ca/,{'purpose': 'first-party host'}
+1613,dotsrc.org,DotSrc GmbH,https://dotsrc.de/,CDN
+1614,wearetriple.com,We Are Triple,https://wearetriple.com/,marketing
+1615,nluug.nl,NLUUG,https://www.nluug.nl/,first-party host
+1616,subscene.com,Subscene,https://subscene.com/,static server
+1617,byteoversea.com,Byte Oversea,https://byteoversea.com/,marketing
+1618,gotinder.com,Tinder,https://tinder.com/,marketing
+1619,kxcdn.com,KeyCDN,https://www.keycdn.com/,CDN
+1620,hpeprint.com,HP Inc.,https://www.hp.com/,first-party host
+1621,dognzb.cr,DogNZB,https://dognzb.cr/,first-party host
+1622,here.com,HERE Technologies,https://www.here.com/,static server
+1623,breezein.net,,,
+1624,bahnhof.se,Bahnhof,https://www.bahnhof.se/,DNS
+1625,dbankcdn.com,CDN,https://en.wikipedia.org/wiki/Content_delivery_network,"The provided URL belongs to a CDN (Content Delivery Network) which is a service that helps to distribute content across multiple servers and geographically dispersed locations, with the aim of providing faster access to content and improving website performance."
+1626,adikteev.com,Adikteev,https://www.adikteev.com/,advertising
+1627,cam.ac.uk,University of Cambridge,https://www.cam.ac.uk/,first-party host
+1628,google.co.nz,DNS,https://www.google.com/intl/en/about/,The provided URL belongs to DNS (Domain Name System) which translates human-readable domain names (like google.co.nz) to IP addresses that machines can understand.
+1629,spiderspace.co.uk,SpiderSpace,https://www.spiderspace.co.uk/,marketing
+1630,chickenkiller.com,Unknown,,It is not possible to determine the purpose of the provided URL as it does not belong to any known company and does not provide any indication of its purpose.
+1631,pushwoosh.com,Pushwoosh,https://www.pushwoosh.com/,marketing
+1632,netatmo.com,Netatmo,https://www.netatmo.com/,{'purpose': 'analytics'}
+1633,bingapis.com,Microsoft,https://www.microsoft.com/,API provider for Bing Web Search and Bing Autosuggest services.
+1634,clearleap.com,Clearleap,https://www.clearleap.com/,static server
+1635,hbonordic.com,HBO Nordic,https://www.hbonordic.com/,marketing
+1636,dell.com,Dell,https://www.dell.com/,first-party host
+1637,wsglb0.com,AWS Global Accelerator,https://aws.amazon.com/global-accelerator/,CDN
+1638,zhihu.com,Zhihu,zhihu.com,Q&A website and social media platform
+1639,qpic.cn,Tencent,https://www.tencent.com/,CDN
+1640,qlogo.cn,Tencent,https://www.tencent.com,static server
+1641,shifen.com,Shifen,https://www.shifen.com/,DNS
+1642,jomodns.com,Jomohost LLC,https://jomohost.com/,DNS
+1643,cdntip.com,CDNTIP,https://cdntip.com/,"CDNTIP is a website that offers tools for testing and optimizing content delivery networks (CDNs). They provide information on how to choose the right CDN for your website, and also offer a range of tools for testing the performance of CDNs. Therefore, the purpose of the provided URL is CDN."
+1644,blizzard.com,Blizzard Entertainment,https://www.blizzard.com,CDN
+1645,logitech.io,,,
+1646,battle.net,Blizzard Entertainment,https://www.blizzard.com/en-us/,first-party host
+1647,logi.com,Logitech,https://www.logitech.com/,first-party host
+1648,wustl.edu,Washington University in St. Louis,https://wustl.edu/,first-party host
+1649,stanford.edu,Stanford University,https://www.stanford.edu/,first-party host
+1650,uwaterloo.ca,University of Waterloo,https://uwaterloo.ca/,first-party host
+1651,rit.edu,Rochester Institute of Technology,https://www.rit.edu/,first-party host
+1652,globalsign.com,GlobalSign,https://www.globalsign.com/,DNS
+1653,metu.edu.tr,Middle East Technical University,http://www.metu.edu.tr/,{'purpose': 'First-party host'}
+1654,uni-bonn.de,University of Bonn,https://www.uni-bonn.de/en,first-party host
+1655,usertrust.com,UserTrust,https://usertrust.com/,marketing
+1656,comodoca.com,Comodo CA,https://www.comodoca.com/,CDN
+1657,dfn.de,DFN Verein,https://www.dfn.de/,DNS
+1658,mathjax.org,MathJax,https://www.mathjax.org/,CDN
+1659,appcloudbox.net,AppCloudBox,https://www.appcloudbox.net/,CDN
+1660,twilio.com,Twilio,https://www.twilio.com/,marketing
+1661,feralhosting.com,Feral Hosting,https://www.feralhosting.com/,static server
+1662,telegram.org,Telegram Messenger LLP,https://telegram.org,first-party host
+1663,hvvc.us,Unknown,,Unable to determine the purpose of the URL
+1664,ui.com,UI,https://www.ui.com/,It is not possible to determine the purpose of the URL without additional information.
+1665,1337x.to,unknown,,"It is a website for torrenting, which means sharing files over a peer-to-peer network. It does not fit into any of the given options of tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party host."
+1666,resilio.com,Resilio Inc.,https://www.resilio.com/,CDN
+1667,digitaloceanspaces.com,DigitalOcean,https://www.digitalocean.com/,CDN
+1668,themoviedb.org,The Movie Database,https://www.themoviedb.org/,first-party host
+1669,npmjs.org,"npm, Inc.",https://www.npmjs.com/,first-party host
+1670,aeonlucid.com,Aeon Lucid,https://aeonlucid.com/,It is not possible to determine the purpose of the provided URL without additional information.
+1671,cinemaz.to,Unknown,,The purpose of the provided URL is unclear and cannot be determined.
+1672,wsj.net,The Wall Street Journal,https://www.wsj.com/,static server
+1673,plesk.page,Plesk,https://www.plesk.com/,DNS
+1674,giraffic.com,Giraffic,https://www.giraffic.com/,CDN
+1675,yandex.com,Yandex,https://yandex.com/,DNS
+1676,aliexpress.com,AliExpress,https://www.aliexpress.com/,e-commerce marketplace
+1677,ssacdn.com,SSA CDN,https://www.ssacdn.com/,CDN
+1678,mail.ru,Mail.ru,https://mail.ru/,first-party host
+1679,adsniper.ru,AdSniper,https://adsniper.ru/,advertising
+1680,tbcache.com,CDN,https://www.tbcache.com/,The provided URL is a CDN (Content Delivery Network).
+1681,vk.com,VKontakte,https://vk.com/,DNS
+1682,yastatic.net,Yandex,https://yandex.com/,CDN
+1683,i3d.net,i3d.net,https://www.i3d.net/,CDN
+1684,m1-msedge.net,Microsoft Corporation,https://www.microsoft.com/,CDN
+1685,weatherbug.net,WeatherBug,https://www.weatherbug.com/,advertising
+1686,good.com,CDN,https://www.good.com/,"The provided URL belongs to a Content Delivery Network (CDN) that helps to improve the performance, speed, and availability of web pages and other types of content by distributing them across a network of servers located around the world."
+1687,numericable.net,Numericable,https://www.numericable.fr/,first-party host
+1688,imgix.net,imgix,https://www.imgix.com/,CDN
+1689,bitdefender.net,Bitdefender,https://www.bitdefender.com/,marketing
+1690,pigeonhole.at,Pigeonhole Live,https://pigeonholelive.com/,marketing
+1691,lynda.com,Lynda.com,www.lynda.com,e-learning platform
+1692,bitcoinstats.com,BitcoinStats,https://bitcoinstats.com/,analytics
+1693,dashdot.io,DashDot,https://dashdot.io/,marketing
+1694,bluematt.me,Matthew Corallo,https://bluematt.me/,first-party host
+1695,dashjr.org,Luke Dashjr,https://luke.dashjr.org/,first-party host
+1696,emzy.de,Emzy,https://emzy.de/,static server
+1697,nba.com,NBA,www.nba.com,static server
+1698,paradoxplaza.com,Paradox Interactive,https://www.paradoxplaza.com/,first-party host
+1699,drift.com,Drift,https://www.drift.com/,marketing
+1700,wbx2.com,CDN77,https://www.cdn77.com/,CDN
+1701,ciscospark.com,Cisco,https://www.cisco.com,first-party host
+1702,dashlane.com,Dashlane,https://www.dashlane.com/,marketing
+1703,appcues.net,Appcues,https://www.appcues.com/,marketing
+1704,treasuredata.com,Treasure Data,https://www.treasuredata.com,analytics
+1705,mobilityware.com,MobilityWare,https://mobilityware.com/,marketing
+1706,sr.se,Sveriges Radio,https://sverigesradio.se/,{'purpose': 'first-party host'}
+1707,a-msedge.net,Microsoft,https://www.microsoft.com/,CDN
+1708,alphavantage.co,Alpha Vantage Inc.,https://www.alphavantage.co/,analytics
+1709,samsungyosemite.com,Samsung,https://www.samsung.com/,first-party host
+1710,octoprint.org,OctoPrint,https://octoprint.org/,static server
+1711,opentlc.com,OpenTLC,https://www.opentlc.com,static server
+1712,gliptv.com,Static Server,,This URL is serving static content or files hosted on the server of glipTV.com
+1713,embed.ly,Embedly,https://embed.ly/,API for embedding content from other websites
+1714,pcloud.com,pCloud,https://www.pcloud.com/,static server
+1715,azulsystems.com,Azul Systems,https://www.azul.com/,static server
+1716,myfritz.net,AVM GmbH,https://avm.de/,DNS
+1717,meross.com,Meross,https://www.meross.com/,static server
+1718,tado.com,tado,https://www.tado.com/,marketing
+1719,mycloud.com,mycloud,https://www.mycloud.com/,static server
+1720,spreaker.com,Spreaker,https://www.spreaker.com/,marketing
+1721,slb.com,SLB,https://www.slb.com/,static server
+1722,get.no,GET,https://www.get.no/,first-party host
+1723,williamhill.com,,,
+1724,oo-syringe.com,OOO Syringe,https://oo-syringe.com/,static server
+1725,shopbop.com,Shopbop,www.shopbop.com,e-commerce
+1726,discordapp.net,Discord,https://discord.com/,first-party host
+1727,snapads.com,Snap Inc.,https://www.snap.com/,advertising
+1728,sc-prod.net,Akamai Technologies,https://www.akamai.com/,CDN
+1729,jwpsrv.com,JW Player,https://www.jwplayer.com/,CDN
+1730,telenor.rs,Telenor,https://www.telenor.com/,"{'purpose': 'first-party host', 'description': ""The provided URL belongs to Telenor's website in Serbia, which serves as a first-party host for their own content and services."", 'source': 'https://www.telenor.rs/'}"
+1731,thawte.com,Thawte,thawte.com,SSL Certificates Provider
+1732,kaltura.com,Kaltura,https://www.kaltura.com/,CDN
+1733,streamguys.com,StreamGuys,https://www.streamguys.com/,CDN
+1734,as9105.net,RIPE NCC,https://www.ripe.net/,DNS
+1735,adnexus.net,AppNexus,https://www.appnexus.com/,advertising
+1736,kabelnet.net,Kabelnet,https://kabelnet.net/,DNS
+1737,coolkit.cc,Coolkit,https://www.coolkit.cc/,static server
+1738,marantz.info,Marantz,https://www.marantz.com/,first-party host
+1739,univ-lyon1.fr,univ-lyon1.fr,https://www.univ-lyon1.fr/,first-party host
+1740,southwestairlines.com,Southwest Airlines,https://www.southwest.com/,first-party host
+1741,livebarn.com,LiveBarn,https://www.livebarn.com/,CDN
+1742,weekendpartycancel5.com,,,
+1743,1-voip.com,1-VoIP,https://www.1-voip.com/,DNS
+1744,telecomitalia.it,Telecom Italia,http://www.telecomitalia.it/,DNS
+1745,usgovcloudapp.net,US Government Cloud App,https://www.usgovcloudapp.net/,static server
+1746,carrier.com,Carrier,www.carrier.com,static server
+1747,ooma.com,Ooma,https://www.ooma.com/,marketing
+1748,fibreop.ca,FibreOP,https://www.fibreop.ca/,{'purpose': 'DNS'}
+1749,blisspointmedia.com,Bliss Point Media,https://blisspointmedia.com/,advertising
+1750,sonic.net,Sonic.net,https://www.sonic.com/,DNS
+1751,root-servers.net,DNS,https://root-servers.org/,The provided URL belongs to a DNS server
+1752,gtld-servers.net,ICANN,https://www.icann.org/,DNS
+1753,xirvik.com,Xirvik,https://www.xirvik.com/,static server
+1754,afilias-nst.org,Afilias,https://afilias.info/,DNS
+1755,mtu.edu,Michigan Technological University,https://www.mtu.edu/,"{'purpose': 'first-party host', 'description': 'The provided URL belongs to Michigan Technological University, which means it is a first-party host. This is the primary domain of the university used to deliver contents and services to their visitors.'}"
+1756,msft.net,Microsoft Corporation,https://www.microsoft.com/,DNS
+1757,afilias-nst.info,Afilias,https://afilias.info/,DNS
+1758,rogers.com,Rogers Communications Inc.,https://www.rogers.com/,first-party host
+1759,distributel.net,Distributel Communications Ltd.,https://www.distributel.ca/,DNS
+1760,stephenparker.co.uk,Stephen Parker,https://www.stephenparker.co.uk/,first-party host
+1761,dyndns.org,Dyn,https://dyn.com/,DNS
+1762,hostgator.ro,HostGator,https://www.hostgator.com/,"{'purpose': 'DNS', 'description': ""HostGator.ro is a domain name registered with HostGator's DNS service. DNS (Domain Name System) is responsible for resolving human-readable domain names into IP addresses that computers use to identify each other on the internet.""}"
+1763,https-rulesets.org,,,
+1764,sony.com,Sony,https://www.sony.com/,static server
+1765,above.net,AboveNet Communications Inc.,https://www.zayo.com/,CDN
+1766,ucar.edu,University Corporation for Atmospheric Research,https://www.ucar.edu/,first-party host
+1767,navy.mil,US Navy,https://www.navy.mil/,first-party host
+1768,comloginc.net,Comdata,https://www.comdata.com,login portal for Comdata customers and cardholders
+1769,symmetricom.com,Symmetricom,https://www.microsemi.com/product-directory/clocks-timing/clocks-modules,First-party host
+1770,jio.com,Jio,https://www.jio.com/,{'purpose': 'CDN'}
+1771,weathercn.com,WeatherCN,https://en.weathercn.com/,analytics
+1772,espn.net,ESPN,https://www.espn.com/,sports news and media
+1773,howstuffworks.com,HowStuffWorks,https://www.howstuffworks.com/,static server
+1774,radio-canada.ca,Radio-Canada,https://ici.radio-canada.ca/,first-party host
+1775,ss2.us,,,
+1776,uiowa.edu,The University of Iowa,https://uiowa.edu/,first-party host
+1777,siriusxm.com,SiriusXM,www.siriusxm.com,marketing
+1778,theconversation.com,The Conversation,https://theconversation.com/,first-party host
+1779,apptentive.com,Apptentive,https://www.apptentive.com/,marketing
+1780,prxu.org,Prxu,https://prxu.org/,CDN
+1781,seamless.com,Seamless,https://www.seamless.com/,food delivery service
+1782,wnyc.org,WNYC,https://www.wnyc.org/,first-party host
+1783,sky.com,Sky,https://www.sky.com/,first-party host
+1784,nowtv.com,Now TV,https://www.nowtv.com/,marketing
+1785,wikibuy.com,WikiBuy,https://wikibuy.com/,"browser extension for price comparison, coupon finder, and deals aggregator"
+1786,swedish-academy.org,Swedish Academy,https://www.svenskaakademien.se/svenska-akademien,first-party host
+1787,hrzn-nxt.com,Horizon Next,https://hrzn-nxt.com/,marketing
+1788,s-msn.com,Microsoft Corporation,https://www.microsoft.com/,CDN
+1789,trustwave.com,"Trustwave Holdings, Inc.",https://www.trustwave.com/,security solutions provider
+1790,netweaver.uk,Netweaver,https://netweaver.uk/,It is not possible to determine the purpose of the provided URL without additional information.
+1791,ntp.br,NTP.br,https://ntp.br/,NTP.br is a first-party host that provides network time synchronization services for computers and other devices connected to the internet.
+1792,libsyn.com,Libsyn,https://libsyn.com/,CDN
+1793,rings.solutions,Not found,,DNS
+1794,redbend.com,Redbend,https://www.redbend.com/,static server
+1795,mios.com,MIOS,https://www.mios.com/,Static Server
+1796,amazon.fr,Amazon,https://www.amazon.com/,e-commerce
+1797,firefoxusercontent.com,Mozilla,https://www.mozilla.org/,CDN
+1798,amazon.es,,,
+1799,malwaredomains.com,MalwareDomains.com,https://www.malwaredomains.com/,DNS

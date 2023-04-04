@@ -1,0 +1,201 @@
+,remote_hostname,company,company_website,result
+1800,bannersnack.com,Bannersnack,https://www.bannersnack.com/,marketing
+1801,sony-asia.com,Sony Corporation,https://www.sony.net/,first-party host
+1802,wtnet.de,WTnet,https://wtnet.de/,DNS
+1803,tng.de,TNG Technology Consulting GmbH,https://www.tngtech.com/,"TNG Technology Consulting GmbH is a technology consulting company. The provided URL does not seem to be for tracking, marketing, advertising, CDN, static server, DNS, or first-party host purposes. It could be a regular web page or serve other purposes."
+1804,vsm.sh,Vercel,https://vercel.com/,CDN
+1805,ooklaserver.net,Ookla,https://www.ookla.com/,CDN
+1806,stocard-backend.com,,,
+1807,stocard.de,Stocard,https://stocard.de/,marketing
+1808,doodle.com,Doodle,https://doodle.com,marketing
+1809,cardiogr.am,Cardiogram,https://www.cardiogram.com/,health analytics
+1810,88-f.net,Unknown,,The purpose of the URL is unclear and requires further investigation.
+1811,evehome.com,Eve Systems GmbH,https://www.evehome.com/,marketing
+1812,web.de,WEB.DE,https://www.web.de/,first-party host
+1813,amazon.eu,Amazon,https://www.amazon.com/,CDN
+1814,chime.aws,Amazon,https://aws.amazon.com/,CDN
+1815,nai.com,NAI,https://www.nai.com/,marketing
+1816,travelfuntu.com,TravelFuntu,https://travelfuntu.com/,travel website
+1817,cookielaw.org,OneTrust,https://www.onetrust.com/,Tracking
+1818,ugdturner.com,UGD Turner,https://ugdturner.com/,Cannot determine the purpose of the URL without additional information
+1819,flightcdn.com,Flight CDN,https://flightcdn.com,CDN
+1820,nordcdn.com,NordVPN,https://nordvpn.com/,CDN
+1821,creativecommons.org,Creative Commons,https://creativecommons.org/,marketing
+1822,ltlxvxjjmvhn.me,Unknown,,Unable to determine the purpose of the provided URL
+1823,epgsky.com,EPG Sky,https://www.epgsky.com,DNS
+1824,advertising.com,Advertising.com,https://www.advertising.com/,advertising
+1825,w55c.net,CDN77,https://www.cdn77.com/,CDN
+1826,turn.com,TURN Inc.,https://www.amobee.com/,advertising
+1827,linksynergy.com,LinkShare,https://www.linkshare.com/,marketing
+1828,fossmint.com,FossMint,https://www.fossmint.com/,{'purpose': 'First-party host'}
+1829,sync.com,Sync.com,https://www.sync.com/,cloud storage
+1830,eloqua.com,Eloqua,https://www.oracle.com/marketingcloud/products/marketing-automation/eloqua/,marketing
+1831,line-scdn.net,LINE Corporation,https://linecorp.com/,CDN
+1832,naver.jp,NAVER Corporation,https://www.navercorp.com/,first-party host
+1833,lithium.com,Lithium Technologies,https://www.lithium.com/,marketing
+1834,rackcdn.com,Rackspace CDN,https://www.rackspace.com/cdn,CDN
+1835,wayfair.com,Wayfair,https://www.wayfair.com/,e-commerce
+1836,bluecore.com,Bluecore,https://www.bluecore.com,marketing
+1837,res-x.com,Resonate,https://www.resonate.com/,marketing
+1838,gimbal.com,Gimbal,https://gimbal.com/,marketing
+1839,tripit.com,TripIt,https://www.tripit.com/,travel itinerary management
+1840,myfoscam.org,Foscam,https://www.foscam.com/,first-party host
+1841,blueirissoftware.com,Blue Iris Software,https://blueirissoftware.com/,static server
+1842,freshdesk.com,Freshworks,https://www.freshworks.com/,first-party host
+1843,fuse.net,Fuse Internet Access,https://www.fuse.net/,DNS
+1844,spcsdns.net,SPCSDNS,,DNS
+1845,lutron.com,Lutron,www.lutron.com,static server
+1846,xively.com,,,
+1847,megirl.com,MeGirl,https://megirl.com/,marketing
+1848,trutri.org,TruTri,https://trutri.org/,DNS
+1849,ft.lk,Daily FT,https://www.ft.lk/,"{'purpose': 'first-party host', 'description': 'The URL belongs to Daily FT website, which is the first-party host (the website that a user intends to visit directly) where the content is hosted.'}"
+1850,ada.lk,Ada Derana,https://www.adaderana.lk/,media/news organization
+1851,ringtonematcher.com,Ringtone Matcher,https://www.ringtonematcher.com/,marketing
+1852,alienvault.com,AlienVault,https://www.alienvault.com/,analytics
+1853,midco.net,Midco,https://www.midco.com/,DNS
+1854,adthrive.com,AdThrive,https://www.adthrive.com/,advertising
+1855,userreport.com,UserReport,https://www.userreport.com/,analytics
+1856,steepto.com,,,
+1857,jivosite.com,JivoSite,https://www.jivochat.com/,marketing
+1858,tipsy.coffee,Tipsy Coffee,https://tipsy.coffee/,first-party host
+1859,ip-158-69-27.net,Static Server,https://www.staticserver.com/,"The provided URL 'ip-158-69-27.net' indicates a static server, which is used to store and serve static content, such as website files, images or videos, to end-users. Static servers do not generate dynamic content, but focus on delivering content quickly and reliably to users around the world."
+1860,xiaomi.net,Xiaomi,https://www.mi.com/,DNS
+1861,youversionapi.com,YouVersion,https://www.youversion.com/,API for accessing Bible-related content and features provided by YouVersion
+1862,mipcm.com,MIPCM,https://mipcm.com/,marketing
+1863,amazon.in,Amazon,https://www.amazon.com/,e-commerce
+1864,eastlink.ca,Eastlink,https://www.eastlink.ca/,first-party host
+1865,thescore.com,theScore,https://www.thescore.com/,sports news and media platform
+1866,aws-thinq-prd.net,AWS,https://aws.amazon.com/,CDN
+1867,wowrack.com,Wowrack,https://www.wowrack.com/,{'purpose': 'CDN'}
+1868,he.net,HE.net,https://he.net/,DNS
+1869,tradingview.com,TradingView,https://www.tradingview.com/,analytics
+1870,ip-192-99-4.net,CDN77,https://www.cdn77.com/,CDN
+1871,smartclip.net,Smartclip,https://www.smartclip.net/,advertising
+1872,hotjar.io,Hotjar,https://www.hotjar.com/,analytics
+1873,arte.tv,arte.tv,https://www.arte.tv/,{'purpose': 'content delivery network (CDN)'}
+1874,herokuappdev.com,Heroku,https://www.heroku.com/,"This URL appears to be a development or testing URL for Heroku's platform, and does not have a clear purpose in terms of tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party hosting."
+1875,redbutton.de,Red Button Digital GmbH,https://www.redbutton.de/,marketing
+1876,theadex.com,TheAdex,https://theadex.com,advertising
+1877,ard.de,,,
+1878,kpn.com,KPN,https://www.kpn.com/,first-party host
+1879,signify.com,Signify,www.signify.com,static server
+1880,philips-hue.com,Philips,https://www.philips.com/,marketing
+1881,splkmobile.com,Splunk Mobile,https://www.splunkmobile.com/,marketing
+1882,xwemo.com,Xwemo,https://xwemo.com/,Cannot determine the purpose of the URL with just the company website. Please provide a specific URL for analysis.
+1883,naver.com,NAVER Corporation,https://www.navercorp.com/en/,DNS
+1884,tiktokv.com,,,
+1885,kornet.net,KORNET,https://www.kornet.net/,DNS
+1886,druva.com,Druva,https://www.druva.com/,marketing
+1887,517-70.xyz,Unknown,,Cannot determine the purpose of the provided URL
+1888,wiz.world,Wiz,https://www.wiz.world/,DNS
+1889,ip-158-69-252.net,,,
+1890,ip-147-135-36.us,,,
+1891,webrootanywhere.com,Webroot,https://www.webroot.com/,DNS
+1892,mitm.it,mitm.it,https://mitm.it/,HTTPS traffic interception and analysis
+1893,fos5echocaptiveportal.com,Fortinet,https://www.fortinet.com/,This domain appears to be a first-party host for a captive portal used for network authentication and/or access control in a Fortinet-based network.
+1894,arlo.com,"Arlo Technologies, Inc.",https://www.arlo.com,marketing
+1895,brilliant.tech,Brilliant Technologies,https://brilliant.tech/,static server
+1896,sail-horizon.com,Sail Horizon,https://sail-horizon.com/,static server
+1897,ladsp.com,LADSP,https://www.ladsp.com/,marketing
+1898,rmtag.com,Rmtag,https://www.rmtag.com,advertising
+1899,selectablemedia.com,Selectable Media,https://selectablemedia.com/,advertising
+1900,hdwitness.com,HD Witness,https://www.hdwitness.com/,marketing
+1901,addthis.com,AddThis,https://www.addthis.com/,marketing
+1902,parrable.com,Parrable,https://www.parrable.com/,marketing
+1903,marketo.net,Marketo,https://www.marketo.com/,marketing
+1904,apple-cloudkit.com,Apple,https://www.apple.com/,CDN
+1905,decibelinsight.net,Decibel Insight,https://www.decibelinsight.com/,analytics
+1906,atlassian.com,Atlassian,https://www.atlassian.com/,"{'purpose': 'first-party host', 'description': 'Atlassian.com is a first-party host that serves as the primary web presence for Atlassian. It hosts various products and services offered by the company.'}"
+1907,qualys.com,Qualys,https://www.qualys.com/,It is a first-party host
+1908,atl-paas.net,ATL Solutions Limited,https://www.atlsolutions.com/,CDN
+1909,heapanalytics.com,Heap Analytics,https://heapanalytics.com/,analytics
+1910,walkme.com,WalkMe,https://www.walkme.com/,analytics
+1911,box.com,CDN,https://box.com,The provided URL is a content delivery network (CDN) used to deliver files and static content from Box.com to end-users quickly and efficiently across the globe.
+1912,box.net,Box,https://www.box.com/,CDN
+1913,geoedge.be,GeoEdge,https://www.geoedge.com/,advertising
+1914,arcgis.com,Esri,https://www.esri.com/,GIS Mapping and Analysis platform
+1915,piriform.com,Piriform,https://www.ccleaner.com/,marketing
+1916,supersonic.com,Supersonic,supersonic.com,advertising
+1917,washpost.io,The Washington Post,https://www.washingtonpost.com/,DNS
+1918,tvadsync.com,TVadSync,https://tvadsync.com/,marketing
+1919,gulfcanvas.com,Gulf Canvas Company,https://gulfcanvas.com/,static server
+1920,webcontentassessor.com,Lionbridge,https://www.lionbridge.com/,"The provided URL is likely used for web content assessment and quality assurance purposes by Lionbridge, rather than for tracking, marketing, advertising, analytics, CDN, static server, DNS, or first-party hosting."
+1921,cinematerial.com,Cinematerial,https://www.cinematerial.com/,static server
+1922,rpxnow.com,Janrain,https://www.janrain.com/,authentication and user management
+1923,samqaicongen.com,unknown,,It is not possible to determine the purpose of this URL with this limited information.
+1924,ukrtel.net,Ukrtelecom,https://www.ukrtelecom.ua/,DNS
+1925,entelpcs.cl,Entel PCS,https://www.entel.cl/,first-party host
+1926,isappcloud.com,ISAPPCLOUD,https://isappcloud.com/,CDN
+1927,snappea.com,Snappea,https://www.snappea.com/,CDN
+1928,zen.net.uk,Zen Internet,https://www.zen.co.uk/,DNS
+1929,2cnt.net,2cnt.net,https://www.2cnt.net/,advertising
+1930,gameanalytics.com,GameAnalytics,https://gameanalytics.com/,analytics
+1931,emxdgt.com,EMX Digital,https://emxdigital.com/,advertising
+1932,vertamedia.com,VertaMedia,https://vertamedia.com/,Advertising
+1933,vindicosuite.com,Vindico,https://vindicosuite.com/,advertising
+1934,streamrail.net,StreamRail,https://www.streamrail.com/,advertising
+1935,trackscale.net,TrackScale,https://trackscale.net/,tracking
+1936,dynamicnetworkservices.net,Dynamic Network Services,https://dyn.com/,DNS
+1937,dynect.net,Dynect,https://dyn.com/,DNS
+1938,spiceworks.com,Spiceworks,https://www.spiceworks.com/,analytics
+1939,domaincontrol.com,GoDaddy,https://www.godaddy.com/,DNS
+1940,awsdns-57.com,DNS,https://aws.amazon.com/route53/,This URL is a DNS provider domain used by Amazon Web Services (AWS) Route 53 service.
+1941,awsdns-19.com,DNS,https://awsdns-19.com/,This URL belongs to a DNS service provided by Amazon Web Services (AWS). AWS provides highly available and scalable DNS services to route traffic to internet applications.
+1942,awsdns-04.org,Amazon,https://aws.amazon.com/,DNS
+1943,awsdns-07.net,Amazon Web Services,https://aws.amazon.com/,DNS
+1944,awsdns-37.com,DNS provider,https://aws.amazon.com/route53/,DNS
+1945,awsdns-29.org,DNS,https://en.wikipedia.org/wiki/Domain_Name_System,The provided URL is a domain name system (DNS) server for the domain awsdns-29.org.
+1946,awsdns-13.net,Amazon Web Services,https://aws.amazon.com/,DNS
+1947,cast4.audio,CDN,https://cast4.audio/,The provided URL is a content delivery network (CDN) used to deliver audio content efficiently to end users through the internet.
+1948,pusherapp.com,Pusher,https://pusher.com/,real-time messaging CDN
+1949,smhi.se,Swedish Meteorological and Hydrological Institute,https://www.smhi.se/,static server
+1950,getdrip.com,Drip,https://www.drip.com/,marketing
+1951,phoscon.de,dresden elektronik,https://www.dresden-elektronik.de/,First-party host
+1952,videotron.ca,Videotron,https://www.videotron.com,first-party host
+1953,tp-link.com,TP-Link,https://www.tp-link.com/,static server
+1954,mob.com,Mobvista,https://www.mobvista.com/,marketing
+1955,fongo.com,Fongo,https://www.fongo.com/,first-party host
+1956,onetrust.com,OneTrust,https://onetrust.com/,First-party host
+1957,godaddy.com,DNS,https://www.godaddy.com/domains/dns,"The provided URL belongs to GoDaddy, a popular DNS provider that offers domain registration, website hosting, and other related services."
+1958,jpush.cn,JPush,https://www.jiguang.cn/,marketing
+1959,fbpigeon.com,FBPigeon,https://fbpigeon.com/,marketing
+1960,aliyun.com,Alibaba Cloud,https://www.alibabacloud.com/,CDN
+1961,viafoura.net,Viafoura,https://viafoura.com/,analytics
+1962,tapjoyads.com,Tapjoy,https://www.tapjoy.com/,advertising
+1963,nordstrom.com,Nordstrom,https://www.nordstrom.com,first-party host
+1964,exct.net,ExactTarget,https://www.salesforce.com/products/marketing-cloud/email-marketing/,marketing
+1965,youview.tv,YouView TV,https://www.youview.com/,first-party host
+1966,todoist.com,Todoist,https://todoist.com/,"{'purpose': 'task management service', 'category': 'first-party host'}"
+1967,at-o.net,AT Internet,https://www.atinternet.com/,analytics
+1968,cqloud.com,CQloud,https://cqloud.com/,It is not possible to determine the purpose of the provided URL without additional information.
+1969,rollbar.com,Rollbar,https://rollbar.com,analytics
+1970,smartcasttv.com,SmartCast,https://www.smartcasttv.com,marketing
+1971,nasa.gov,National Aeronautics and Space Administration,https://www.nasa.gov/,static server
+1972,usersnap.com,Usersnap,https://usersnap.com,marketing
+1973,worldtravelling.com,World Travelling,https://www.worldtravelling.com/,first-party host
+1974,awsstatic.com,Amazon Web Services,https://aws.amazon.com/,static server
+1975,atdmt.com,ATDMT,https://atdmt.com/,advertising
+1976,ninthdecimal.com,NinthDecimal,https://www.ninthdecimal.com/,marketing
+1977,1and1.com,1&1 IONOS,https://www.ionos.com/,DNS
+1978,getmysa.com,MySA,https://getmysa.com/,marketing
+1979,nortoncdn.com,NortonLifeLock Inc.,https://www.nortonlifelock.com/,CDN
+1980,ipinfo.io,IPinfo.io,https://ipinfo.io/,DNS
+1981,corio.com,Corio,https://www.corio.com/,static server
+1982,merriam-webster.com,Merriam-Webster,https://www.merriam-webster.com/,"{'purpose': 'dictionary and reference website', 'type': 'first-party host'}"
+1983,lenovo.com,Lenovo,https://www.lenovo.com/,first-party host
+1984,ip-37-187-113.eu,,,
+1985,audioscrobbler.com,Last.fm,https://www.last.fm/,analytics
+1986,tu-berlin.de,Technical University of Berlin,https://www.tu-berlin.de/,first-party host
+1987,thethings.network,The Things Industries,https://www.thethingsindustries.com/,"{'purpose': 'IoT Network Service Provider', 'description': 'The provided URL belongs to The Things Industries, a company that provides IoT network services. The Things Network is an IoT network infrastructure based on LoRaWAN technology that enables device connectivity and communication. The URL may be used for management and operation of the network, and for accessing network-related tools and resources.'}"
+1988,onelink.me,AppsFlyer,https://www.appsflyer.com/,marketing
+1989,hanbang.org.cn,Hanbang Culture & Media Group,http://www.hanbang.org.cn/,first-party host
+1990,chinamobile.com,China Mobile,https://www.chinamobile.com/,DNS
+1991,adsl-pool.sx.cn,China Telecom,https://www.chinatelecomglobal.com/,DNS
+1992,chinaunicom.com,China Unicom,https://www.chinaunicom.com/,DNS
+1993,ctm.net,CTM.net,https://ctm.net/,DNS
+1994,ctinets.com,CTINets,https://www.ctinets.com/,DNS
+1995,ddnsfree.com,DDNSfree,https://www.ddnsfree.com/,DNS
+1996,f3322.org,First-Party Host,N/A,"The provided URL 'f3322.org' is a first-party host, which means it is a server that hosts content for the website owner themselves."
+1997,ablenetvps.ne.jp,"AbleNet, Inc.",https://www.ablenetinc.com/,static server
+1998,mmstat.com,Alibaba Group,https://www.alibabagroup.com/,tracking
+1999,sogou.com,Sogou,https://www.sogou.com/,search engine and language input software

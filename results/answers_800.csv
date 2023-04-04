@@ -1,0 +1,201 @@
+,remote_hostname,company,company_website,result
+800,fanart.tv,Fanart.TV,https://fanart.tv/,CDN
+801,phicdn.net,PHICDN,https://www.phicdn.net/,CDN
+802,podnapisi.net,,,
+803,appcenter.ms,Microsoft Corporation,https://www.microsoft.com/,"{'purpose': 'CDN', 'description': 'appcenter.ms is a Content Delivery Network (CDN) used by Microsoft to efficiently distribute their mobile applications to users around the world.'}"
+804,mcafee.com,McAfee,https://www.mcafee.com/,marketing
+805,letsencrypt.org,Let's Encrypt,https://letsencrypt.org,{'purpose': 'first-party host'}
+806,volutionwarness.site,,,
+807,casalemedia.com,Casale Media,https://www.casalemedia.com/,advertising
+808,media.net,Media.net,https://www.media.net/,advertising
+809,telephony.goog,Google,https://www.google.com/,DNS
+810,districtm.io,District M,https://districtm.io/,marketing
+811,sharethrough.com,Sharethrough,https://www.sharethrough.com/,advertising
+812,paypalobjects.com,PayPal,https://www.paypal.com/,CDN
+813,crwdcntrl.net,"Lotame Solutions, Inc.",https://www.lotame.com/,marketing
+814,1rx.io,1rx.io,https://1rx.io/,marketing
+815,33across.com,33Across,https://33across.com,advertising
+816,clean.gg,CDN,https://clean.gg/,"This URL belongs to a Content Delivery Network (CDN), which is a system of distributed servers that delivers content to users based on their geographic location or other specific criteria. CDNs are commonly used to improve website performance by caching static content, such as images and videos, and delivering them from a server nearest to the user to reduce latency and network congestion."
+817,smadex.com,Smadex,https://smadex.com/,advertising
+818,slackb.com,Unknown,,Cannot determine the purpose of the provided URL
+819,verizon.com,Verizon,www.verizon.com,DNS
+820,cdn77.org,CDN77,https://www.cdn77.com/,CDN
+821,radar.io,"Radar Labs, Inc.",https://radar.io/,{'purpose': 'tracking'}
+822,emb-api.com,EMB,https://emb-api.com/,It is not possible to determine the purpose of this URL without additional information.
+823,instabug.com,Instabug,https://instabug.com/,analytics
+824,blinkreceipt.com,BlinkReceipt,https://www.blinkreceipt.com/,analytics
+825,marketingcloudapis.com,Salesforce,https://www.salesforce.com/,marketing
+826,vzmessages.com,Verizon,https://www.verizon.com/,marketing
+827,iotinspector.org,Princeton University,https://www.princeton.edu/,analytics
+828,ab1n.net,AB1N,https://ab1n.net/,DNS
+829,signalr.net,Microsoft,https://www.microsoft.com/,CDN
+830,wunderground.com,The Weather Company,https://www.ibm.com/weather,analytics
+831,akstat.io,Akamai Technologies,https://www.akamai.com/,CDN
+832,sharepoint.com,Microsoft,https://www.microsoft.com/,first-party host
+833,inmobi.com,InMobi,https://www.inmobi.com/,Advertising
+834,applovin.com,AppLovin,https://www.applovin.com/,marketing
+835,aerserv.com,Aerserv,https://www.aerserv.com/,advertising
+836,safedk.com,SafeDK,https://www.safedk.com/,SDK for mobile app developers to enhance app stability and control third-party SDKs
+837,inmobicdn.net,InMobi,https://www.inmobi.com/,CDN
+838,zynga.com,Zynga,zynga.com,marketing
+839,glympse.com,Glympse,https://glympse.com/,tracking
+840,qnap.com,"QNAP Systems, Inc.",https://www.qnap.com/,static server
+841,cbsi.com,CBS Interactive,https://www.cbsinteractive.com/,marketing
+842,bitmoji.com,Snap Inc.,https://www.snap.com,first-party host
+843,cbsnews.com,CBS Interactive Inc.,https://www.cbsinteractive.com/,first-party host
+844,pubwise.io,PubWise.io,https://pubwise.io/,advertising
+845,winehq.org,WineHQ,https://www.winehq.org/,"{'purpose': 'static server', 'description': 'The URL is the website for WineHQ, which is a compatibility layer that allows running Windows applications on Unix-like operating systems. The purpose of the URL is to serve static content, such as HTML, CSS, JavaScript, and images, to users who visit the website.'}"
+846,tivo.com,TiVo Corporation,https://www.tivo.com/,marketing
+847,me.com,Apple Inc.,www.apple.com,first-party host
+848,hkserverworks.com,HKServerWorks,https://www.hkserverworks.com/,static server
+849,smartmailcloud.com,SmartMailCloud,https://smartmailcloud.com/,marketing
+850,backblaze.com,Backblaze,https://www.backblaze.com/,CDN
+851,sprintlink.net,SprintLink,https://www.sprint.com/business,DNS
+852,airwire.ie,Airwire,https://www.airwire.ie/,DNS
+853,accuweather.com,AccuWeather,https://www.accuweather.com/,weather forecasting and meteorological services
+854,khoda.xyz,Unknown,,DNS
+855,hismarttv.com,Unknown,,Cannot determine the purpose of the URL
+856,bbctvapps.co.uk,BBC,http://www.bbc.com,first-party host
+857,digitaluk.co.uk,Digital UK,https://www.digitaluk.co.uk/,marketing
+858,hubspot.com,HubSpot,https://www.hubspot.com/,marketing
+859,hs-analytics.net,HubSpot,https://www.hubspot.com/,analytics
+860,pingdom.net,Pingdom,https://www.pingdom.com/,CDN
+861,alexametrics.com,Alexa Metrics,https://www.alexa.com/,analytics
+862,mxpnl.com,Mixpanel,https://mixpanel.com/,analytics
+863,ttvnw.net,CDN77,https://www.cdn77.com/,CDN
+864,sekindo.com,Sekindo,https://www.sekindo.com/,advertising
+865,comodo.com,Comodo,comodo.com,DNS
+866,intel.com,Intel Corporation,https://www.intel.com/,CDN
+867,onenote.com,Microsoft Corporation,https://www.microsoft.com,first-party host
+868,belkin.com,Belkin,https://www.belkin.com/,marketing
+869,afrihost.co.za,Afrihost,https://www.afrihost.co.za/,DNS
+870,dynu.com,DNS,https://www.dynu.com/,"The provided URL belongs to Dynu, which is primarily a domain name system (DNS) service provider. DNS is a crucial component of the internet that translates domain names into IP addresses. Dynu offers DNS services, domain registration, and dynamic DNS updates. Therefore, the purpose of the provided URL is to provide DNS services."
+871,enphaseenergy.com,Enphase Energy,https://www.enphase.com/,marketing
+872,mtpfast.pw,Unknown,,Unable to determine the purpose of the provided URL.
+873,mydlink.com,D-Link,https://www.dlink.com/,first-party host
+874,hwclouds-dns.com,Huawei Cloud,https://www.huaweicloud.com/,DNS
+875,xvideos.com,,,
+876,xvideos-cdn.com,xvideos,https://www.xvideos.com/,CDN
+877,trafficfactory.biz,Traffic Factory,https://www.trafficfactory.biz/,advertising
+878,google.com.mx,Google,https://www.google.com/,DNS
+879,touchtype-fluency.com,Touchtype Ltd,https://www.touchtype-fluency.com/,marketing
+880,pelmorex.com,Pelmorex,https://www.pelmorex.com/,marketing
+881,ted.com,TED Conferences LLC,https://www.ted.com/,marketing
+882,radiotime.com,RadioTime,https://radiotime.com/,static server
+883,molekule.com,Molekule,https://molekule.com/,marketing
+884,bhvrdbd.com,Undefined,,It is not possible to determine the purpose of the URL with certainty as it seems to be invalid or not associated with any known company or service.
+885,giize.com,Marketing,https://www.giize.com/,"Giize.com appears to be a marketing website, potentially used for promoting products and services."
+886,amcnetworks.com,AMC Networks,https://www.amcnetworks.com/,static server
+887,capitalone.com,Capital One,https://www.capitalone.com,{'purpose': 'first-party host'}
+888,poshmark.com,Poshmark,https://poshmark.com/,marketing
+889,hoopladigital.com,Hoopla Digital,https://www.hoopladigital.com/,CDN
+890,gamepass.com,Microsoft Corporation,https://www.microsoft.com,first-party host
+891,worldtimeserver.com,World Time Server,https://www.worldtimeserver.com/,"{'purpose': 'Time and date information provider', 'category': 'First-party host'}"
+892,web-rubika-ir.gq,N/A,N/A,Invalid domain
+893,authy.com,Authy,https://authy.com/,authentication and security
+894,office.net,Microsoft Corporation,https://www.microsoft.com/,office.net is a first-party host for Microsoft Office suite.
+895,fb.com,Facebook,https://www.facebook.com/,first-party host
+896,microsoftstream.com,Microsoft,https://www.microsoft.com/,CDN
+897,onhub.here,OnHub,https://onhub.here/,DNS
+898,cbsig.net,CBS Interactive Inc.,https://www.cbsinteractive.com/,advertising
+899,syncbak.com,Syncbak,https://www.syncbak.com/,CDN
+900,cbsstatic.com,CBS Interactive Inc.,https://www.cbsinteractive.com/,static server
+901,firetvcaptiveportal.com,Amazon,https://www.amazon.com/,CDN
+902,ubnt.com,Ubiquiti Networks,https://www.ui.com/,CDN
+903,virginmedia.net,Virgin Media,https://www.virginmedia.com/,{'purpose': 'first-party host'}
+904,dazn.com,DAZN,https://www.dazn.com,sports streaming service
+905,trkmenowapptwtree.site,,,
+906,adgrx.com,AdGear,https://adgear.com/,advertising
+907,samsungnyc.com,Samsung,https://www.samsung.com/,first-party host
+908,tmodns.net,TMODNS,https://www.tmodns.net/,DNS
+909,myvzw.com,Verizon Wireless,https://www.verizon.com/,first-party host
+910,ipip.net,IP2Location,https://www.ip2location.com/,DNS
+911,docker.io,"Docker, Inc.",https://www.docker.com/,CDN
+912,is-a-geek.com,IS A GEEK,https://is-a-geek.com/,{'purpose': 'Static Server'}
+913,revenuecat.com,RevenueCat,https://www.revenuecat.com/,marketing
+914,visualstudio.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+915,automatic.com,Automatic Labs,https://automatic.com/,marketing
+916,darksky.net,Dark Sky,https://darksky.net/,weather forecasting and visualization service
+917,coder.com,CDN,https://www.coder.com/,The provided URL belongs to a Content Delivery Network (CDN) used to cache and deliver static content efficiently.
+918,august.com,August,https://august.com/,marketing
+919,nabu.casa,Nabu Casa,https://www.nabucasa.com/,CDN
+920,nabucasa.com,Nabu Casa,https://www.nabucasa.com/,first-party host
+921,ecouser.net,ECOUSER,https://ecouser.net,It is not possible to determine the purpose of the provided URL without additional information.
+922,fortinet.net,Fortinet,https://www.fortinet.com/,static server
+923,stripe.com,Stripe,https://stripe.com/,payment processing and management platform
+924,jsdelivr.net,jsDelivr,https://www.jsdelivr.com/,CDN
+925,parastorage.com,Para,https://www.parascale.com/,CDN
+926,crittercism.com,Crittercism,https://www.crittercism.com/,analytics
+927,wixstatic.com,Wix,https://www.wix.com/,static server
+928,getsitecontrol.com,GetSiteControl,https://getsitecontrol.com/,marketing
+929,wixapps.net,Wix,https://www.wix.com/,CDN
+930,wix.com,Website Builder,https://www.wix.com/,static server
+931,wtop.com,Hubbard Radio,https://www.hubbardradio.com/,first-party host
+932,ngtv.io,NGTV,https://www.ngtv.io/,CDN
+933,claspws.tv,Unknown,,Cannot determine the purpose of the provided URL
+934,complex.com,Complex Networks,https://www.complex.com/,content and media company
+935,ifunny.co,iFunny,https://ifunny.co/,marketing
+936,suddenlink.net,Suddenlink Communications,https://www.suddenlink.com/,Internet Service Provider (ISP)
+937,wordpress.com,WordPress.com,https://wordpress.com/,first-party host
+938,w.org,WordPress,https://wordpress.org/,{'purpose': 'First-party host'}
+939,opmnstr.com,Opmnstr,https://opmnstr.com/,marketing
+940,raspberrypi.org,Raspberry Pi Foundation,https://www.raspberrypi.org/,{'purpose': 'Static server'}
+941,netdna-cdn.com,NetDNA,https://www.maxcdn.com/,CDN
+942,intercomcdn.com,Intercom,https://www.intercom.com/,CDN
+943,vnc.com,RealVNC,https://www.realvnc.com/,remote access software provider
+944,realvnc.com,RealVNC,https://www.realvnc.com/,static server
+945,utexas.edu,University of Texas at Austin,https://www.utexas.edu/,first-party host
+946,getpocket.com,Pocket,https://getpocket.com/,marketing
+947,wordpress.org,WordPress Foundation,https://wordpressfoundation.org/,first-party host
+948,grammarly.com,Grammarly,www.grammarly.com,marketing
+949,grammarly.io,Grammarly,https://www.grammarly.com/,first-party host
+950,grammarlyaws.com,Grammarly,https://www.grammarly.com/,CDN
+951,dnsomatic.com,DNS-O-Matic,https://www.dnsomatic.com/,DNS
+952,adafruit.com,Adafruit Industries,https://www.adafruit.com/,first-party host
+953,criminalip.com,CriminalIP,https://www.criminalip.com/,DNS
+954,censys.io,Censys,https://censys.io/,analytics
+955,onyphe.io,Onyphe,https://www.onyphe.io/,analytics
+956,raygun.io,Raygun,https://raygun.com/,analytics
+957,hbogo.eu,HBO,www.hbo.com,streaming service
+958,sc-jpl.com,SC Johnson Professional,https://www.scjohnson-professional.com/en-gb,marketing
+959,yr.no,yr.no,https://www.yr.no/,"{'purpose': 'weather forecasting', 'description': 'yr.no is a weather forecasting service providing up-to-date and accurate weather information for various locations around the world.', 'category': 'first-party host'}"
+960,wunderlist.com,Wunderlist,https://www.wunderlist.com/,first-party host
+961,fdn.fr,FDN (French Data Network),https://www.fdn.fr/,DNS (Domain Name System)
+962,proxad.net,ProXad,https://www.proxad.net/,DNS
+963,free.fr,Free,https://www.free.fr/,first-party host
+964,deezer.com,Deezer,https://www.deezer.com/,music streaming service
+965,freebox.fr,Free SAS,https://www.free.fr/,first-party host
+966,fbx-mgt.fr,FBX Media Gateway Technology,https://www.fbx-mgt.fr/,CDN
+967,stackexchange.com,Stack Exchange,https://stackexchange.com/,first-party host
+968,wistia.com,Wistia,https://wistia.com/,marketing
+969,oracle.com,Oracle,www.oracle.com,first-party host
+970,ccg-lenovo.com,Lenovo,https://www.lenovo.com/,first-party host
+971,getgreenshot.org,Greenshot,https://getgreenshot.org/,static server
+972,faktor.io,Faktor,https://faktor.io/,It is not possible to determine the purpose of the provided URL without additional information.
+973,royalpurplebathkitchen.com,Royal Purple Bath Kitchen,https://www.royalpurplebathkitchen.com/,{'purpose': 'first-party host'}
+974,edgesuite.net,CDN,https://www.edgesuite.net/,The provided URL belongs to a Content Delivery Network (CDN) provided by Akamai Technologies.
+975,cddbp.net,Gracenote,https://www.gracenote.com/,CDN
+976,dailymotion.com,Dailymotion,https://www.dailymotion.com,video sharing platform
+977,dmcdn.net,DoubleClick,https://marketingplatform.google.com/about/enterprise/,CDN
+978,level3.net,Level 3 Communications,https://www.centurylink.com/business.html,CDN
+979,hockeyapp.net,Microsoft,https://www.microsoft.com/,CDN
+980,micpn.com,MICPN,https://micpn.com/,marketing
+981,taobao.com,Alibaba Group,https://www.alibaba.com/,e-commerce
+982,aliyuncs.com,Alibaba Cloud,https://www.alibabacloud.com/,CDN
+983,samsungsmartcam.com,Samsung Techwin Co. Ltd.,https://www.samsungsecurity.com,first-party host
+984,duosecurity.com,Duo Security,https://duo.com/,marketing
+985,e2ma.net,Emma Email Marketing,https://myemma.com/,marketing
+986,xboxab.com,,,
+987,cdngslb.com,CDN GSLB,https://www.cdngslb.com/,CDN
+988,msftconnecttest.com,Microsoft,https://www.microsoft.com/,DNS
+989,umeng.com,Umeng,https://www.umeng.com/,analytics
+990,sectigo.com,Sectigo,https://sectigo.com/,security and identity solutions
+991,biliapi.com,BiliApi,https://biliapi.com/,API service for accessing data related to Bilibili video sharing platform
+992,bilibili.com,Bilibili,https://www.bilibili.com/,{'purpose': 'CDN'}
+993,wideopenwest.com,WideOpenWest,https://www.wowway.com/,first-party host
+994,asus.com,ASUSTeK Computer Inc.,https://www.asus.com/,first-party host
+995,itv.com,ITV,https://www.itv.com/,first-party host
+996,lyft.com,Lyft,https://www.lyft.com/,ride-hailing and transportation network company
+997,llnw.net,Akamai Technologies,https://www.akamai.com/,CDN
+998,llnwi.net,Limelight Networks,https://www.limelight.com/,CDN
+999,nextdoor.com,Nextdoor,https://www.nextdoor.com/,first-party host

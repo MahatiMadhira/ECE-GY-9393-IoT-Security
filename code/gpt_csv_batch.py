@@ -3,12 +3,14 @@ import os
 import pandas as pd
 import time
 import json
+import prompts
+
 
 # generate your api key on https://platform.openai.com/account/api-keys
 # and set up your key in OS (https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety)
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
-domains = pd.read_csv("domains.csv")
+domains = pd.read_csv("../data/domains.csv")
 
 domains.insert(len(domains.columns), 'company', "")
 domains.insert(len(domains.columns), 'company_website', "")
@@ -16,12 +18,6 @@ domains.insert(len(domains.columns), 'result', "")
 
 total_count = len(domains)
 step = 200
-
-prompt1 = "You are a network expert. Find out the purpose of the provided URL (choose one out of the options: tracking, marketing, advertising, analytics, CDN, static server, DNS, first-party host).  Response in JSON containing following fields: company, company_website, result. Respond in JSON only."
-
-prompt2 = "You are a network expert identifying URLs. Determine the purpose of the URL and provide the following information in a JSON format: company: the name of the company that owns the URL; company_website: the website of the company; ressult: the purpose of the domain (choose one out of the options: tracking, marketing, advertising, analytics, CDN, static server, DNS, first-party host)."
-
-times = []
 
 for start in range(0, total_count, step):
 
@@ -37,7 +33,7 @@ for start in range(0, total_count, step):
                 messages=[
                     {
                         "role": "system",
-                        "content": prompt2,
+                        "content": prompts.prompt2,
                     },
                     {"role": "user", "content": URL},
                 ],
@@ -55,7 +51,7 @@ for start in range(0, total_count, step):
                 messages=[
                     {
                         "role": "system",
-                        "content": "You are a network expert. Find out the purpose of the provided URL (choose one out of the options: tracking, marketing, advertising, analytics, CDN, static server, DNS, first-party host).  Response in JSON containing following fields: company, company_website, result. Respond in JSON only.",
+                        "content": prompts.prompt2,
                     },
                     {"role": "user", "content": URL},
                 ],
@@ -76,12 +72,13 @@ for start in range(0, total_count, step):
     
     
 
-    filename = "./results/prompt2/answers_" + str(start) + ".csv"
+    filename = "../data/full/prompt2/answers_" + str(start) + ".csv"
+
     domains.loc[list(range(start, min(start + step, total_count)))].to_csv(filename)  # , index=False
 
     end_time = time.time()
     time_used = end_time - start_time
     print("=============TIME USED: " + str(time_used) + "=====================")
-    times.append(time_used)
 
-print(times)
+
+

@@ -23,7 +23,7 @@ prompt2 = "You are a network expert identifying URLs. Determine the purpose of t
 
 times = []
 
-for start in range(1200, total_count, step):
+for start in range(0, total_count, step):
 
     start_time = time.time()
 

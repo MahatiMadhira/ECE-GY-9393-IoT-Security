@@ -1,0 +1,201 @@
+,remote_hostname,company,company_website,result
+3200,brightspotcdn.com,Brightspot,https://www.brightspot.com/,CDN
+3201,symbiant.io,Symbiant,https://symbiant.io/,marketing
+3202,wfu.edu,Wake Forest University,https://www.wfu.edu/,first-party host
+3203,jobcase.com,,,
+3204,mainframe2.com,Mainframe2,https://www.mainframe2.com/,static server
+3205,myfoscam.com,FOSCAM,http://www.foscam.com/,first-party host
+3206,p85.live,Unknown,,CDN
+3207,tinkercad.com,Autodesk,https://www.autodesk.com/,static server
+3208,anker-in.com,Anker Innovations Limited,https://www.anker.com/,marketing
+3209,eufylife.com,Eufy,https://www.eufylife.com/,first-party host
+3210,evergreen.space,Evergreen Space Museum,https://www.evergreenmuseum.org/,static server
+3211,pushover.net,Pushover,https://pushover.net/,CDN
+3212,cprapid.com,CPRapid,cprapid.com,marketing
+3213,channeladvisor.com,ChannelAdvisor,https://www.channeladvisor.com/,marketing
+3214,rainmachine.com,,,
+3215,fedoraproject.org,Fedora Project,https://getfedora.org/,static server
+3216,phuket.com,Phuket.com,https://www.phuket.com/,first-party host
+3217,multidoge.org,MultiDoge,https://multidoge.org/,first-party host
+3218,abuse.ch,abuse.ch,https://www.abuse.ch/,security research
+3219,nouvelobs.com,L'Obs,https://www.nouvelobs.com/,news media
+3220,ibroadlink.com,BroadLink,https://www.ibroadlink.com/,marketing
+3221,broadlink.com.cn,BroadLink,http://www.ibroadlink.com/,marketing
+3222,lswf.net,Unknown,,CDN
+3223,tplinknbu.com,TP-Link,https://www.tp-link.com/,first-party host
+3224,adroll.com,AdRoll,https://www.adroll.com/,advertising
+3225,gandi.net,Gandi,https://www.gandi.net/,DNS
+3226,telegraph.co.uk,Telegraph Media Group,https://www.telegraph.co.uk/,news website
+3227,wemo2.com,"Belkin International, Inc.",https://www.belkin.com/,first-party host
+3228,admarvel.com,AdMarvel,https://www.admarvel.com/,advertising
+3229,tfgco.com,TFG Co.,,First-party host
+3230,nanit.com,Nanit,nanit.com,marketing
+3231,hotbl.xyz,Unknown,Unknown,Advertising
+3232,zype.com,Zype,https://www.zype.com/,CDN
+3233,naleapprength.xyz,,,advertising
+3234,vbspbx.com,unknown,,marketing
+3235,ozarksgo.net,OzarksGo,https://www.ozarksgo.net/,static server
+3236,easy4ipcloud.com,Hikvision,https://www.hikvision.com/,CDN
+3237,alienvault.cloud,AlienVault,https://www.alienvault.com/,CDN
+3238,baobei.co.uk,Baobei Ltd,baobei.co.uk,marketing
+3239,orbwebsys.com,Orb Web System,https://www.orbwebsys.com/,static server
+3240,hubble.in,Lenskart,https://www.lenskart.com/,marketing
+3241,tum.de,Technical University of Munich,https://www.tum.de/en/,first-party host
+3242,glesys.net,GleSYS,https://glesys.com/,static server
+3243,airbnb.cn,Airbnb,https://www.airbnb.com/,first-party host
+3244,airbnb.pl,Airbnb,https://www.airbnb.com/,first-party host
+3245,air.tl,Airline Ticketing Limited,https://www.air.tl/,first-party host
+3246,yieldmo.com,Yieldmo,https://yieldmo.com/,advertising
+3247,stanza.co,Stanza,https://www.stanza.co/,marketing
+3248,yottaa.net,Yottaa,https://yottaa.com/,CDN
+3249,samsungrs.com,Samsung,www.samsung.com,first-party host
+3250,adtdp.com,ADT Digital Platforms,https://www.adtdigital.com/,advertising
+3251,ultradns.net,Neustar,https://www.home.neustar/,DNS
+3252,airtiescloud.com,AirTies,https://www.airties.com/,CDN
+3253,pythonhosted.org,Python Software Foundation,https://www.python.org/,static server
+3254,gitlab.com,GitLab,https://about.gitlab.com/,static server
+3255,piwheels.org,Piwheels,https://www.piwheels.org/,static server
+3256,dsmynas.org,DSM,https://www.dsm.com/,static server
+3257,swisscom.ch,Swisscom,https://www.swisscom.ch/,first-party host
+3258,paulmharwood.info,N/A,N/A,first-party host
+3259,wiktel.com,Wiktel,https://www.wiktel.com/,DNS
+3260,virtual1.co.uk,Virtual1,https://www.virtual1.com/,static server
+3261,mtproto.world,Telegram,https://telegram.org/,first-party host
+3262,inversepath.com,Inverse Path Ltd.,https://inversepath.com/,static server
+3263,ip-37-187-0.eu,OVH SAS,https://www.ovh.com/,static server
+3264,mdl.net,MDL Information Systems,https://www.mdl.com/,first-party host
+3265,arduino.cc,Arduino,https://www.arduino.cc/,first-party host
+3266,microvolts.com,,,
+3267,ifit.com,iFit,https://www.ifit.com/,marketing
+3268,tumblr.com,Automattic,https://automattic.com/,first-party host
+3269,exprsdns.net,ExpressVPN,https://www.expressvpn.com/,DNS
+3270,mcusercontent.com,Mailchimp,https://mailchimp.com/,CDN
+3271,elnics.com,ELNICS,https://www.elnics.com/,static server
+3272,trendmd.com,TrendMD Inc.,https://www.trendmd.com/,marketing
+3273,px-cloud.net,PerimeterX,https://www.perimeterx.com/,CDN
+3274,izeni.net,Izeni,https://www.izeni.net/,first-party host
+3275,solaredge.com,SolarEdge Technologies,https://www.solaredge.com/,first-party host
+3276,locuslabs.com,,,
+3277,fmtcs.com,FMTCS,https://www.fmtcs.com/,marketing
+3278,msocsp.com,Microsoft,https://www.microsoft.com/,tracking
+3279,tula.net,TULA,https://www.tula.com,marketing
+3280,slt.lk,Sri Lanka Telecom,https://www.slt.lk/,first-party host
+3281,getinternet.no,Getinternet AS,https://getinternet.no/,first-party host
+3282,swio.jp,SmartNews Inc.,https://www.smartnews.com/,CDN
+3283,beanfield.net,,,
+3284,openstreetmap.org,OpenStreetMap Foundation,https://www.osmfoundation.org/,first-party host
+3285,via.net,"Neustar, Inc.",https://www.home.neustar/,CDN
+3286,amcrestddns.com,Amcrest,https://amcrest.com/,DNS
+3287,nochost.ru,Nochost.ru,https://nochost.ru/,DNS
+3288,reolink.com,Reolink,https://reolink.com/,marketing
+3289,mywire.org,,,
+3290,instantink.com,HP Inc.,https://www.hp.com/,marketing
+3291,kddi.ne.jp,KDDI Corporation,https://www.kddi.com/,first-party host
+3292,cablelynx.com,Cablelynx,https://www.sparklight.com/,first-party host
+3293,pinterest.de,Pinterest,https://www.pinterest.com/,marketing
+3294,ispworkshop.com,,,
+3295,dyson.com,Dyson,https://www.dyson.com/,first-party host
+3296,trackedweb.net,TrackedWeb,https://www.trackedweb.net/,tracking
+3297,naz.com,Naz,https://www.naz.com/,first-party host
+3298,unifi-ai.com,Ubiquiti Networks,https://www.ui.com/,marketing
+3299,launchpad.net,Canonical Ltd,https://canonical.com/,first-party host
+3300,wpengine.com,WP Engine,https://wpengine.com/,static server
+3301,birdytone.com.cn,Birdytone,http://www.birdytone.com.cn/,static server
+3302,bttn.io,bt.tn,https://bt.tn/,marketing
+3303,mfeed.ad.jp,"MicroAd, Inc.",https://www.microad.co.jp/,advertising
+3304,wci.com,WCI,https://www.wci.com/,static server
+3305,moovitapp.com,,,
+3306,maintainbrain.us,MaintainBrain Inc.,https://maintainbrain.com/,marketing
+3307,glassboxdigital.io,Glassbox Digital,https://glassboxdigital.com/,analytics
+3308,telpol.net.pl,Telpol,http://www.telpol.net.pl/,first-party host
+3309,raketa-net.ru,Raketa,https://www.raketa.com/,static server
+3310,telephoneangel.com,,,
+3311,apolloprogram.io,Apollo Program,https://apolloprogram.io/,static server
+3312,vigothaiclub.info,,,
+3313,filenext.com,FileNext,https://filenext.com/,CDN
+3314,6play.fr,M6 Web,https://www.m6web.fr/,marketing
+3315,mtprotoline.top,,,
+3316,epson.biz,Epson Corporation,https://global.epson.com/,marketing
+3317,uu.net,UU Net,https://www.uunet.com/,Internet Service Provider
+3318,etacdn.net,Eta Labs,https://etalabs.net/,CDN
+3319,ptb.de,Physikalisch-Technische Bundesanstalt (PTB),https://www.ptb.de/,static server
+3320,netbynet.ru,NetByNet,https://www.netbynet.ru/,first-party host
+3321,pulsedmedia.com,Pulsed Media,https://pulsedmedia.com/,CDN
+3322,bashtel.ru,Bashinformsvyaz,https://www.bashtel.ru/,first-party host
+3323,megaegg.ne.jp,,,
+3324,spedition-michel.de,Spedition Michel,https://www.spedition-michel.de/,static server
+3325,turbooo.xyz,,,
+3326,powerlinks.com,PowerLinks,https://powerlinks.com,advertising
+3327,linodeusercontent.com,Linode,https://www.linode.com/,static server
+3328,electricimp.com,Electric Imp,https://www.electricimp.com/,first-party host
+3329,satnet.net,Satellite Networking Technologies,https://satnet.net/,static server
+3330,snowdawn.info,,,first-party host
+3331,usbx.me,Unknown,,marketing
+3332,prioritytelecom.net,Priority Telecom,https://www.prioritytelecom.net/,static server
+3333,ip-91-134-139.eu,OVH SAS,https://www.ovh.com/,static server
+3334,ip-91-121-155.eu,OVH SAS,https://www.ovh.com/,static server
+3335,foxtel.com.au,Foxtel,https://www.foxtel.com.au/,first-party host
+3336,nfoservers.com,NFO Servers,https://www.nfoservers.com/,static server
+3337,oktv.se,OK Centralen AB,https://okcentralen.se/,static server
+3338,sprintel.cz,Sprintel s.r.o.,https://sprintel.cz/,first-party host
+3339,percept.ai,Percept.AI,https://percept.ai/,analytics
+3340,bash.pw,,,
+3341,dnsup.net,,,
+3342,minasnet.net,MinasNet Telecomunicações Ltda,https://minasnet.com.br/,static server
+3343,lasvegas.net,LasVegas.Net,https://www.lasvegas.net/,first-party host
+3344,cdn-net.com,CDN.net,https://www.cdn.net/,CDN
+3345,zare.com,Zare,zare.com,static server
+3346,ukservers.com,UkServers Ltd,https://www.ukservers.com/,static server
+3347,hostdime.com,HostDime,https://www.hostdime.com/,static server
+3348,gorillaservers.com,GorillaServers,https://www.gorillaservers.com/,static server
+3349,cachenode.cn,CacheNode,https://www.cachenode.cn/,CDN
+3350,freeboxos.fr,Free,https://www.free.fr/,first-party host
+3351,apol.com.tw,A-Power Computer Ltd.,https://www.apol.com.tw/,static server
+3352,vivozap.com.br,Vivo,https://www.vivo.com.br/,marketing
+3353,fox.com.br,Fox Networks Group,https://www.foxnetworks.com/,first-party host
+3354,com.de,,,
+3355,socialmediawins.com,Social Media Wins,socialmediawins.com,marketing
+3356,eolo.it,EOLO,https://www.eolo.it/,first-party host
+3357,tecnoadsl.it,Tecnoadsl,https://www.tecnoadsl.it/,static server
+3358,cheapnet.it,Cheapnet S.r.l.,https://www.cheapnet.it/,first-party host
+3359,connesi.it,Connesi s.r.l.,https://www.connesi.it/,first-party host
+3360,netoip.com,Net-OIP,https://netoip.com/,CDN
+3361,arcolink.it,Arco S.r.l.,https://www.arcolink.it/,static server
+3362,fastnet.it,Fastnet S.p.A.,https://www.fastnet.it/,static server
+3363,superonline.net,Superonline,https://www.superonline.net/,static server
+3364,hkcable.com.hk,Hong Kong Cable Television Limited,https://www.i-cablecomm.com/,first-party host
+3365,estointernet.in,Esto Internet Private Limited,https://estointernet.in/,first-party host
+3366,infuturo.it,Infuturo,https://www.infuturo.it/,first-party host
+3367,213.in-addr.arpa,Internet Assigned Numbers Authority (IANA),https://www.iana.org/,DNS
+3368,driftcdn.com,Drift,https://www.drift.com/,CDN
+3369,gibdev.ru,,,
+3370,expressnetw.com,Express Network,expressnetw.com,first-party host
+3371,net-htp.de,net-http GmbH,https://www.net-http.de/,static server
+3372,promax.media.pl,Promax,https://www.promax.pl/,marketing
+3373,planeta-net-fibra.com.br,Planeta NET,https://planetanet.com.br/,static server
+3374,movistar.cl,Movistar,https://www.movistar.cl/,first-party host
+3375,siqueiralink.com.br,SiqueiraLink,https://www.siqueiralink.com.br/,first-party host
+3376,netwaytelecom.com.br,Netway Telecom,https://www.netwaytelecom.com.br/,first-party host
+3377,scaleway.com,Scaleway,https://www.scaleway.com/,first-party host
+3378,1drv.com,Microsoft Corporation,https://www.microsoft.com/,static server
+3379,dbsinet.com,DBS Bank,https://www.dbs.com/,first-party host
+3380,bt.com,BT Group plc,https://www.bt.com/,first-party host
+3381,umd.edu,University of Maryland,https://umd.edu/,first-party host
+3382,mirrorservice.org,The UK Mirror Service,https://www.mirrorservice.org/,static server
+3383,comnet.uz,ComNet LLC,https://comnet.uz/,static server
+3384,fau.de,Friedrich-Alexander University of Erlangen-Nuremberg,https://www.fau.eu/,first-party host
+3385,flightplandatabase.com,Flight Plan Database,https://flightplandatabase.com/,static server
+3386,awsdns-06.com,Amazon Web Services,https://aws.amazon.com/,DNS
+3387,awsdns-10.net,Amazon,https://aws.amazon.com/,DNS
+3388,gtdinternet.com,GTD Internet,https://www.gtdinternet.com/,static server
+3389,connect.net.au,Optus,https://www.optus.com.au/,CDN
+3390,kort.co,Kort,https://kort.co/,URL shortening service
+3391,speakeasy.net,MegaPath,https://www.megapath.com/,DNS
+3392,root-servers.org,Internet Assigned Numbers Authority (IANA),https://www.iana.org/,DNS
+3393,entale.co,Entale Media,https://entale.co/,static server
+3394,impdesk.com,Impression Desk,https://www.impdesk.com/,marketing
+3395,yieldlab.net,Yieldlab AG,https://www.yieldlab.de/,advertising
+3396,ligadx.com,Ligatus,https://www.ligatus.com/,advertising
+3397,ligatus.com,Ligatus,https://www.ligatus.com/,advertising
+3398,trib.al,Tribune Media,https://tribunemedia.com/,marketing
+3399,onservo.com,OnServo,https://onservo.com/,static server

@@ -1,0 +1,201 @@
+,remote_hostname,company,company_website,result
+400,nintendo.net,Nintendo,https://www.nintendo.com/,first-party host
+401,virginm.net,Virgin Media,https://www.virginmedia.com/,first-party host
+402,onedrive.com,Microsoft,https://www.microsoft.com/,static server
+403,cloudflare.com,"Cloudflare, Inc.",https://www.cloudflare.com/,CDN
+404,windows.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+405,brightcove.net,Brightcove Inc.,https://www.brightcove.com/,CDN
+406,brightcove.com,Brightcove,https://www.brightcove.com/,CDN
+407,discord.gg,Discord,https://discord.com/,first-party host
+408,boltdns.net,Bolt DNS,https://boltdns.net/,DNS
+409,steampowered.com,Valve Corporation,https://www.valvesoftware.com/,CDN
+410,twitch.tv,"Twitch Interactive, Inc.",https://www.twitch.tv/,first-party host
+411,salesforce.com,Salesforce,https://www.salesforce.com/,first-party host
+412,twitchcdn.net,"Twitch Interactive, Inc.",https://www.twitch.tv/,CDN
+413,siteforce.com,Salesforce,https://www.salesforce.com/,marketing
+414,transacme.com,Transacme,transacme.com,first-party host
+415,tuyaus.com,,,
+416,2o7.net,Adobe Systems,https://www.adobe.com/,analytics
+417,ihrhls.com,Unknown,,CDN
+418,iheart.com,"iHeartMedia, Inc.",https://www.iheartmedia.com/,streaming radio and podcasts platform
+419,zillowstatic.com,"Zillow Group, Inc.",https://www.zillowgroup.com/,static server
+420,gumgum.com,GumGum,https://gumgum.com/,advertising
+421,tailtarget.com,Tail Target,https://tailtarget.com/,marketing
+422,doordash.com,DoorDash,https://www.doordash.com/,first-party host
+423,aiv-cdn.net,Akamai Technologies,https://www.akamai.com/,CDN
+424,as13285.net,TalkTalk,https://www.talktalk.co.uk/,DNS
+425,live.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+426,meethue.com,Signify,https://www.signify.com/,marketing
+427,tplinkra.com,TP-Link,https://www.tp-link.com/,first-party host
+428,tplinkcloud.com,TP-Link,https://www.tp-link.com/,CDN
+429,pushbullet.com,Pushbullet,https://www.pushbullet.com/,marketing
+430,nist.gov,National Institute of Standards and Technology,https://www.nist.gov/,first-party host
+431,fungames-forfree.com,,,
+432,tunein.com,,,
+433,feelinsonice.com,Uber,https://www.uber.com/,tracking
+434,adblockplus.org,eyeo GmbH,https://eyeo.com/,marketing
+435,tuyaeu.com,,,
+436,bamgrid.com,BAMTECH Media,https://bamtechmedia.com/,CDN
+437,babbel.com,Babbel,https://www.babbel.com/,first-party host
+438,presage.io,Presage,https://presage.io/,analytics
+439,worldlifestyle.com,World Lifestyle,https://www.worldlifestyle.com/,marketing
+440,irobotapi.com,iRobot Corporation,https://www.irobot.com/,API endpoint
+441,pbs.org,PBS,https://www.pbs.org/,first-party host
+442,mlbstatic.com,,,
+443,datadome.co,Datadome,datadome.co,anti-bot and fraud prevention service
+444,githubusercontent.com,GitHub,https://github.com/,CDN
+445,tmdb.org,The Movie Database (TMDb),https://www.themoviedb.org/,static server
+446,github.com,"GitHub, Inc.",https://github.com/,static server
+447,opendns.com,Cisco,https://www.cisco.com/,DNS
+448,bit.nl,BIT BV,https://www.bit.nl/,static server
+449,amplitude.com,Amplitude,https://amplitude.com/,analytics
+450,herokuapp.com,Salesforce,https://www.salesforce.com/,static server
+451,alexa.com,"Amazon.com, Inc.",https://www.amazon.com/,analytics
+452,imgur.com,Imgur,https://imgur.com/,CDN
+453,tetaneutral.net,Tetaneutral,https://www.tetaneutral.net/,CDN
+454,amazontrust.com,Amazon,https://www.amazon.com/,CDN
+455,amazon.de,Amazon,https://www.amazon.com/,e-commerce
+456,bit.ly,,,
+457,archive.org,Internet Archive,https://archive.org/,static server
+458,segment.io,Segment,https://segment.com/,analytics
+459,kodi.tv,XBMC Foundation,https://xbmc.org/,first-party host
+460,op.gg,OP.GG,https://op.gg/,analytics
+461,f-droid.org,F-Droid Limited,https://f-droid.org/,static server
+462,lastpass.com,LastPass,https://www.lastpass.com/,first-party host
+463,quad9.net,Quad9,https://www.quad9.net/,DNS
+464,bootstrapcdn.com,MaxCDN,https://www.maxcdn.com/,CDN
+465,fontawesome.com,Font Awesome,https://fontawesome.com/,static server
+466,jquery.com,jQuery Foundation,https://jquery.org/,CDN
+467,speedtest.net,Ookla,https://www.ookla.com/,CDN
+468,amazonpay.com,Amazon,https://www.amazon.com/,payment gateway
+469,d3js.org,Data-Driven Documents,https://d3js.org/,static server
+470,datatables.net,DataTables,https://datatables.net/,static server
+471,myshopify.com,Shopify,https://www.shopify.com/,CDN
+472,footprintdns.com,Footprint DNS,https://www.footprintdns.com/,DNS
+473,outlook.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+474,webtest.net,Unknown,,DNS
+475,hotmail.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+476,mb-cosmos.com,MB&F,https://www.mbandf.com/,marketing
+477,nzbplanet.net,NZBPlanet,https://nzbplanet.net,first-party host
+478,amazonbrowserapp.com,Amazon,www.amazon.com,marketing
+479,justgetflux.com,Flux Software LLC,https://justgetflux.com/,marketing
+480,slack.com,"Slack Technologies, Inc.",https://slack.com/,first-party host
+481,dropboxcaptcha.com,Dropbox,https://www.dropbox.com/,CDN
+482,ably.io,Ably,https://ably.io/,CDN
+483,cdn-apple.com,Apple Inc.,https://www.apple.com/,CDN
+484,samsungcloud.tv,Samsung,https://www.samsung.com/,CDN
+485,ooreka.fr,Ooreka,https://www.ooreka.fr/,first-party host
+486,underdog.media,Underdog Media LLC,https://underdogmedia.com/,advertising
+487,staticwars.com,Static Wars,,static server
+488,tvsquared.com,TVSquared,https://tvsquared.com/,analytics
+489,bn765.com,,,
+490,comhem.se,Com Hem AB,https://www.comhem.se/,first-party host
+491,adobe.io,Adobe,https://www.adobe.com/,CDN
+492,msn.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+493,live.net,,,
+494,windowsupdate.com,Microsoft,https://www.microsoft.com/,first-party host
+495,bing.com,Microsoft Corporation,https://www.microsoft.com/,search engine
+496,adobe.com,Adobe,https://www.adobe.com/,marketing
+497,amd.com,AMD,https://www.amd.com/,first-party host
+498,discordapp.com,Discord Inc.,https://discord.com/,first-party host
+499,dropbox-dns.com,Dropbox,https://www.dropbox.com/,DNS
+500,digicert.com,DigiCert,https://www.digicert.com/,first-party host
+501,netgear.com,Netgear,netgear.com,first-party host
+502,globalsign.net,GlobalSign,https://www.globalsign.com/,security
+503,trafficmanager.net,Microsoft Corporation,https://www.microsoft.com/,CDN
+504,tnt-ea.com,Electronic Arts,https://www.ea.com/,first-party host
+505,origin.com,Electronic Arts Inc.,https://www.ea.com/,first-party host
+506,google.cn,Google,https://www.google.com/,DNS
+507,lenovo.com.cn,Lenovo,https://www.lenovo.com/,first-party host
+508,nest.com,Nest,https://nest.com/,first-party host
+509,telstra.com,,,
+510,monoprice.com,,,
+511,charter.com,"Charter Communications, Inc.",https://www.charter.com/,first-party host
+512,spectrum.net,Charter Communications,https://www.charter.com/,first-party host
+513,timewarnercable.com,Time Warner Cable,https://www.spectrum.com/,first-party host
+514,github.io,GitHub,https://github.com/,static server
+515,fastly.net,Fastly,https://www.fastly.com/,CDN
+516,google.de,Google,https://about.google/,first-party host
+517,yandex.net,Yandex,https://yandex.com/,CDN
+518,google.com.br,Google,https://www.google.com/,first-party host
+519,vewd.com,Vewd,https://www.vewd.com/,CDN
+520,soundcloud.com,SoundCloud,https://soundcloud.com/,CDN
+521,hbomax.com,HBO,https://www.hbo.com/,static server
+522,cox.net,Cox Communications,https://www.cox.com/,first-party host
+523,vultr.com,Vultr Holdings Corporation,https://www.vultr.com/,CDN
+524,a1.net,A1 Telekom Austria Group,https://www.a1.group/,first-party host
+525,stretchoid.com,Unknown,,marketing
+526,arbor-observatory.com,Arbor Networks,https://www.arbornetworks.com,analytics
+527,identrust.com,IdenTrust,https://www.identrust.com/,DNS
+528,censys-scanner.com,,,
+529,lencr.org,,,
+530,gmx.net,1&1 Mail & Media GmbH,https://www.gmx.com/,first-party host
+531,seattlespectrum.com,Charter Communications,https://www.charter.com/,first-party host
+532,sentry.io,Sentry,https://sentry.io/,analytics
+533,nyu.edu,New York University,https://www.nyu.edu/,first-party host
+534,blogspot.com,Google,https://www.google.com,first-party host
+535,tiqcdn.com,Tealium,https://tealium.com/,CDN
+536,mysamba.tv,Samba TV,https://samba.tv/,tracking
+537,crackle.com,Crackle,https://www.crackle.com/,streaming service
+538,flickr.com,SmugMug,https://www.smugmug.com/,static server
+539,samsungcloudcdn.com,Samsung,https://www.samsung.com,CDN
+540,code.org,Code.org,https://code.org/,first-party host
+541,homeunix.net,Unknown,,Static server
+542,myharmony.com,Logitech,https://www.logitech.com/,first-party host
+543,sbcglobal.net,AT&T,https://www.att.com/,DNS
+544,vimeo.com,Vimeo,www.vimeo.com,CDN
+545,onlinehome-server.com,1&1 IONOS,https://www.ionos.com/,static server
+546,vimeocdn.com,Vimeo,https://vimeo.com/,CDN
+547,nvidiagrid.net,NVIDIA,https://www.nvidia.com/,CDN
+548,tegrazone.com,NVIDIA,https://www.nvidia.com/,marketing
+549,windows.net,Microsoft Corporation,https://www.microsoft.com/,CDN
+550,steamstatic.com,Valve Corporation,https://www.valvesoftware.com/,static server
+551,steam-chat.com,Valve Corporation,https://www.valvesoftware.com/,first-party host
+552,msauth.net,Microsoft,https://www.microsoft.com/,authentication service
+553,geforce.com,NVIDIA,https://www.nvidia.com/,marketing
+554,onenote.net,Microsoft Corporation,https://www.microsoft.com,first-party host
+555,king.com,King,https://king.com/,gaming
+556,sway-cdn.com,Microsoft Corporation,https://www.microsoft.com/,CDN
+557,akamai.com,"Akamai Technologies, Inc.",https://www.akamai.com/,CDN
+558,gfsvc.com,Global Financial Services,https://www.gfsvc.com/,marketing
+559,ghostery.com,Ghostery,https://www.ghostery.com/,analytics
+560,brave.com,Brave Software Inc,https://brave.com/,first-party host
+561,flathub.org,Flathub,https://flathub.org/,CDN
+562,mobileapptracking.com,TUNE,https://www.tune.com/,tracking
+563,ravenjs.com,Sentry,https://sentry.io/,analytics
+564,nordvpn.com,NordVPN,nordvpn.com,VPN service provider
+565,nel.goog,Google LLC,https://www.google.com/,CDN
+566,gvt3.com,GVT3,https://www.gvt3.com/,marketing
+567,cnevids.com,CNN,https://www.cnn.com/,video hosting
+568,showtimeanytime.com,Showtime Networks Inc.,https://www.showtime.com/,first-party host
+569,showtime.com,Showtime Networks Inc.,https://www.sho.com/,marketing
+570,bell.ca,Bell Canada,https://www.bell.ca/,first-party host
+571,muug.ca,Manitoba Unix User Group,https://muug.ca/,first-party host
+572,cbc.ca,CBC,http://www.cbc.ca/,first-party host
+573,netflixdnstest10.com,Netflix,https://www.netflix.com,DNS
+574,sonymobile.com,,,
+575,lync.com,Microsoft Corporation,https://www.microsoft.com/,marketing
+576,oneplus.net,OnePlus,https://www.oneplus.com/,first-party host
+577,appsflyer.com,AppsFlyer,https://www.appsflyer.com/,tracking
+578,appboy.com,Appboy,https://www.appboy.com/,marketing
+579,qq.com,Tencent Holdings Limited,https://www.tencent.com/,first-party host
+580,xlink.cn,"Beijing Xlink Communication Technology Co., Ltd",https://www.xlink.cn/,tracking
+581,apester.com,Apester Ltd.,https://apester.com/,marketing
+582,speedcurve.com,SpeedCurve,https://speedcurve.com/,analytics
+583,exelator.com,Nielsen,https://www.nielsen.com,advertising
+584,nr-data.net,New Relic,https://newrelic.com/,CDN
+585,bluekai.com,,,
+586,adsafeprotected.com,Integral Ad Science,https://integralads.com/,advertising
+587,researchnow.com,Dynata,https://www.dynata.com/,marketing
+588,newrelic.com,New Relic,https://newrelic.com/,analytics
+589,spot.im,Spot.IM,https://www.spot.im/,marketing
+590,nielsencollections.com,Nielsen,https://www.nielsen.com/,marketing
+591,cdk.com,CDK Global,https://www.cdkglobal.com/,first-party host
+592,hulustream.com,Unknown,,Streaming Service
+593,huluim.com,Hulu,https://www.hulu.com/,CDN
+594,brightline.tv,Brightline Interactive,https://brightlineinteractive.com/,marketing
+595,internetvideoarchive.net,Internet Video Archive,http://www.internetvideoarchive.com/,CDN
+596,cookbooks.trade,Unknown,N/A,First-party host
+597,avast.com,Avast,https://www.avast.com/,first-party host
+598,azurewebsites.net,Microsoft,https://www.microsoft.com/,static server
+599,yimg.com,Yahoo!,https://www.yahoo.com/,CDN

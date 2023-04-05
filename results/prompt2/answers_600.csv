@@ -1,0 +1,201 @@
+,remote_hostname,company,company_website,result
+600,mailchimp.com,Mailchimp,https://mailchimp.com/,marketing
+601,oath.com,Oath,https://www.oath.com/,marketing
+602,nexage.com,Nexage,https://www.nexage.com/,advertising
+603,cloudfunctions.net,Google,https://www.google.com/,serverless computing
+604,bluemailapp.com,Blue Mail Media Inc.,https://www.bluemailmedia.com/,first-party host
+605,snapcraft.io,Canonical Ltd.,https://canonical.com/,CDN
+606,ip-192-99-36.net,Unknown,,CDN
+607,tivoservice.com,TiVo Corporation,https://www.tivo.com/,first-party host
+608,myqdevice.com,Chamberlain Group,https://www.chamberlain.com/,first-party host
+609,mynexia.com,Nexia International,https://www.nexia.com/,marketing
+610,websolspk.com,WebSol Pakistan,https://www.websolpro.com/,first-party host
+611,zerotier.com,ZeroTier,https://www.zerotier.com/,CDN
+612,maigreatjob.com,Maigreatjob,,marketing
+613,9c9media.com,9c9 Media,https://www.9c9media.com/,marketing
+614,redbull.tv,Red Bull,https://www.redbull.com,marketing
+615,everesttech.net,Everest Technologies,https://everesttech.net/,first-party host
+616,adobedtm.com,Adobe,https://www.adobe.com/,tracking
+617,ads-twitter.com,Twitter,https://www.twitter.com,advertising
+618,9c9media.ca,9c9 Media,http://www.9c9media.ca/,CDN
+619,bellmedia.ca,Bell Media Inc.,https://www.bellmedia.ca/,first-party host
+620,ifcdn.com,KeyCDN,https://www.keycdn.com/,CDN
+621,docker.com,Docker,https://www.docker.com/,static server
+622,home-assistant.io,Home Assistant,https://www.home-assistant.io/,first-party host
+623,3lift.com,3lift,https://www.3lift.com/,advertising
+624,nextdoor-test.com,Nextdoor,https://nextdoor.com/,testing or development
+625,tapad.com,Tapad,https://www.tapad.com/,advertising
+626,foxnews.com,"Fox News Network, LLC",https://www.foxnews.com/,media
+627,vudu.com,Vudu,https://www.vudu.com/,first-party host
+628,rhocdn.net,Rackspace Hosting,https://www.rackspace.com/,CDN
+629,adobecqms.net,Adobe,https://www.adobe.com,CDN
+630,vvond.net,Unknown,,CDN
+631,privateinternetaccess.com,Private Internet Access,https://www.privateinternetaccess.com/,VPN Service
+632,hdhomerun.com,"Silicondust USA, Inc.",https://www.silicondust.com/,static server
+633,otenet.gr,OTE Telecom,https://www.cosmote.gr/,DNS
+634,synology.com,Synology Inc.,https://www.synology.com/,static server
+635,brid.tv,Brid.tv,https://brid.tv/,marketing
+636,firebaseio.com,,,
+637,swrve.com,Swrve Inc.,https://www.swrve.com/,marketing
+638,viber.com,Viber Media,https://www.viber.com/en/,first-party host
+639,opensignal.com,OpenSignal,https://www.opensignal.com/,analytics
+640,acast.com,Acast,https://www.acast.com/,CDN
+641,jibecloud.net,Jibe,https://www.jibe.com/,CDN
+642,googlezip.net,Google,https://www.google.com/,CDN
+643,bose.com,Bose Corporation,https://www.bose.com/,first-party host
+644,ensighten.com,Ensighten,https://www.ensighten.com/,tag management
+645,adknit.com,Adknit,https://www.adknit.com/,marketing
+646,nytimes.com,The New York Times Company,https://www.nytco.com/,first-party host
+647,cnn.net,CNN,https://www.cnn.com/,static server
+648,nyt.com,The New York Times Company,https://www.nytco.com/,first-party host
+649,pendo.io,Pendo,https://www.pendo.io/,analytics
+650,bose.io,Bose Corporation,https://www.bose.com/,CDN
+651,formstack.com,Formstack,https://www.formstack.com/,marketing
+652,bosecm.com,Bose Corporation,https://www.bose.com/,first-party host
+653,media-imdb.com,Amazon.com,https://www.amazon.com/,CDN
+654,vizio.com,Vizio,https://www.vizio.com/,first-party host
+655,tvinteractive.tv,,,
+656,ghostery.net,Ghostery,https://www.ghostery.com/,analytics
+657,ubuntu.com,Canonical Ltd.,https://www.canonical.com/,static server
+658,youboranqs01.com,,,
+659,drmtoday.com,DRMtoday,https://www.drmtoday.com/,CDN
+660,youbora.com,Nice People at Work,https://nicepeopleatwork.com/,analytics
+661,stan.com.au,Stan Pty Ltd,https://www.stan.com.au/,streaming service
+662,vevo.com,Vevo LLC,https://www.vevo.com/,marketing
+663,westcall.net,WestCall,http://westcall.net/,first-party host
+664,smartthings.com,SmartThings,https://www.smartthings.com/,first-party host
+665,web-hosting.com,Web-Hosting.com,https://web-hosting.com/,static server
+666,iotcplatform.com,IOTCPROJECTS S.L.,https://iotcprojects.com/,marketing
+667,xbcs.net,XBCS,https://www.xbcs.net/,CDN
+668,agedbuddha.com,Unknown,,first-party host
+669,voipyourphone.com,VoIP Your Life LLC,https://www.voipyourlife.com/,first-party host
+670,mathtag.com,MediaMath,https://www.mediamath.com/,tracking
+671,qwest.net,CenturyLink,https://www.centurylink.com/,DNS
+672,virtualearth.net,Microsoft Corporation,https://www.microsoft.com,CDN
+673,xboxlive.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+674,macromedia.com,Macromedia,https://www.macromedia.com/,marketing
+675,windowsphone.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+676,google.ru,Google,https://www.google.com/,first-party host
+677,disqus.com,,,
+678,go-mpulse.net,Akamai,https://www.akamai.com/,CDN
+679,joinhoney.com,Honey Science Corp.,https://www.joinhoney.com/,marketing
+680,teamviewer.com,TeamViewer GmbH,https://www.teamviewer.com/,first-party host
+681,247-inc.net,247.ai,https://www.247.ai/,marketing
+682,fwmrm.net,FreeWheel,https://www.freewheel.com/,advertising
+683,mtvnimages.com,ViacomCBS,https://www.viacomcbs.com/,CDN
+684,viacom.com,Viacom,https://www.viacom.com/,first-party host
+685,cc.com,Comedy Central,www.cc.com,marketing
+686,nice264.com,Nice People At Work,https://nicepeopleatwork.com/,CDN
+687,pubmatic.com,PubMatic,https://pubmatic.com/,advertising
+688,rubiconproject.com,Rubicon Project,https://rubiconproject.com/,advertising
+689,bttrack.com,BTTrack,bttrack.com,tracking
+690,semasio.net,Semasio GmbH,https://www.semasio.com/,advertising
+691,aspnetcdn.com,Microsoft Corporation,https://www.microsoft.com/,CDN
+692,cortana.ai,Microsoft,https://www.microsoft.com/,marketing
+693,skypeassets.com,Microsoft Corporation,https://www.microsoft.com,CDN
+694,netdna-ssl.com,StackPath,https://www.stackpath.com/,CDN
+695,flightaware.com,FlightAware LLC,https://flightaware.com/,tracking
+696,cineplex.com,Cineplex,https://www.cineplex.com/,first-party host
+697,stitcher.com,The E.W. Scripps Company,https://www.scripps.com/,first-party host
+698,hicloud.com,HiSilicon Technologies,https://www.hisilicon.com/,CDN
+699,unity3d.com,Unity Technologies,https://unity.com/,static server
+700,helpshift.com,Helpshift,https://www.helpshift.com/,first-party host
+701,cleanbrowsing.org,CleanBrowsing,https://cleanbrowsing.org/,DNS
+702,megaphone.fm,Megaphone,https://www.megaphone.fm/,first-party host
+703,blubrry.com,Blubrry,https://blubrry.com/,static server
+704,audioboom.com,,,
+705,chtbl.com,Criteo,https://www.criteo.com/,advertising
+706,open-telekom-cloud.com,T-Systems International GmbH,https://www.t-systems.com/,CDN
+707,branch.io,Branch Metrics,https://branch.io/,Analytics
+708,seek.com.au,SEEK Limited,https://www.seek.com.au/,job listing platform
+709,cbs.com,CBS Corporation,https://www.cbscorporation.com/,first-party host
+710,sony.net,Sony,https://www.sony.com/,CDN
+711,clashofclans.com,Supercell,supercell.com,marketing
+712,opera.com,Opera Software AS,https://www.opera.com/,first-party host
+713,abc.net.au,Australian Broadcasting Corporation,https://www.abc.net.au/,first-party host
+714,swm.digital,SWITCH MADE GmbH,https://www.switch-made.com/,marketing
+715,freeviewplus.net.au,Freeview Australia Limited,https://www.freeview.com.au/,marketing
+716,sbs.com.au,SBS,https://www.sbs.com.au/,first-party host
+717,oztam.com.au,OzTAM Pty Limited,https://www.oztam.com.au/,analytics
+718,agoop.net,agoop,https://www.agoop.net/,first-party host
+719,mediatek.com,MediaTek Inc.,https://www.mediatek.com/,first-party host
+720,gdsec.net,,,
+721,iterable.com,Iterable,https://iterable.com/,marketing
+722,fing.com,Fing Limited,https://www.fing.com/,analytics
+723,sharethis.com,ShareThis,https://sharethis.com/,social sharing and engagement
+724,typekit.net,Adobe,https://www.adobe.com/,CDN
+725,uchicago.edu,The University of Chicago,https://www.uchicago.edu/,first-party host
+726,consensu.org,IAB Tech Lab,https://iabtechlab.com/,tracking
+727,cedia.org.ec,CEDIA,https://www.cedia.org.ec/,first-party host
+728,easylist.to,EasyList,https://easylist.to/,tracking
+729,publicsuffix.org,Public Suffix,https://publicsuffix.org/,DNS
+730,gitcdn.xyz,,,
+731,yoyo.org,,,first-party host
+732,mixer.com,Microsoft Corporation,https://www.microsoft.com,first-party host
+733,espncdn.com,ESPN,https://www.espn.com/,CDN
+734,myskybell.com,SkyBell Technologies,https://skybell.com/,marketing
+735,invisioncic.com,Invision Community Inc.,https://invisioncommunity.com/,first-party host
+736,darkreader.org,Dark Reader,https://darkreader.org/,browser extension
+737,cbsistatic.com,CBS Interactive,https://www.cbsinteractive.com/,static server
+738,cnet.com,CNET,https://www.cnet.com/,marketing
+739,msecnd.net,Microsoft,https://www.microsoft.com/,CDN
+740,bravesoftware.com,Brave Software,https://brave.com/,marketing
+741,quickbooks.com,Intuit Inc.,https://www.intuit.com/,first-party host
+742,ada.support,Ada Support,https://www.ada.support/,first-party host
+743,noip.com,"Vitalwerks Internet Solutions, LLC",https://www.noip.com/,DNS
+744,edgesv.net,Akamai Technologies,https://www.akamai.com/,CDN
+745,splashtop.com,Splashtop Inc.,https://www.splashtop.com/,marketing
+746,cbsallaccess.ca,CBS Corporation,https://www.cbscorporation.com/,first-party host
+747,247mahjong.com,247mahjong.com,https://www.247mahjong.com/,static server
+748,netflix.net,Netflix Inc.,https://www.netflix.com/,CDN
+749,mozaws.net,Moz,https://moz.com/,CDN
+750,adrise.tv,,,
+751,lego.com,The Lego Group,https://www.lego.com/,first-party host
+752,adlightning.com,,,
+753,typekit.com,Adobe,https://www.adobe.com/,CDN
+754,adobess.com,Adobe,https://www.adobe.com/,marketing
+755,icloud-content.com,Apple Inc.,https://www.apple.com/,CDN
+756,fbsbx.com,Facebook,https://www.facebook.com/,CDN
+757,behance.net,Adobe Systems,https://www.adobe.com/,marketing
+758,vox-cdn.com,Vox Media,https://www.voxmedia.com/,CDN
+759,iana.org,Internet Assigned Numbers Authority (IANA),https://www.iana.org/,DNS
+760,adobelogin.com,Adobe Systems,https://www.adobe.com/,authentication service
+761,adobesc.com,Adobe,www.adobe.com,marketing
+762,wyzecam.com,Wyze Labs,https://wyze.com/,static server
+763,awsglobalaccelerator.com,,,
+764,tritondigital.com,Triton Digital,https://www.tritondigital.com/,CDN
+765,duolingo.com,Duolingo Inc.,https://www.duolingo.com/,first-party host
+766,redditmedia.com,Reddit,https://www.redditinc.com/,CDN
+767,pch.net,Publishers Clearing House,https://www.pch.com/,marketing
+768,google.pl,Google,https://www.google.com/,first-party host
+769,zemanta.com,Zemanta,https://www.zemanta.com/,advertising
+770,segment.com,Segment,https://segment.com/,analytics
+771,outbrain.com,Outbrain Inc.,https://www.outbrain.com/,advertising
+772,outbrainimg.com,Outbrain,www.outbrain.com,CDN
+773,tealiumiq.com,Tealium,http://tealium.com/,tag management system
+774,mfadsrvr.com,Moat by Oracle Data Cloud,https://www.oracle.com/data-cloud/,advertising
+775,sonobi.com,Sonobi,https://sonobi.com/,advertising
+776,politico.com,Politico,politico.com,news
+777,forter.com,Forter,forter.com,marketing
+778,hiltonapi.com,Hilton Worldwide Holdings Inc.,https://www.hilton.com/,API
+779,ifttt.com,IFTTT,https://ifttt.com/,first-party host
+780,svcmot.com,,,
+781,openx.net,OpenX,https://www.openx.com/,advertising
+782,tinypass.com,Piano,https://piano.io/,tracking
+783,quora.com,Quora,https://www.quora.com/,first-party host
+784,polyfill.io,Financial Times,https://www.ft.com/,CDN
+785,scroll.com,Scroll,https://scroll.com/,marketing
+786,anvato.net,Anvato,https://www.anvato.com/,CDN
+787,tremorhub.com,Tremor International,https://www.tremorinternational.com/,marketing
+788,iris.tv,Iris.TV,https://www.iris.tv/,marketing
+789,spots.im,,,
+790,fncstatic.com,Fox News Channel,https://www.foxnews.com/,static server
+791,simplereach.com,Simplereach,simplereach.com,marketing
+792,directv.com,DIRECTV,https://www.directv.com/,first-party host
+793,xfinity.com,Comcast Corporation,https://corporate.comcast.com/,first-party host
+794,turner.com,"Turner Broadcasting System, Inc.",https://www.turner.com/,first-party host
+795,mariokarttour.com,Nintendo,https://www.nintendo.com/,marketing
+796,samsung-svoice.com,Samsung,www.samsung.com,marketing
+797,pinsightmedia.com,Pinsight Media+,https://pinsightmedia.com/,marketing
+798,yelp.com,Yelp,www.yelp.com,marketing
+799,allophone.net,Allophone,https://www.allophone.net/,DNS

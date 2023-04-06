@@ -1,0 +1,201 @@
+,remote_hostname,company,company_website,result
+2200,spd-mgts.ru,MGTS,https://www.mgts.ru/,static server
+2201,serverprofi24.com,ServerProfi24,https://www.serverprofi24.com/,static server
+2202,xkcd.com,xkcd,https://xkcd.com/,static server
+2203,perfectmarket.com,Perfect Market,https://www.perfectmarket.com/,Advertising
+2204,opecloud.com,OPE Cloud,https://www.opecloud.com/,CDN
+2205,pppoe.ca,Bell Canada,https://www.bell.ca/,DNS
+2206,amazon.com.mx,Amazon,amazon.com,e-commerce
+2207,usgs.gov,US Geological Survey,usgs.gov,static server
+2208,amazon.com.br,Amazon,https://www.amazon.com/,first-party host
+2209,mopidy.com,Mopidy,https://mopidy.com/,static server
+2210,squarespace.com,Squarespace,https://www.squarespace.com/,static server
+2211,me.me,ME.me,https://me.me/,meme sharing platform
+2212,herokudns.com,Heroku,https://www.heroku.com/,DNS
+2213,akadns6.net,Akamai Technologies,https://www.akamai.com/,DNS
+2214,elliemae.io,"Ellie Mae, Inc.",https://www.elliemae.com/,CDN
+2215,alarm.com,Alarm.com,https://www.alarm.com/,first-party host
+2216,devicetask.com,DeviceTask,devicetask.com,static server
+2217,mega.nz,Mega Limited,https://mega.nz/,static server
+2218,openload.co,Openload,https://openload.co/,static server
+2219,titlovi.com,Unknown,,first-party host
+2220,xiti.com,AT Internet,https://www.atinternet.com/,analytics
+2221,cellular.de,Deutsche Telekom AG,https://www.telekom.com/en,first-party host
+2222,shawcable.net,Shaw Communications Inc.,https://www.shaw.ca/,DNS
+2223,alphacdn.net,AlphaCDN,https://www.alphacdn.net/,CDN
+2224,hik-connect.com,Hikvision,https://www.hikvision.com,first-party host
+2225,ezvizlife.com,EZVIZ,https://www.ezvizlife.com/,first-party host
+2226,zdbb.net,,,DNS
+2227,dc-1.net,Unknown,,CDN
+2228,inner-active.mobi,Inneractive,https://www.inner-active.com/,advertising
+2229,swiftkey.com,Microsoft,https://www.microsoft.com/,marketing
+2230,adnxs.net,AppNexus,https://www.appnexus.com/,advertising
+2231,fastlylb.net,Fastly,https://www.fastly.com/,CDN
+2232,spiegel.de,Spiegel Online GmbH,https://www.spiegelgruppe.de/,first-party host
+2233,cdn77.com,CDN77,https://www.cdn77.com/,CDN
+2234,discord.media,Discord,https://discord.com/,CDN
+2235,discord.com,Discord Inc.,https://discord.com/,first-party host
+2236,reson8.com,Reson8,https://www.reson8.com/,marketing
+2237,leadpages.io,Leadpages,https://www.leadpages.com/,marketing
+2238,lpages.co,Leadpages,https://www.leadpages.com/,marketing
+2239,vilynx.com,Vilnyx,vilynx.com,video analytics
+2240,makeuseof.com,MakeUseOf,https://www.makeuseof.com/,first-party host
+2241,xbox.com,Microsoft Corporation,https://www.microsoft.com/,first-party host
+2242,hwcdn.net,Highwinds Network Group,https://highwinds.com/,CDN
+2243,eeroup.com,Eeroup,,invalid
+2244,e2ro.com,E2RO,e2ro.com,marketing
+2245,bwbx.io,Bloomberg,https://www.bloomberg.com/,CDN
+2246,raiplay.it,RAI - Radiotelevisione Italiana S.p.A.,https://www.rai.it/,first-party host
+2247,roksit.net,Roksit,https://roksit.net/,CDN
+2248,edigitalsurvey.com,eDigitalResearch,https://edigitalsurvey.com/,analytics
+2249,nibeuplink.com,NIBE,https://www.nibe.com/,first-party host
+2250,chirpbooks.com,ChirpBooks,https://www.chirpbooks.com/,e-commerce
+2251,control4.com,Control4 Corporation,https://www.control4.com/,first-party host
+2252,m2.ai,m2.ai,https://www.m2.ai/,static server
+2253,gettyimages.com,Getty Images,gettyimages.com,stock image provider
+2254,arstechnica.net,Ars Technica,https://arstechnica.com/,static server
+2255,iesnare.com,Equifax,https://www.equifax.com/,tracking
+2256,videoplayerhub.com,Video Player Hub,videoplayerhub.com,marketing
+2257,netnod.se,Netnod,https://www.netnod.se/,DNS
+2258,polycom.com,Polycom,https://www.poly.com/,first-party host
+2259,flashdance.cx,Unknown,Unknown,first-party host
+2260,fibianet.dk,Fibia A/S,https://www.fibia.dk/,first-party host
+2261,dscloud.biz,DS Cloud,https://www.dscloud.biz/,static server
+2262,logmeininc.com,LogMeIn Inc.,https://www.logmeininc.com/,first-party host
+2263,wia.cz,WIA (Wireless Internet and Application),https://www.wia.cz,first-party host
+2264,directwebhost.org,Direct Webhost,directwebhost.com,static server
+2265,cphub.net,cphub.net,https://cphub.net/,static server
+2266,cloud-xip.io,Cloud-XIP,https://www.cloud-xip.io/,CDN
+2267,scarabresearch.com,Scarab Research,https://scarabresearch.com/,analytics
+2268,pandasecurity.com,Panda Security,https://www.pandasecurity.com,marketing
+2269,gcdn.co,GlobalDots,https://www.globaldots.com/,CDN
+2270,goto-rtc.com,Goto RTC,https://www.goto-rtc.com/,CDN
+2271,ptd.net,Penteledata,https://www.ptd.net/,first-party host
+2272,getpostman.com,Postman,https://www.postman.com/,marketing
+2273,eye4.cn,eye4,https://www.eye4.cn/,tracking
+2274,blokada.org,Blokada,https://blokada.org/,DNS
+2275,fyu.se,Fyber,https://www.fyber.com/,CDN
+2276,abcd.network,ABCD Network,,DNS
+2277,netflixdnstest3.com,Netflix,https://www.netflix.com/,DNS
+2278,servenobid.com,ServeNobid,https://www.servenobid.com/,advertising
+2279,afterpay.com,Afterpay,https://www.afterpay.com/,payment service provider
+2280,auth0.com,Auth0,https://auth0.com/,authentication and authorization service provider
+2281,snopes.com,Snopes Media Group,http://www.snopesmedia.com/,fact-checking
+2282,adtpulse.com,ADT,https://www.adt.com/,first-party host
+2283,fast.com,Netflix,https://www.netflix.com/,CDN
+2284,17track.net,17TRACK,https://www.17track.net/,tracking
+2285,aerisapi.com,Aeris Communications,https://www.aeris.com/,CDN
+2286,artlogic.com,Artlogic,https://artlogic.net/,first-party host
+2287,truoptik.com,Tru Optik,https://truoptik.com/,analytics
+2288,ml314.com,Unknown,,Unknown
+2289,macpaw.com,MacPaw Inc.,https://macpaw.com/,marketing
+2290,shortpixel.ai,ShortPixel,https://shortpixel.com/,CDN
+2291,tencent.com,Tencent Holdings Limited,https://www.tencent.com/,first-party host
+2292,popin.cc,Pop In LLC,https://www.popin.co/,marketing
+2293,bdimg.com,Baidu,https://www.baidu.com/,CDN
+2294,dynamicyield.com,Dynamic Yield,https://www.dynamicyield.com/,marketing
+2295,queue-it.net,Queue-it,https://queue-it.com/,CDN
+2296,psychz.net,Psychz Networks,https://www.psychz.net/,CDN
+2297,ip-192-99-7.net,OVH Hosting,https://www.ovh.com/,CDN
+2298,apusapps.com,Apus Group,https://www.apusapps.com/,marketing
+2299,invokedapps.com,Invoked Apps,https://www.invokedapps.com/,marketing
+2300,chaturbate.com,Multi Media LLC,https://multi-media.com/,adult entertainment
+2301,exoticads.com,ExoticAds,https://exoticads.com/,advertising
+2302,wish.com,ContextLogic Inc.,https://www.contextlogic.com/,e-commerce
+2303,adzerk.net,Adzerk,https://adzerk.com/,advertising
+2304,papertrailapp.com,SolarWinds,https://www.solarwinds.com/,logging and monitoring
+2305,marketingautomation.services,Marketing Automation Services,,marketing
+2306,trustpilot.com,Trustpilot,trustpilot.com,marketing
+2307,samsungknowledge.com,Samsung,https://www.samsung.com/,marketing
+2308,healthgrades.com,Healthgrades,https://www.healthgrades.com/,first-party host
+2309,overkiz.com,Overkiz,https://www.overkiz.com/,CDN
+2310,nanoleaf.me,Nanoleaf,https://nanoleaf.me/,marketing
+2311,odaconline.com,ODAC,https://www.odac.com/,first-party host
+2312,quantcast.com,Quantcast Corporation,https://www.quantcast.com,analytics
+2313,nanorep.co,Nanorep,https://www.nanorep.com/,marketing
+2314,vrv.co,"Ellation, LLC",https://www.ellation.com/,video streaming platform
+2315,oraclecloud.net,Oracle Corporation,https://www.oracle.com,CDN
+2316,qualaroo.com,Qualaroo,https://qualaroo.com,analytics
+2317,coinbase.com,Coinbase,https://www.coinbase.com/,first-party host
+2318,leboncoin.fr,Leboncoin,www.leboncoin.fr,advertising
+2319,schibsted.io,Schibsted,https://www.schibsted.com/,CDN
+2320,avis-verifies.com,Avis Vérifiés,https://www.avis-verifies.com/,marketing
+2321,orange.com,Orange,www.orange.com,first-party host
+2322,algolia.net,Algolia,https://www.algolia.com/,CDN
+2323,hs-scripts.com,HubSpot,https://www.hubspot.com,tracking
+2324,wikihow.com,wikiHow,www.wikihow.com,static server
+2325,hsappstatic.net,Hubspot,https://www.hubspot.com/,static server
+2326,usemessages.com,UseMessages,https://usemessages.com/,marketing
+2327,bfmtv.com,NextRadioTV,https://www.nextradiotv.com/,news website and first-party host
+2328,nettvservices.com,NetTV Services,https://www.nettvservices.com/,CDN
+2329,zeasn.tv,Zeasn,https://www.zeasn.com/,CDN
+2330,tagcommander.com,Tealium,https://tealium.com/,tag management
+2331,newegg.com,Newegg Inc.,https://www.newegg.com/,e-commerce
+2332,kaspersky-labs.com,Kaspersky Labs,https://www.kaspersky.com/,marketing
+2333,kaspersky.com,Kaspersky,https://www.kaspersky.com/,first-party host
+2334,rach.io,Rachio,https://rachio.com/,marketing
+2335,nightowldvr.com,Night Owl,https://nightowlsp.com/,marketing
+2336,tawk.to,tawk.to,https://www.tawk.to/,analytics
+2337,lemde.fr,Lemde.fr,https://lemde.fr/,static server
+2338,pocket-image-cache.com,Mozilla Corporation,https://www.mozilla.org/,CDN
+2339,cluep.com,Cluep Inc.,https://cluep.com/,marketing
+2340,spotad.co,Spotad,https://spotad.co/,advertising
+2341,vrvm.com,,,DNS
+2342,rncdn7.com,RN MEDIA,https://rncdn7.com/,CDN
+2343,devshift.org,DevShift,https://www.devshift.org/,first-party host
+2344,frontiernetworks.ca,Frontier Networks,https://www.frontiernetworks.ca/,first-party host
+2345,web4net.org,Web4Net,https://web4net.com/,first-party host
+2346,sskru.ac.th,Suan Sunandha Rajabhat University,https://www.sskru.ac.th/,first-party host
+2347,kas-labs.com,KAS LABS,kas-labs.com,static server
+2348,groupme.com,Microsoft,https://www.microsoft.com/,first-party host
+2349,panasonic.com,Panasonic Corporation,https://www.panasonic.com/,first-party host
+2350,hgtv.com,"Discovery, Inc.",https://www.discovery.com/,marketing
+2351,pypi.org,Python Software Foundation,https://www.python.org/psf/,static server
+2352,dlvr.it,dlvr.it,https://dlvrit.com/,marketing
+2353,autofi.com,Autofi,https://www.autofi.com/,marketing
+2354,zenkube.com,Zenkube,https://www.zenkube.com/,static server
+2355,wtxcdn.com,WiredMinds GmbH,https://wiredminds.de/,CDN
+2356,zentrick.com,Zentrick,www.zentrick.com,advertising
+2357,quantummetric.com,Quantum Metric,https://www.quantummetric.com/,analytics
+2358,adspsp.com,Unknown,,advertising
+2359,l-msedge.net,Microsoft,https://www.microsoft.com/,CDN
+2360,surfshark.com,Surfshark,https://surfshark.com/,VPN service provider
+2361,alltrails.com,AllTrails,https://www.alltrails.com,first-party host
+2362,elta.com.tw,ELTA Technology,https://www.elta.com.tw/,static server
+2363,appbaqend.com,Baqend,https://www.baqend.com/,CDN
+2364,vodafone-ip.de,Vodafone GmbH,https://www.vodafone.de/,DNS
+2365,xtracloud.net,XtraCloud,https://xtracloud.net/,static server
+2366,buchholz-digital.de,Buchholz Digital,https://buchholz-digital.de/,first-party host
+2367,rupertok.su,Unknown,,Unknown
+2368,siftscience.com,Sift Science,https://sift.com/,analytics
+2369,ziffdavis.com,Ziff Davis,https://www.ziffdavis.com/,marketing
+2370,bahnhof.net,Bahnhof AB,https://www.bahnhof.net/,static server
+2371,vmware.com,VMware,https://www.vmware.com,first-party host
+2372,edstem.org,Edstem,https://edstem.org/,first-party host
+2373,gpsonextra.net,Unknown,,DNS
+2374,contentabc.com,,,Cannot determine the purpose of the URL as it is a generic domain name and doesn't provide information about the company or the purpose of the domain.
+2375,juicer.io,Juicer,https://www.juicer.io/,marketing
+2376,p2e.io,Polyient Games,https://polyient.games/,first-party host
+2377,usshc.com,U.S. Shipping and Handling Corp.,https://usshc.com/,first-party host
+2378,sunpowermonitor.com,SunPower Corporation,https://www.sunpower.com/,analytics
+2379,cardgamesolitaire.com,Card Game Solitaire,https://www.cardgamesolitaire.com,static server
+2380,cedexis-test.com,Cedexis,https://www.cedexis.com/,CDN
+2381,elizabethwarren.com,Elizabeth Warren,https://elizabethwarren.com/,first-party host
+2382,pagekite.net,Pagekite,https://pagekite.net/,CDN
+2383,b5p.us,,,DNS
+2384,mydrobo.com,Drobo,https://www.drobo.com/,first-party host
+2385,secu100.net,SECURITY 100 GmbH,https://security100.net/,static server
+2386,xmeye.net,"Xiongmai Technology Co., Ltd.",http://en.xm.com,surveillance camera management and control platform
+2387,ckt.net,CKT.net,https://www.ckt.net/,first-party host
+2388,mynet.it,Mynet Srl,http://www.mynet.it/,first-party host
+2389,chartboost.com,Chartboost,https://www.chartboost.com/,advertising
+2390,sc-gw.com,Smart Communications,https://smart.com.ph/,CDN
+2391,airtelbroadband.in,Airtel,https://www.airtel.in/,static server
+2392,foxneodigital.com,FoxNeo Digital Marketing,https://www.foxneodigital.com/,marketing
+2393,vivaldi.com,Vivaldi Technologies AS,https://vivaldi.com/,first-party host
+2394,soletechnology.com,"Sole Technology, Inc.",https://soletechnology.com/,static server
+2395,puregig.net,Puregig,https://puregig.net/,CDN
+2396,protect-your-privacy.net,Protect Your Privacy,protect-your-privacy.net,marketing
+2397,bonzapuzzles.com,Bonzapuzzles,https://www.bonzapuzzles.com/,static server
+2398,ljusnet.se,Ljusnet AB,https://www.ljusnet.se/,static server
+2399,ogury.io,Ogury Ltd.,https://ogury.com/,marketing

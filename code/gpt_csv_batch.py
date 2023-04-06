@@ -4,13 +4,14 @@ import pandas as pd
 import time
 import json
 import prompts
+import re
 
 
 # generate your api key on https://platform.openai.com/account/api-keys
 # and set up your key in OS (https://help.openai.com/en/articles/5112595-best-practices-for-api-key-safety)
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
-domains = pd.read_csv("../data/domains.csv")
+domains = pd.read_csv("./data/domains.csv")
 
 domains.insert(len(domains.columns), 'company', "")
 domains.insert(len(domains.columns), 'company_website', "")
@@ -19,7 +20,7 @@ domains.insert(len(domains.columns), 'result', "")
 total_count = len(domains)
 step = 200
 
-for start in range(0, total_count, step):
+for start in range(2600, total_count, step):
 
     start_time = time.time()
 
@@ -38,7 +39,7 @@ for start in range(0, total_count, step):
                     {"role": "user", "content": URL},
                 ],
                 n=1,
-                temperature=0.85,
+                temperature=1,
             )
             
             
@@ -56,7 +57,7 @@ for start in range(0, total_count, step):
                     {"role": "user", "content": URL},
                 ],
                 n=1,
-                temperature=0.85,
+                temperature=1,
             )
            
             continue
@@ -65,14 +66,31 @@ for start in range(0, total_count, step):
         print(completion.choices[0].message.content)
         try:
             resp = json.loads(completion.choices[0].message.content)
-            domains.loc[i, ['company','company_website','result']] = [resp['company'], resp['company_website'], resp['result']]
+            res = ""
+            if 'result' in resp:
+                res = resp['result']
+            else:
+                res = resp['purpose']
+            domains.loc[i, ['company','company_website','result']] = [resp['company'], resp['company_website'], res]
         except Exception:
             print('=======================' + str(i) + ' is wrong =======================')
+
+            start_index = completion.choices[0].message.content.find('{')
+            end_index = completion.choices[0].message.content.rfind('}')
+            json_str = completion.choices[0].message.content[start_index:end_index + 1]
+            resp = json.loads(json_str)
+            res = ""
+            if 'result' in resp:
+                res = resp['result']
+            else:
+                res = resp['purpose']
+            domains.loc[i, ['company','company_website','result']] = [resp['company'], resp['company_website'], res]
+
             continue
     
     
 
-    filename = "../data/full/prompt2/answers_" + str(start) + ".csv"
+    filename = "./data/full/haoran/prompt3/answers_" + str(start) + ".csv"
 
     domains.loc[list(range(start, min(start + step, total_count)))].to_csv(filename)  # , index=False
 

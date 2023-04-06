@@ -1,0 +1,1 @@
+prompt3, temp=1. before: 0.85

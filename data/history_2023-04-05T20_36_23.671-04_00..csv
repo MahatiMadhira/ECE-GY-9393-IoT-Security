@@ -1,0 +1,182 @@
+createdAt,completionMode,prompt,suffix,instruction,completion,logProbs,stopSequence,startSequence,restartSequence,model,responseLength,temperature,topP,frequencyPenalty,presencePenalty,bestOf
+"1680741291486","chat","{""result"": ""This URL is the main website for Pornhub, a popular adult entertainment website that features videos, photos, and live streams.""}",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680741283267","chat","{""result"": ""This URL is a Content Delivery Network (CDN) for video content, delivering online video content for various websites and video platforms.""}",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680741265789","chat","I'm glad you like it! Let me know if you have any other questions.",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680741254924","chat","Okay, here's a shorter response for githubassets.com:
+
+{""result"": ""CDN for GitHub static assets: images, JavaScript, CSS files""}",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680741241929","chat","{""result"": ""This URL is a Content Delivery Network (CDN) for GitHub, delivering static assets such as images, JavaScript, and CSS files for GitHub.com.""}",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680741131818","chat","{""result"": ""Web-based hosting service for version control using Git""}",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680741125548","chat","You're welcome! Let me know if you have any other questions.",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680741115840","chat","Okay, noted. Here's the response for www.leetcode.com in a shorter format:
+
+{""result"": ""Programming interview questions, coding competitions, developer job opportunities""}",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680741038919","chat","{""result"": ""This URL is not a CDN, but rather the main website for LeetCode, which provides access to their programming interview questions, coding competitions, and other related services.""}",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680741023350","chat","{""result"": ""This URL is a Content Delivery Network (CDN) for Allrecipes, delivering image and video content for the recipes displayed on Allrecipes website.""}",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680741011389","chat","Sure! Here are some sources that confirm that Azure Edge Network is a CDN solution offered by Microsoft Azure:
+
+1. Microsoft Azure documentation on CDN: https://docs.microsoft.com/en-us/azure/cdn/cdn-overview
+2. Microsoft Azure documentation on Azure Edge Network: https://docs.microsoft.com/en-us/azure/cdn/cdn-edge-overview
+3. Microsoft Azure blog post on Azure Edge Network: https://azure.microsoft.com/en-us/blog/announcing-azure-edge-networking/
+4. CDN Planet page on Azure CDN: https://www.cdnplanet.com/content-delivery-networks/azure-cdn/ 
+
+I hope this helps!",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680740989334","chat","Yes, that is correct. Azure Edge Network is a global CDN solution offered by Microsoft Azure that delivers content including static files, dynamic content, media files, and web pages.",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680740968796","chat","{""result"": ""This URL is a Content Delivery Network (CDN) for Microsoft Azure, delivering various types of content including images, videos, web pages, and software updates.""}",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680740957085","chat","{""result"": ""Content Delivery Network for Apple, delivers images, videos, audios, software updates""}",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680740939502","chat","{""result"": ""This URL is not a CDN, but rather the main website for Netflix, which provides access to their streaming services.""}",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680740927326","chat","{""result"": ""This URL is a Content Delivery Network (CDN) for Netflix, delivering video and audio content.""}",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680740907647","chat","{""result"": ""This URL is a domain owned by the AMP (Accelerated Mobile Pages) Project, which provides an open-source framework for creating fast and optimized web pages. This is not a CDN, but rather a domain used for serving AMP content.""}",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680740898119","chat","{""result"": ""This URL is a Content Delivery Network (CDN) for Amazon Video, delivering video and audio content.""}",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680740888537","chat","Great, happy to help! Let me know if you need further assistance.",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680740868403","chat","Okay, here's the response in string format separated by comma:
+
+`{""result"": ""Content Delivery Network for Apple, delivers images, videos, audios, software updates""}`",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680740813327","chat","{
+  ""result"": {
+    ""content_types_delivered"": [
+      ""images"",
+      ""videos"",
+      ""audios"",
+      ""software updates""
+    ],
+    ""purpose"": ""Content Delivery Network for Apple""
+  }
+}",,"You are a network expert. Check if the URL is a CDN. Answer ONLY in JSON format with a 'result' field (point out content types delivered by the CDN or the actual purpose of the URL if it is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.85","1","0","0","1"
+"1680733966246","chat","{
+  ""result"": ""Not a CDN""
+}",,"You are a network expert. Check if the URL is for a CDN. Answer ONLY in JSON format with following field: 'result' (specific content type the CDN delivers or real purpose of the URL)","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680733951091","chat","{
+  ""result"": ""Not a CDN""
+}",,"You are a network expert. Check if the URL is for a CDN. Answer ONLY in JSON format with following field: 'result' (specific content type the CDN delivers or purpose of the URL)","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680733941273","chat","{
+  ""result"": ""CDN for delivering streaming video and audio content""
+}",,"You are a network expert. Check if the URL is for a CDN. Answer ONLY in JSON format with following field: 'result' (specific content type the CDN delivers or purpose of the URL)","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680733933245","chat","{
+  ""result"": ""CDN for delivering streaming video content""
+}",,"You are a network expert. Check if the URL is for a CDN. Answer ONLY in JSON format with following field: 'result' (specific content type the CDN delivers or purpose of the URL)","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680733918371","chat","{
+  ""result"": ""CDN for delivering Apple software updates, apps, music, movies, and other digital content""
+}",,"You are a network expert. Check if the URL is for a CDN. Answer ONLY in JSON format with following field: 'result' (specific content type the CDN delivers or purpose of the URL)","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680733905853","chat","{
+  ""result"": ""CDN for delivering recipe images and videos""
+}",,"You are a network expert. Check if the URL is for a CDN. Answer ONLY in JSON format with following field: 'result' (specific content type the CDN delivers or purpose of the URL)","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680733886972","chat","{
+  ""result"": ""CDN for delivering static content""
+}",,"You are a network expert. Check if the URL is for a CDN. Answer ONLY in JSON format with following field: 'result' (specific content type the CDN delivers or purpose of the URL)","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680733434085","chat","{
+   ""result"": ""content delivery network (CDN)""
+}
+
+Sc-static.net is a content delivery network (CDN) used to deliver high-bandwidth content such as images, videos, and other static assets to users quickly and efficiently. It is primarily used by SoundCloud, a music and podcast streaming platform, to serve their content to users around the world.",,"You are a network expert. Check if the URL is for a CDN. Answer ONLY in JSON format with following field: 'result' (specific content type the CDN delivers if yes, purpose of the URL if no)","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680733400153","chat","{
+   ""result"": ""content delivery network (CDN)""
+}
+
+Sc-static.net is a content delivery network (CDN) used to deliver high-bandwidth content such as images, videos, and other static assets to users quickly and efficiently. It is primarily used by SoundCloud, a music and podcast streaming platform, to serve their content to users around the world.",,"You are a network expert. Check if the URL is for a CDN. Answer ONLY in JSON format with following field: 'result' (content type the CDN hosts if yes, purpose of the URL if no)","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680733380326","chat","{
+   ""result"": ""Windows operating system updates""
+}
+
+Windowsupdate.com is not a CDN, it is a domain used by Microsoft to distribute updates for the Windows operating system. It is used to download and install critical security patches, bug fixes, and other updates for the Windows operating system.",,"You are a network expert. Check if the URL is for a CDN. Answer in JSON format with following field: 'result' (content type the CDN hosts if yes, purpose of the URL if no)","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680733368173","chat","{
+   ""result"": ""content delivery network (CDN)""
+} 
+
+Azureedge.net is a content delivery network (CDN) which is used to deliver high-bandwidth content such as images, videos, and other static assets to users quickly and efficiently.",,"You are a network expert. Check if the URL is for a CDN. Answer in JSON format with following field: 'result' (content type the CDN hosts if yes, purpose of the URL if no)","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680733322104","chat","{
+    ""result"": ""CDN""
+}",,"You are a network expert. Check if the URL is for a CDN. Answer in JSON format with following field: 'result' (content type if the URL is a CDN, purpose if the URL is not a CDN)","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680733217958","chat","Sure! Here's the JSON response for `azureedge.net`:
+
+```
+{
+    ""result"": {
+        ""cdn"": true,
+        ""content_type"": ""varies depending on the specific service that uses it""
+    }
+}
+```
+
+The `result` field contains a boolean `cdn` that is set to `true` since `azureedge.net` is a Content Delivery Network. The `content_type` field indicates that the type of content hosted by the CDN varies depending on the specific service that uses it.",,"You are a network expert. Check if the URL is for a CDN. If yes, tell me what type of content it hosts, if no, tell me what the purpose of the URL. Response in JSON format with a string type 'result' field to hold your answer.","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680733191215","chat","```
+{
+    ""result"": ""CDN hosting <content type>""
+}
+```
+
+Based on the URL `azureedge.net`, it is a Content Delivery Network (CDN) and it is used by Microsoft Azure. The content type that it hosts may vary depending on the specific service that uses it.",,"You are a network expert. Check if the URL is for a CDN. If yes, tell me what type of content it hosts, if no, tell me what the purpose of the URL. Response in JSON format with a string type 'result' field to hold your answer.","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680733167234","chat","You're welcome! Let me know if you have any other questions.",,"You are a network expert. Check if the URL is for a CDN. If yes, tell me what type of content it hosts, if no, tell me what the purpose of the URL. Response in JSON format with a string type 'result' field to hold your answer.","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680733160607","chat","Sure, here's another updated response with just the content type or purpose:
+
+If the URL is for a CDN:
+```
+{
+    ""result"": ""CDN hosting <content type>""
+}
+```
+
+If the URL is not for a CDN:
+```
+{
+    ""result"": ""<purpose>""
+}
+```",,"You are a network expert. Check if the URL is for a CDN. If yes, tell me what type of content it hosts, if no, tell me what the purpose of the URL. Response in JSON format with a string type 'result' field to hold your answer.","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680733121357","chat","Sure, here's the updated response without nested JSON:
+
+If the URL is for a CDN:
+```
+{
+    ""result"": ""The URL is for a CDN hosting <content type>.""
+}
+```
+
+If the URL is not for a CDN:
+```
+{
+    ""result"": ""The purpose of the URL is <purpose>.""
+}
+```",,"You are a network expert. Check if the URL is for a CDN. If yes, tell me what type of content it hosts, if no, tell me what the purpose of the URL. Response in JSON format with a string type 'result' field to hold your answer.","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680733085359","chat","{
+    ""result"": {
+        ""cdn"": false,
+        ""purpose"": ""Windows Update service""
+    }
+}",,"You are a network expert. Check if the URL is for a CDN. If yes, tell me what type of content it hosts, if no, tell me what the purpose of the URL. Response in JSON format with a string type 'result' field to hold your answer.","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680733049429","chat","{
+    ""result"": {
+        ""cdn"": true,
+        ""content_type"": ""recipes media""
+    }
+}",,"You are a network expert. Check if the URL is for a CDN. If yes, tell me what type of content it hosts, if no, tell me what the purpose of the URL. Response in JSON format with 'result' field to hold your answer","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680647741185","chat","{
+    ""company"": ""Verizon"",
+    ""company_website"": ""https://www.verizon.com/"",
+    ""purpose"": ""first-party host""
+}",,"You are a network expert identifying URLs. Determine the purpose of the URL and provide the following information in a JSON format:
+""company"": the name of the company that owns the URL; ""company_website"": the website of the company; ""purpose"": the purpose of the domain (choose one out of the options: tracking, marketing, advertising, analytics, CDN, static server, DNS, first-party host) 
+Make sure to only provide information that is publicly available and do not violate any privacy or security laws.","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680647684634","chat","I'm sorry, but I cannot determine the purpose of giize.com as the website appears to be inactive or non-existent.",,"You are a network expert identifying URLs. Determine the purpose of the URL and provide the following information in a JSON format:
+""company"": the name of the company that owns the URL; ""company_website"": the website of the company; ""purpose"": the purpose of the domain (choose one out of the options: tracking, marketing, advertising, analytics, CDN, static server, DNS, first-party host) 
+Make sure to only provide information that is publicly available and do not violate any privacy or security laws.","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680647669237","chat","{
+    ""company"": ""Princeton University"",
+    ""company_website"": ""https://www.princeton.edu/"",
+    ""purpose"": ""IoT security research""
+}",,"You are a network expert identifying URLs. Determine the purpose of the URL and provide the following information in a JSON format:
+""company"": the name of the company that owns the URL; ""company_website"": the website of the company; ""purpose"": the purpose of the domain (choose one out of the options: tracking, marketing, advertising, analytics, CDN, static server, DNS, first-party host) 
+Make sure to only provide information that is publicly available and do not violate any privacy or security laws.","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680647642444","chat","{
+    ""company"": ""CDN77"",
+    ""company_website"": ""https://www.cdn77.com/"",
+    ""purpose"": ""CDN""
+}",,"You are a network expert identifying URLs. Determine the purpose of the URL and provide the following information in a JSON format:
+""company"": the name of the company that owns the URL; ""company_website"": the website of the company; ""purpose"": the purpose of the domain (choose one out of the options: tracking, marketing, advertising, analytics, CDN, static server, DNS, first-party host) 
+Make sure to only provide information that is publicly available and do not violate any privacy or security laws.","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"
+"1680647609841","chat","{
+    ""company"": ""Amazon"",
+    ""company_website"": ""https://www.amazon.com/"",
+    ""purpose"": ""e-commerce""
+}",,"You are a network expert identifying URLs. Determine the purpose of the URL and provide the following information in a JSON format:
+""company"": the name of the company that owns the URL; ""company_website"": the website of the company; ""purpose"": the purpose of the domain (choose one out of the options: tracking, marketing, advertising, analytics, CDN, static server, DNS, first-party host) 
+Make sure to only provide information that is publicly available and do not violate any privacy or security laws.","",,"","","","gpt-3.5-turbo","256","0.7","1","0","0","1"

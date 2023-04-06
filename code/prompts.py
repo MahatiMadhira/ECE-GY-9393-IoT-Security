@@ -7,3 +7,13 @@ prompt3 = ""
 prompt4 = ""
 
 prompt5 = ""
+
+cdn_prompt = "You are a network expert. Check if the URL is for a CDN. Answer ONLY in JSON format with following field: 'result' (specific content type the CDN delivers or real purpose of the URL)"
+
+# {
+#   "result": "Not a CDN"
+# }
+
+# {
+#   "result": "CDN for delivering Apple software updates, apps, music, movies, and other digital content"
+# }

@@ -4,7 +4,6 @@ import pandas as pd
 import time
 import json
 import prompts
-import re
 
 
 # generate your api key on https://platform.openai.com/account/api-keys
@@ -12,13 +11,29 @@ import re
 openai.api_key = os.environ["OPENAI_API_KEY"]
 
 domains = pd.read_csv("./data/domains.csv")
-
 domains.insert(len(domains.columns), 'company', "")
 domains.insert(len(domains.columns), 'company_website', "")
 domains.insert(len(domains.columns), 'result', "")
 
 total_count = len(domains)
 step = 200
+temperature = 1
+prompt = prompts.prompt2
+
+def gpt_query(URL, temperature, prompt):
+    completion = openai.ChatCompletion.create(
+                model="gpt-3.5-turbo",
+                messages=[
+                    {
+                        "role": "system",
+                        "content": prompt,
+                    },
+                    {"role": "user", "content": URL},
+                ],
+                n=1,
+                temperature=temperature,
+            )
+    return completion
 
 for start in range(2600, total_count, step):
 
@@ -29,38 +44,11 @@ for start in range(2600, total_count, step):
         completion = None
         try:
             URL = domains.iloc[i]["remote_hostname"]
-            completion = openai.ChatCompletion.create(
-                model="gpt-3.5-turbo",
-                messages=[
-                    {
-                        "role": "system",
-                        "content": prompts.prompt2,
-                    },
-                    {"role": "user", "content": URL},
-                ],
-                n=1,
-                temperature=1,
-            )
-            
-            
-
+            completion = gpt_query(URL, temperature, prompt)
         except Exception as e:
             print(str(e))
             time.sleep(8)
-            completion = openai.ChatCompletion.create(
-                model="gpt-3.5-turbo",
-                messages=[
-                    {
-                        "role": "system",
-                        "content": prompts.prompt2,
-                    },
-                    {"role": "user", "content": URL},
-                ],
-                n=1,
-                temperature=1,
-            )
-           
-            continue
+            completion = gpt_query(URL, temperature, prompt)
         
         # convert str to json
         print(completion.choices[0].message.content)
@@ -73,19 +61,20 @@ for start in range(2600, total_count, step):
                 res = resp['purpose']
             domains.loc[i, ['company','company_website','result']] = [resp['company'], resp['company_website'], res]
         except Exception:
-            print('=======================' + str(i) + ' is wrong =======================')
-
-            start_index = completion.choices[0].message.content.find('{')
-            end_index = completion.choices[0].message.content.rfind('}')
-            json_str = completion.choices[0].message.content[start_index:end_index + 1]
-            resp = json.loads(json_str)
-            res = ""
-            if 'result' in resp:
-                res = resp['result']
-            else:
-                res = resp['purpose']
-            domains.loc[i, ['company','company_website','result']] = [resp['company'], resp['company_website'], res]
-
+            try:
+                print('=======================' + str(i) + ' is wrong =======================')
+                start_index = completion.choices[0].message.content.find('{')
+                end_index = completion.choices[0].message.content.rfind('}')
+                json_str = completion.choices[0].message.content[start_index:end_index + 1]
+                resp = json.loads(json_str)
+                res = ""
+                if 'result' in resp:
+                    res = resp['result']
+                else:
+                    res = resp['purpose']
+                domains.loc[i, ['company','company_website','result']] = [resp['company'], resp['company_website'], res]
+            except:
+                continue
             continue
     
     

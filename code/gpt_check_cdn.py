@@ -18,7 +18,7 @@ domains.insert(len(domains.columns), 'result', "")
 total_count = len(domains)  # length of the dataset
 step = 200
 temperature = 1
-prompt = prompts.prompt3
+prompt = prompts.prompt2
 
 def gpt_query(URL, temperature, prompt):
     completion = openai.ChatCompletion.create(
@@ -35,7 +35,7 @@ def gpt_query(URL, temperature, prompt):
             )
     return completion
 
-for start in range(0, total_count, step):
+for start in range(3400, total_count, step):
 
     start_time = time.time()
 
@@ -47,7 +47,6 @@ for start in range(0, total_count, step):
             completion = gpt_query(URL, temperature, prompt)
         except Exception as e:
             completion = gpt_query(URL, temperature, prompt)
-            continue
 
         # convert str to json
         print(completion.choices[0].message.content)
@@ -58,14 +57,23 @@ for start in range(0, total_count, step):
                 res = resp['result']
             else:
                 res = resp['purpose']
-            
-            # cdn fine-grained
-            if 'CDN' in res or 'cdn' in res:
-                pass
 
             domains.loc[i, ['company','company_website','result']] = [resp['company'], resp['company_website'], res]
         except Exception:
-            print('=======================' + str(i) + ' is wrong =======================')
+            try:
+                print('=======================' + str(i) + ' is wrong =======================')
+                start_index = completion.choices[0].message.content.find('{')
+                end_index = completion.choices[0].message.content.rfind('}')
+                json_str = completion.choices[0].message.content[start_index:end_index + 1]
+                resp = json.loads(json_str)
+                res = ""
+                if 'result' in resp:
+                    res = resp['result']
+                else:
+                    res = resp['purpose']
+                domains.loc[i, ['company','company_website','result']] = [resp['company'], resp['company_website'], res]
+            except:
+                continue
             continue
 
     filename = "./data/full/haoran/prompt3/answers_" + str(start) + ".csv"
